@@ -1,0 +1,1001 @@
+order_id,customer_id,restaurant_id,order_time,order_value,payment_mode,order_status,name,city,signup_date,name_rest,cuisine_type,city_rest,rating,delivery_agent_id,delivery_time_mins,distance_km
+ORD0001,CUST070,REST028,2026-01-16 23:20:00,210.02,COD,Cancelled,Customer 70,Mumbai,2025-01-30,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD0002,CUST065,REST001,2026-05-16 05:03:00,1158.82,Credit Card,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 1,South Indian,Hyderabad,3.8,AGNT013,41.0,11.4
+ORD0003,CUST009,REST005,2026-06-02 02:43:00,1054.91,UPI,Delivered,Customer 9,Chennai,2025-07-05,Restaurant 5,Biryani,Delhi,4.3,AGNT046,27.0,5.2
+ORD0004,CUST073,REST004,2026-03-05 18:38:00,191.73,COD,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 4,South Indian,Mumbai,4.7,AGNT049,62.0,8.5
+ORD0005,CUST085,REST027,2026-05-30 18:33:00,482.19,Credit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 27,North Indian,Delhi,3.7,AGNT043,58.0,11.5
+ORD0006,CUST086,REST018,2026-07-03 10:15:00,428.9,COD,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 18,South Indian,Delhi,4.9,AGNT035,35.0,11.9
+ORD0007,CUST083,REST021,2026-03-18 14:20:00,1125.47,UPI,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 21,South Indian,Mumbai,4.1,AGNT006,29.0,6.9
+ORD0008,CUST059,REST011,2026-06-09 18:06:00,226.92,Net Banking,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 11,North Indian,Bangalore,4.7,AGNT049,64.0,3.0
+ORD0009,CUST034,REST018,2026-02-03 11:56:00,222.23,Debit Card,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 18,South Indian,Delhi,4.9,AGNT049,22.0,6.3
+ORD0010,CUST037,REST017,2026-02-10 14:53:00,720.38,Net Banking,Delivered,Customer 37,Chennai,2025-11-25,Restaurant 17,North Indian,Chennai,4.0,AGNT030,35.0,2.8
+ORD0011,CUST084,REST007,2026-05-16 00:42:00,1007.96,COD,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT037,29.0,6.6
+ORD0012,CUST014,REST009,2026-02-04 08:07:00,1084.2,Credit Card,Cancelled,Customer 14,Chennai,2025-02-16,Restaurant 9,North Indian,Chennai,4.9,,,
+ORD0013,CUST035,REST018,2026-03-14 19:13:00,903.49,COD,Delivered,Customer 35,Bangalore,2025-10-02,Restaurant 18,South Indian,Delhi,4.9,AGNT009,21.0,3.9
+ORD0014,CUST082,REST013,2026-03-09 16:31:00,413.68,UPI,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 13,South Indian,Delhi,4.2,AGNT006,30.0,11.4
+ORD0015,CUST082,REST009,2026-04-19 08:02:00,153.72,COD,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 9,North Indian,Chennai,4.9,AGNT045,62.0,1.8
+ORD0016,CUST034,REST024,2026-02-11 23:28:00,729.26,Net Banking,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 24,Biryani,Hyderabad,4.9,AGNT030,41.0,9.2
+ORD0017,CUST002,REST006,2026-01-29 02:56:00,875.57,Net Banking,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 6,South Indian,Delhi,3.6,AGNT007,27.0,10.2
+ORD0018,CUST005,REST014,2026-04-05 18:35:00,305.5,UPI,Delivered,Customer 5,Mumbai,2025-10-27,Restaurant 14,Desserts,Delhi,3.8,AGNT030,39.0,6.7
+ORD0019,CUST040,REST006,2026-04-04 01:57:00,525.7,COD,Delivered,Customer 40,Bangalore,2025-05-31,Restaurant 6,South Indian,Delhi,3.6,AGNT020,29.0,1.8
+ORD0020,CUST014,REST013,2026-04-01 17:56:00,1068.45,COD,Cancelled,Customer 14,Chennai,2025-02-16,Restaurant 13,South Indian,Delhi,4.2,,,
+ORD0021,CUST020,REST023,2026-03-02 05:51:00,1001.31,UPI,Delivered,Customer 20,Hyderabad,2025-12-15,Restaurant 23,North Indian,Mumbai,4.8,AGNT044,19.0,3.4
+ORD0022,CUST023,REST019,2026-07-08 10:50:00,1127.36,Debit Card,Delivered,Customer 23,Delhi,2025-02-02,Restaurant 19,South Indian,Bangalore,3.9,AGNT042,45.0,7.8
+ORD0023,CUST021,REST015,2026-06-29 03:24:00,1065.78,Credit Card,Delivered,Customer 21,Mumbai,2025-08-05,Restaurant 15,Desserts,Chennai,4.1,AGNT046,52.0,4.9
+ORD0024,CUST026,REST021,2026-04-28 11:19:00,1011.56,Credit Card,Delivered,Customer 26,Hyderabad,2025-11-02,Restaurant 21,South Indian,Mumbai,4.1,AGNT050,46.0,4.7
+ORD0025,CUST004,REST013,2026-06-18 06:25:00,494.68,Debit Card,Delivered,Customer 4,Mumbai,2025-05-15,Restaurant 13,South Indian,Delhi,4.2,AGNT030,18.0,8.0
+ORD0026,CUST045,REST011,2026-06-14 16:25:00,863.49,Debit Card,Cancelled,Customer 45,Delhi,2025-05-15,Restaurant 11,North Indian,Bangalore,4.7,,,
+ORD0027,CUST004,REST004,2026-01-30 08:11:00,759.62,UPI,Delivered,Customer 4,Mumbai,2025-05-15,Restaurant 4,South Indian,Mumbai,4.7,AGNT031,42.0,9.5
+ORD0028,CUST014,REST005,2026-06-02 13:22:00,914.97,COD,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 5,Biryani,Delhi,4.3,AGNT015,24.0,8.4
+ORD0029,CUST078,REST009,2026-05-11 03:24:00,1094.48,Debit Card,Delivered,Customer 78,Delhi,2025-03-06,Restaurant 9,North Indian,Chennai,4.9,AGNT015,28.0,7.0
+ORD0030,CUST006,REST014,2026-07-01 13:00:00,695.92,COD,Cancelled,Customer 6,Mumbai,2025-08-08,Restaurant 14,Desserts,Delhi,3.8,,,
+ORD0031,CUST093,REST013,2026-07-09 23:42:00,356.89,UPI,Delivered,Customer 93,Bangalore,2025-06-09,Restaurant 13,South Indian,Delhi,4.2,AGNT010,54.0,6.7
+ORD0032,CUST086,REST016,2026-03-26 19:20:00,846.56,COD,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 16,South Indian,Chennai,3.6,AGNT040,44.0,6.4
+ORD0033,CUST039,REST027,2026-05-10 09:42:00,578.81,COD,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 27,North Indian,Delhi,3.7,AGNT017,26.0,4.6
+ORD0034,CUST038,REST023,2026-05-22 04:12:00,591.47,COD,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 23,North Indian,Mumbai,4.8,AGNT024,39.0,6.7
+ORD0035,CUST096,REST007,2026-02-14 19:36:00,466.0,UPI,Cancelled,Customer 96,Delhi,2025-11-29,Restaurant 7,Burgers & Pizza,Mumbai,4.9,,,
+ORD0036,CUST039,REST027,2026-03-15 06:27:00,975.05,COD,Cancelled,Customer 39,Chennai,2025-02-27,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0037,CUST042,REST022,2026-04-30 14:28:00,859.41,COD,Cancelled,Customer 42,Hyderabad,2025-03-22,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0038,CUST095,REST017,2026-02-13 21:05:00,447.98,Debit Card,Cancelled,Customer 95,Delhi,2025-12-10,Restaurant 17,North Indian,Chennai,4.0,,,
+ORD0039,CUST012,REST023,2026-07-12 07:43:00,475.94,Credit Card,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 23,North Indian,Mumbai,4.8,AGNT026,38.0,6.8
+ORD0040,CUST004,REST029,2026-01-12 07:30:00,791.84,COD,Delivered,Customer 4,Mumbai,2025-05-15,Restaurant 29,North Indian,Bangalore,4.9,AGNT012,23.0,7.2
+ORD0041,CUST054,REST007,2026-06-11 18:12:00,904.26,COD,Delivered,Customer 54,Hyderabad,2025-11-08,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT045,44.0,10.0
+ORD0042,CUST052,REST013,2026-03-04 04:41:00,872.0,COD,Delivered,Customer 52,Hyderabad,2025-11-24,Restaurant 13,South Indian,Delhi,4.2,AGNT043,61.0,7.2
+ORD0043,CUST029,REST030,2026-02-15 22:33:00,637.78,Credit Card,Cancelled,Customer 29,Mumbai,2025-05-09,Restaurant 30,Desserts,Delhi,4.3,,,
+ORD0044,CUST016,REST004,2026-04-27 04:51:00,637.88,Net Banking,Cancelled,Customer 16,Mumbai,2025-02-26,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0045,CUST077,REST004,2026-03-23 14:39:00,1005.76,COD,Cancelled,Customer 77,Mumbai,2025-09-30,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0046,CUST071,REST022,2026-04-25 05:47:00,1054.57,Debit Card,Delivered,Customer 71,Bangalore,2025-05-04,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT022,27.0,1.7
+ORD0047,CUST097,REST017,2026-03-05 20:17:00,954.1,COD,Cancelled,Customer 97,Delhi,2025-07-11,Restaurant 17,North Indian,Chennai,4.0,,,
+ORD0048,CUST081,REST028,2026-03-03 08:28:00,231.36,Credit Card,Delivered,Customer 81,Hyderabad,2025-09-01,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT021,55.0,9.5
+ORD0049,CUST035,REST003,2026-03-27 10:57:00,717.16,Credit Card,Delivered,Customer 35,Bangalore,2025-10-02,Restaurant 3,North Indian,Delhi,4.1,AGNT030,37.0,11.9
+ORD0050,CUST030,REST009,2026-04-09 22:09:00,891.74,COD,Delivered,Customer 30,Delhi,2025-10-11,Restaurant 9,North Indian,Chennai,4.9,AGNT032,32.0,10.7
+ORD0051,CUST053,REST018,2026-03-26 17:29:00,586.56,COD,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 18,South Indian,Delhi,4.9,AGNT002,27.0,2.8
+ORD0052,CUST050,REST022,2026-07-17 18:44:00,170.51,COD,Cancelled,Customer 50,Hyderabad,2025-11-17,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0053,CUST062,REST028,2026-01-02 11:19:00,941.15,Net Banking,Delivered,Customer 62,Chennai,2025-11-03,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT005,36.0,6.2
+ORD0054,CUST096,REST018,2026-07-08 17:51:00,783.42,COD,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 18,South Indian,Delhi,4.9,AGNT031,23.0,10.5
+ORD0055,CUST029,REST023,2026-03-11 13:31:00,180.48,COD,Delivered,Customer 29,Mumbai,2025-05-09,Restaurant 23,North Indian,Mumbai,4.8,AGNT008,17.0,6.1
+ORD0056,CUST087,REST010,2026-04-14 23:10:00,1032.53,Net Banking,Delivered,Customer 87,Bangalore,2025-08-05,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT023,59.0,1.9
+ORD0057,CUST069,REST012,2026-01-07 12:37:00,742.61,UPI,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 12,South Indian,Delhi,3.7,AGNT031,51.0,3.4
+ORD0058,CUST083,REST026,2026-04-20 04:55:00,634.78,Debit Card,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 26,Chinese,Mumbai,4.5,AGNT030,18.0,8.4
+ORD0059,CUST049,REST020,2026-03-25 06:29:00,493.19,Debit Card,Delivered,Customer 49,Chennai,2025-02-24,Restaurant 20,Biryani,Chennai,4.6,AGNT011,32.0,9.7
+ORD0060,CUST097,REST015,2026-04-18 08:53:00,236.0,COD,Delivered,Customer 97,Delhi,2025-07-11,Restaurant 15,Desserts,Chennai,4.1,AGNT019,23.0,10.8
+ORD0061,CUST070,REST001,2026-01-14 11:14:00,832.65,UPI,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 1,South Indian,Hyderabad,3.8,AGNT050,22.0,3.2
+ORD0062,CUST032,REST025,2026-02-21 00:39:00,310.0,COD,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 25,Desserts,Delhi,4.3,AGNT023,44.0,6.0
+ORD0063,CUST086,REST010,2026-01-30 18:13:00,638.29,Debit Card,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT039,44.0,4.8
+ORD0064,CUST022,REST010,2026-06-05 19:47:00,904.28,Debit Card,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT037,41.0,5.6
+ORD0065,CUST014,REST027,2026-05-29 00:59:00,477.56,COD,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 27,North Indian,Delhi,3.7,AGNT009,25.0,9.5
+ORD0066,CUST092,REST016,2026-02-20 02:37:00,875.15,UPI,Delivered,Customer 92,Hyderabad,2026-01-01,Restaurant 16,South Indian,Chennai,3.6,AGNT033,63.0,7.5
+ORD0067,CUST090,REST005,2026-07-17 09:54:00,868.47,Net Banking,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 5,Biryani,Delhi,4.3,AGNT007,36.0,6.7
+ORD0068,CUST006,REST028,2026-03-30 17:27:00,844.6,Net Banking,Delivered,Customer 6,Mumbai,2025-08-08,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT026,29.0,7.3
+ORD0069,CUST083,REST011,2026-03-29 00:54:00,591.06,UPI,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 11,North Indian,Bangalore,4.7,AGNT046,33.0,7.2
+ORD0070,CUST056,REST011,2026-04-03 20:57:00,1020.14,COD,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 11,North Indian,Bangalore,4.7,AGNT007,53.0,6.4
+ORD0071,CUST023,REST027,2026-07-07 16:41:00,433.59,COD,Cancelled,Customer 23,Delhi,2025-02-02,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0072,CUST060,REST006,2026-04-22 23:37:00,431.82,UPI,Delivered,Customer 60,Chennai,2025-09-29,Restaurant 6,South Indian,Delhi,3.6,AGNT021,25.0,7.4
+ORD0073,CUST036,REST021,2026-04-26 07:48:00,637.94,COD,Cancelled,Customer 36,Chennai,2025-05-17,Restaurant 21,South Indian,Mumbai,4.1,,,
+ORD0074,CUST049,REST026,2026-03-28 00:31:00,1043.5,COD,Delivered,Customer 49,Chennai,2025-02-24,Restaurant 26,Chinese,Mumbai,4.5,AGNT036,65.0,3.1
+ORD0075,CUST028,REST026,2026-04-01 08:21:00,443.64,COD,Cancelled,Customer 28,Chennai,2025-09-28,Restaurant 26,Chinese,Mumbai,4.5,,,
+ORD0076,CUST036,REST023,2026-05-23 00:33:00,1145.47,Credit Card,Delivered,Customer 36,Chennai,2025-05-17,Restaurant 23,North Indian,Mumbai,4.8,AGNT042,65.0,2.1
+ORD0077,CUST093,REST024,2026-04-15 15:35:00,946.07,COD,Delivered,Customer 93,Bangalore,2025-06-09,Restaurant 24,Biryani,Hyderabad,4.9,AGNT005,55.0,4.3
+ORD0078,CUST092,REST025,2026-05-06 14:50:00,168.11,Credit Card,Delivered,Customer 92,Hyderabad,2026-01-01,Restaurant 25,Desserts,Delhi,4.3,AGNT020,54.0,7.7
+ORD0079,CUST052,REST012,2026-06-27 07:19:00,847.16,COD,Delivered,Customer 52,Hyderabad,2025-11-24,Restaurant 12,South Indian,Delhi,3.7,AGNT035,25.0,5.5
+ORD0080,CUST071,REST003,2026-05-16 11:27:00,1196.46,Debit Card,Cancelled,Customer 71,Bangalore,2025-05-04,Restaurant 3,North Indian,Delhi,4.1,,,
+ORD0081,CUST046,REST030,2026-06-29 14:17:00,471.95,UPI,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 30,Desserts,Delhi,4.3,AGNT030,51.0,8.6
+ORD0082,CUST093,REST006,2026-02-19 10:07:00,930.03,Credit Card,Delivered,Customer 93,Bangalore,2025-06-09,Restaurant 6,South Indian,Delhi,3.6,AGNT026,50.0,9.5
+ORD0083,CUST028,REST023,2026-07-09 15:17:00,910.81,Net Banking,Cancelled,Customer 28,Chennai,2025-09-28,Restaurant 23,North Indian,Mumbai,4.8,,,
+ORD0084,CUST037,REST009,2026-01-26 06:18:00,388.86,Debit Card,Delivered,Customer 37,Chennai,2025-11-25,Restaurant 9,North Indian,Chennai,4.9,AGNT038,29.0,4.5
+ORD0085,CUST002,REST011,2026-07-01 17:08:00,438.03,Net Banking,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 11,North Indian,Bangalore,4.7,AGNT027,20.0,2.1
+ORD0086,CUST038,REST010,2026-06-28 04:40:00,1061.88,UPI,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT016,41.0,7.7
+ORD0087,CUST002,REST017,2026-05-27 09:30:00,652.65,Credit Card,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 17,North Indian,Chennai,4.0,AGNT040,48.0,2.8
+ORD0088,CUST007,REST022,2026-03-06 15:07:00,1013.22,COD,Delivered,Customer 7,Chennai,2025-10-26,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT016,46.0,5.3
+ORD0089,CUST010,REST023,2026-05-28 20:43:00,206.29,Net Banking,Delivered,Customer 10,Hyderabad,2025-04-23,Restaurant 23,North Indian,Mumbai,4.8,AGNT036,28.0,10.0
+ORD0090,CUST039,REST009,2026-01-22 07:07:00,735.98,Net Banking,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 9,North Indian,Chennai,4.9,AGNT011,52.0,7.6
+ORD0091,CUST077,REST008,2026-06-08 07:49:00,698.7,COD,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT031,45.0,9.5
+ORD0092,CUST039,REST015,2026-05-31 13:19:00,747.06,Net Banking,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 15,Desserts,Chennai,4.1,AGNT025,44.0,8.1
+ORD0093,CUST095,REST022,2026-01-26 06:40:00,371.58,Credit Card,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT005,32.0,5.5
+ORD0094,CUST031,REST028,2026-02-14 17:04:00,314.36,COD,Delivered,Customer 31,Bangalore,2025-01-06,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT022,15.0,6.0
+ORD0095,CUST089,REST027,2026-06-02 15:18:00,184.27,COD,Delivered,Customer 89,Bangalore,2025-10-04,Restaurant 27,North Indian,Delhi,3.7,AGNT014,61.0,11.9
+ORD0096,CUST037,REST016,2026-06-29 14:04:00,871.75,COD,Delivered,Customer 37,Chennai,2025-11-25,Restaurant 16,South Indian,Chennai,3.6,AGNT045,42.0,5.8
+ORD0097,CUST076,REST009,2026-06-19 06:27:00,270.52,COD,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 9,North Indian,Chennai,4.9,AGNT038,62.0,2.1
+ORD0098,CUST020,REST006,2026-03-10 04:04:00,212.62,Net Banking,Delivered,Customer 20,Hyderabad,2025-12-15,Restaurant 6,South Indian,Delhi,3.6,AGNT028,30.0,4.1
+ORD0099,CUST096,REST007,2026-05-26 09:28:00,280.57,COD,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT028,30.0,4.0
+ORD0100,CUST052,REST023,2026-03-11 16:34:00,668.48,Net Banking,Delivered,Customer 52,Hyderabad,2025-11-24,Restaurant 23,North Indian,Mumbai,4.8,AGNT037,35.0,4.8
+ORD0101,CUST006,REST030,2026-04-21 23:20:00,783.9,UPI,Delivered,Customer 6,Mumbai,2025-08-08,Restaurant 30,Desserts,Delhi,4.3,AGNT022,42.0,2.4
+ORD0102,CUST030,REST024,2026-06-22 18:37:00,1148.33,Net Banking,Delivered,Customer 30,Delhi,2025-10-11,Restaurant 24,Biryani,Hyderabad,4.9,AGNT035,52.0,8.7
+ORD0103,CUST006,REST029,2026-07-15 05:30:00,694.91,Debit Card,Delivered,Customer 6,Mumbai,2025-08-08,Restaurant 29,North Indian,Bangalore,4.9,AGNT045,29.0,10.6
+ORD0104,CUST024,REST015,2026-05-30 13:40:00,1004.96,COD,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 15,Desserts,Chennai,4.1,AGNT016,52.0,2.7
+ORD0105,CUST045,REST009,2026-04-15 10:20:00,853.64,Debit Card,Delivered,Customer 45,Delhi,2025-05-15,Restaurant 9,North Indian,Chennai,4.9,AGNT012,24.0,3.3
+ORD0106,CUST053,REST008,2026-06-27 15:18:00,845.71,Net Banking,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT043,51.0,7.2
+ORD0107,CUST005,REST014,2026-04-27 02:20:00,415.02,COD,Delivered,Customer 5,Mumbai,2025-10-27,Restaurant 14,Desserts,Delhi,3.8,AGNT043,15.0,1.9
+ORD0108,CUST066,REST029,2026-01-01 21:55:00,719.72,UPI,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 29,North Indian,Bangalore,4.9,AGNT005,41.0,8.4
+ORD0109,CUST025,REST026,2026-05-13 11:39:00,944.27,UPI,Delivered,Customer 25,Delhi,2025-07-15,Restaurant 26,Chinese,Mumbai,4.5,AGNT048,17.0,5.9
+ORD0110,CUST027,REST018,2026-03-10 17:08:00,1124.06,COD,Delivered,Customer 27,Bangalore,2025-08-28,Restaurant 18,South Indian,Delhi,4.9,AGNT046,17.0,6.9
+ORD0111,CUST063,REST028,2026-02-01 00:40:00,789.32,COD,Delivered,Customer 63,Delhi,2025-06-15,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT037,45.0,5.9
+ORD0112,CUST021,REST018,2026-03-21 17:00:00,729.86,Credit Card,Delivered,Customer 21,Mumbai,2025-08-05,Restaurant 18,South Indian,Delhi,4.9,AGNT032,61.0,1.7
+ORD0113,CUST015,REST011,2026-04-29 03:41:00,1023.75,COD,Delivered,Customer 15,Mumbai,2025-01-25,Restaurant 11,North Indian,Bangalore,4.7,AGNT008,64.0,6.4
+ORD0114,CUST038,REST021,2026-05-11 22:17:00,586.26,COD,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 21,South Indian,Mumbai,4.1,AGNT038,47.0,1.7
+ORD0115,CUST032,REST010,2026-04-27 17:09:00,552.77,Net Banking,Cancelled,Customer 32,Bangalore,2025-12-15,Restaurant 10,Burgers & Pizza,Delhi,4.8,,,
+ORD0116,CUST096,REST015,2026-02-04 02:17:00,961.31,Debit Card,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 15,Desserts,Chennai,4.1,AGNT039,17.0,4.8
+ORD0117,CUST065,REST026,2026-03-10 00:18:00,912.35,Net Banking,Cancelled,Customer 65,Delhi,2025-01-10,Restaurant 26,Chinese,Mumbai,4.5,,,
+ORD0118,CUST085,REST011,2026-05-06 04:28:00,715.51,Debit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 11,North Indian,Bangalore,4.7,AGNT030,42.0,7.5
+ORD0119,CUST071,REST019,2026-07-15 17:24:00,628.11,Credit Card,Delivered,Customer 71,Bangalore,2025-05-04,Restaurant 19,South Indian,Bangalore,3.9,AGNT021,48.0,4.9
+ORD0120,CUST090,REST010,2026-03-03 18:24:00,395.24,UPI,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT036,40.0,2.5
+ORD0121,CUST041,REST011,2026-07-10 15:45:00,1109.1,COD,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 11,North Indian,Bangalore,4.7,AGNT007,45.0,6.6
+ORD0122,CUST085,REST020,2026-06-16 04:31:00,1163.07,Net Banking,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 20,Biryani,Chennai,4.6,AGNT029,59.0,8.8
+ORD0123,CUST076,REST016,2026-03-26 03:55:00,1037.29,Net Banking,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 16,South Indian,Chennai,3.6,AGNT012,21.0,3.7
+ORD0124,CUST059,REST017,2026-01-04 23:09:00,580.48,UPI,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 17,North Indian,Chennai,4.0,AGNT020,43.0,6.7
+ORD0125,CUST061,REST026,2026-07-20 08:21:00,804.42,COD,Delivered,Customer 61,Mumbai,2025-01-01,Restaurant 26,Chinese,Mumbai,4.5,AGNT026,46.0,10.0
+ORD0126,CUST011,REST022,2026-03-26 21:54:00,710.3,COD,Delivered,Customer 11,Delhi,2025-03-12,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT005,30.0,8.5
+ORD0127,CUST092,REST016,2026-07-14 15:55:00,718.07,UPI,Cancelled,Customer 92,Hyderabad,2026-01-01,Restaurant 16,South Indian,Chennai,3.6,,,
+ORD0128,CUST031,REST023,2026-06-11 21:58:00,451.75,COD,Delivered,Customer 31,Bangalore,2025-01-06,Restaurant 23,North Indian,Mumbai,4.8,AGNT039,20.0,3.2
+ORD0129,CUST012,REST022,2026-04-22 03:48:00,815.44,COD,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT007,50.0,4.6
+ORD0130,CUST022,REST026,2026-06-27 09:57:00,180.39,UPI,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 26,Chinese,Mumbai,4.5,AGNT044,63.0,11.7
+ORD0131,CUST038,REST011,2026-04-02 11:27:00,302.85,COD,Cancelled,Customer 38,Delhi,2025-06-24,Restaurant 11,North Indian,Bangalore,4.7,,,
+ORD0132,CUST073,REST007,2026-06-24 05:10:00,333.82,COD,Cancelled,Customer 73,Hyderabad,2025-02-10,Restaurant 7,Burgers & Pizza,Mumbai,4.9,,,
+ORD0133,CUST080,REST010,2026-06-24 07:31:00,1108.47,Credit Card,Delivered,Customer 80,Bangalore,2025-12-04,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT039,15.0,3.6
+ORD0134,CUST060,REST023,2026-06-13 08:29:00,418.09,COD,Delivered,Customer 60,Chennai,2025-09-29,Restaurant 23,North Indian,Mumbai,4.8,AGNT050,59.0,8.2
+ORD0135,CUST037,REST021,2026-06-23 17:10:00,227.55,Net Banking,Delivered,Customer 37,Chennai,2025-11-25,Restaurant 21,South Indian,Mumbai,4.1,AGNT025,61.0,11.7
+ORD0136,CUST039,REST002,2026-06-13 13:44:00,412.6,Credit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 2,North Indian,Hyderabad,4.8,AGNT021,41.0,2.3
+ORD0137,CUST050,REST019,2026-05-04 03:15:00,550.43,Net Banking,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 19,South Indian,Bangalore,3.9,AGNT032,28.0,10.4
+ORD0138,CUST038,REST016,2026-06-29 09:01:00,1176.84,Debit Card,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 16,South Indian,Chennai,3.6,AGNT042,23.0,3.7
+ORD0139,CUST002,REST028,2026-05-25 21:49:00,931.9,Net Banking,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT043,37.0,4.3
+ORD0140,CUST096,REST026,2026-05-08 09:49:00,988.8,Debit Card,Cancelled,Customer 96,Delhi,2025-11-29,Restaurant 26,Chinese,Mumbai,4.5,,,
+ORD0141,CUST029,REST022,2026-06-12 06:39:00,413.16,COD,Delivered,Customer 29,Mumbai,2025-05-09,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT004,33.0,4.6
+ORD0142,CUST013,REST024,2026-06-10 20:02:00,474.38,UPI,Delivered,Customer 13,Chennai,2025-09-10,Restaurant 24,Biryani,Hyderabad,4.9,AGNT006,30.0,7.5
+ORD0143,CUST075,REST007,2026-04-04 23:08:00,244.64,Debit Card,Delivered,Customer 75,Hyderabad,2025-09-06,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT014,56.0,9.9
+ORD0144,CUST096,REST009,2026-04-17 05:12:00,288.77,Debit Card,Cancelled,Customer 96,Delhi,2025-11-29,Restaurant 9,North Indian,Chennai,4.9,,,
+ORD0145,CUST068,REST010,2026-05-09 08:53:00,322.77,Debit Card,Delivered,Customer 68,Bangalore,2025-06-07,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT009,20.0,8.1
+ORD0146,CUST096,REST024,2026-03-28 03:29:00,1161.04,Credit Card,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 24,Biryani,Hyderabad,4.9,AGNT038,16.0,11.6
+ORD0147,CUST087,REST008,2026-07-05 21:25:00,1165.63,Debit Card,Cancelled,Customer 87,Bangalore,2025-08-05,Restaurant 8,Burgers & Pizza,Chennai,4.7,,,
+ORD0148,CUST012,REST007,2026-04-12 00:16:00,713.4,Debit Card,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT049,45.0,9.0
+ORD0149,CUST087,REST002,2026-07-11 21:16:00,763.79,UPI,Delivered,Customer 87,Bangalore,2025-08-05,Restaurant 2,North Indian,Hyderabad,4.8,AGNT041,57.0,7.6
+ORD0150,CUST087,REST025,2026-03-01 15:01:00,800.52,Debit Card,Cancelled,Customer 87,Bangalore,2025-08-05,Restaurant 25,Desserts,Delhi,4.3,,,
+ORD0151,CUST079,REST014,2026-02-26 20:04:00,817.17,COD,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 14,Desserts,Delhi,3.8,AGNT001,34.0,7.7
+ORD0152,CUST039,REST021,2026-06-16 13:07:00,296.77,Debit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 21,South Indian,Mumbai,4.1,AGNT049,25.0,4.4
+ORD0153,CUST064,REST005,2026-01-30 03:15:00,1081.62,COD,Delivered,Customer 64,Bangalore,2025-09-08,Restaurant 5,Biryani,Delhi,4.3,AGNT010,60.0,7.4
+ORD0154,CUST059,REST013,2026-04-05 21:47:00,881.31,COD,Cancelled,Customer 59,Bangalore,2025-10-04,Restaurant 13,South Indian,Delhi,4.2,,,
+ORD0155,CUST076,REST011,2026-07-10 23:09:00,1079.68,COD,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 11,North Indian,Bangalore,4.7,AGNT043,44.0,7.1
+ORD0156,CUST079,REST021,2026-04-15 08:02:00,874.79,COD,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 21,South Indian,Mumbai,4.1,AGNT010,51.0,6.0
+ORD0157,CUST057,REST014,2026-03-02 11:06:00,1179.97,Net Banking,Delivered,Customer 57,Chennai,2025-07-11,Restaurant 14,Desserts,Delhi,3.8,AGNT029,62.0,5.1
+ORD0158,CUST083,REST008,2026-04-02 01:25:00,439.68,COD,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT035,52.0,2.3
+ORD0159,CUST012,REST006,2026-06-19 06:41:00,821.47,UPI,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 6,South Indian,Delhi,3.6,AGNT019,16.0,10.1
+ORD0160,CUST043,REST023,2026-03-04 04:50:00,742.81,Net Banking,Delivered,Customer 43,Bangalore,2025-08-21,Restaurant 23,North Indian,Mumbai,4.8,AGNT025,44.0,6.8
+ORD0161,CUST027,REST019,2026-05-31 06:52:00,1063.18,Credit Card,Delivered,Customer 27,Bangalore,2025-08-28,Restaurant 19,South Indian,Bangalore,3.9,AGNT040,44.0,4.6
+ORD0162,CUST077,REST017,2026-01-01 08:54:00,1183.23,Net Banking,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 17,North Indian,Chennai,4.0,AGNT037,64.0,8.5
+ORD0163,CUST033,REST017,2026-02-14 03:42:00,1059.77,UPI,Delivered,Customer 33,Mumbai,2025-02-28,Restaurant 17,North Indian,Chennai,4.0,AGNT029,23.0,4.8
+ORD0164,CUST046,REST022,2026-03-02 18:20:00,166.57,UPI,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT013,60.0,5.9
+ORD0165,CUST017,REST015,2026-07-09 13:33:00,269.33,COD,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 15,Desserts,Chennai,4.1,AGNT014,40.0,4.1
+ORD0166,CUST058,REST025,2026-07-19 11:32:00,773.35,Net Banking,Delivered,Customer 58,Mumbai,2025-03-24,Restaurant 25,Desserts,Delhi,4.3,AGNT044,26.0,6.9
+ORD0167,CUST029,REST005,2026-06-07 01:46:00,972.39,Debit Card,Cancelled,Customer 29,Mumbai,2025-05-09,Restaurant 5,Biryani,Delhi,4.3,,,
+ORD0168,CUST059,REST006,2026-06-14 00:03:00,1198.52,COD,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 6,South Indian,Delhi,3.6,AGNT021,65.0,8.6
+ORD0169,CUST088,REST004,2026-01-28 15:45:00,1105.19,UPI,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 4,South Indian,Mumbai,4.7,AGNT020,38.0,7.2
+ORD0170,CUST042,REST028,2026-06-05 04:04:00,282.5,COD,Cancelled,Customer 42,Hyderabad,2025-03-22,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD0171,CUST075,REST024,2026-05-21 22:20:00,549.95,Net Banking,Cancelled,Customer 75,Hyderabad,2025-09-06,Restaurant 24,Biryani,Hyderabad,4.9,,,
+ORD0172,CUST038,REST021,2026-04-27 16:38:00,601.71,COD,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 21,South Indian,Mumbai,4.1,AGNT037,55.0,10.7
+ORD0173,CUST084,REST028,2026-07-16 17:46:00,1058.77,COD,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT044,44.0,8.1
+ORD0174,CUST030,REST009,2026-04-16 10:52:00,626.17,COD,Delivered,Customer 30,Delhi,2025-10-11,Restaurant 9,North Indian,Chennai,4.9,AGNT020,60.0,6.9
+ORD0175,CUST013,REST020,2026-03-22 13:20:00,848.36,Credit Card,Delivered,Customer 13,Chennai,2025-09-10,Restaurant 20,Biryani,Chennai,4.6,AGNT028,55.0,3.5
+ORD0176,CUST088,REST030,2026-05-02 02:05:00,1023.36,COD,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 30,Desserts,Delhi,4.3,AGNT046,15.0,6.7
+ORD0177,CUST013,REST013,2026-07-10 23:23:00,1002.36,UPI,Cancelled,Customer 13,Chennai,2025-09-10,Restaurant 13,South Indian,Delhi,4.2,,,
+ORD0178,CUST076,REST017,2026-05-24 17:21:00,853.51,Debit Card,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 17,North Indian,Chennai,4.0,AGNT023,55.0,8.4
+ORD0179,CUST086,REST007,2026-07-12 13:55:00,1111.64,Debit Card,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT006,19.0,10.2
+ORD0180,CUST077,REST002,2026-03-21 11:06:00,756.81,Credit Card,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 2,North Indian,Hyderabad,4.8,AGNT038,39.0,11.4
+ORD0181,CUST085,REST027,2026-05-04 07:54:00,263.63,Debit Card,Cancelled,Customer 85,Mumbai,2025-09-28,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0182,CUST015,REST023,2026-07-15 08:36:00,387.47,Net Banking,Delivered,Customer 15,Mumbai,2025-01-25,Restaurant 23,North Indian,Mumbai,4.8,AGNT001,59.0,4.3
+ORD0183,CUST099,REST006,2026-06-09 19:43:00,824.83,Net Banking,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 6,South Indian,Delhi,3.6,AGNT040,36.0,8.2
+ORD0184,CUST085,REST010,2026-06-27 08:01:00,339.44,Debit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT033,48.0,10.0
+ORD0185,CUST045,REST009,2026-01-02 05:55:00,300.41,UPI,Delivered,Customer 45,Delhi,2025-05-15,Restaurant 9,North Indian,Chennai,4.9,AGNT026,17.0,10.5
+ORD0186,CUST019,REST011,2026-07-09 20:01:00,246.35,Credit Card,Cancelled,Customer 19,Chennai,2025-03-23,Restaurant 11,North Indian,Bangalore,4.7,,,
+ORD0187,CUST049,REST024,2026-04-18 14:21:00,315.28,COD,Delivered,Customer 49,Chennai,2025-02-24,Restaurant 24,Biryani,Hyderabad,4.9,AGNT009,33.0,11.0
+ORD0188,CUST042,REST005,2026-07-18 18:38:00,239.2,Credit Card,Delivered,Customer 42,Hyderabad,2025-03-22,Restaurant 5,Biryani,Delhi,4.3,AGNT019,42.0,11.3
+ORD0189,CUST021,REST028,2026-07-13 19:03:00,857.67,COD,Delivered,Customer 21,Mumbai,2025-08-05,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT004,63.0,9.1
+ORD0190,CUST085,REST016,2026-04-19 15:38:00,614.15,Credit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 16,South Indian,Chennai,3.6,AGNT024,32.0,2.1
+ORD0191,CUST097,REST022,2026-05-12 03:22:00,601.41,COD,Delivered,Customer 97,Delhi,2025-07-11,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT036,59.0,3.6
+ORD0192,CUST087,REST024,2026-06-01 15:33:00,850.49,Credit Card,Delivered,Customer 87,Bangalore,2025-08-05,Restaurant 24,Biryani,Hyderabad,4.9,AGNT004,54.0,6.4
+ORD0193,CUST051,REST007,2026-06-03 01:00:00,364.64,Credit Card,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT001,49.0,4.0
+ORD0194,CUST098,REST002,2026-03-07 09:20:00,275.98,COD,Delivered,Customer 98,Mumbai,2025-08-13,Restaurant 2,North Indian,Hyderabad,4.8,AGNT046,51.0,9.3
+ORD0195,CUST056,REST014,2026-02-14 04:24:00,709.21,Net Banking,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 14,Desserts,Delhi,3.8,AGNT036,65.0,9.5
+ORD0196,CUST072,REST002,2026-06-21 11:04:00,566.92,COD,Delivered,Customer 72,Chennai,2025-10-18,Restaurant 2,North Indian,Hyderabad,4.8,AGNT023,28.0,10.4
+ORD0197,CUST003,REST008,2026-04-28 02:55:00,478.71,Net Banking,Delivered,Customer 3,Bangalore,2025-10-03,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT008,65.0,5.8
+ORD0198,CUST052,REST009,2026-07-01 20:26:00,453.99,UPI,Delivered,Customer 52,Hyderabad,2025-11-24,Restaurant 9,North Indian,Chennai,4.9,AGNT019,58.0,10.5
+ORD0199,CUST042,REST004,2026-02-13 19:29:00,1023.63,UPI,Delivered,Customer 42,Hyderabad,2025-03-22,Restaurant 4,South Indian,Mumbai,4.7,AGNT002,20.0,11.1
+ORD0200,CUST056,REST022,2026-01-28 07:27:00,768.31,UPI,Cancelled,Customer 56,Chennai,2025-03-20,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0201,CUST051,REST006,2026-03-21 23:21:00,382.65,UPI,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 6,South Indian,Delhi,3.6,AGNT016,54.0,8.2
+ORD0202,CUST066,REST008,2026-06-12 03:33:00,685.45,Debit Card,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT028,36.0,10.4
+ORD0203,CUST094,REST026,2026-06-15 04:15:00,257.94,Credit Card,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 26,Chinese,Mumbai,4.5,AGNT045,62.0,4.3
+ORD0204,CUST023,REST030,2026-06-04 04:48:00,947.11,Credit Card,Delivered,Customer 23,Delhi,2025-02-02,Restaurant 30,Desserts,Delhi,4.3,AGNT038,18.0,4.5
+ORD0205,CUST099,REST014,2026-06-10 15:29:00,942.17,COD,Cancelled,Customer 99,Bangalore,2025-09-22,Restaurant 14,Desserts,Delhi,3.8,,,
+ORD0206,CUST088,REST017,2026-05-25 20:40:00,1185.86,COD,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 17,North Indian,Chennai,4.0,AGNT026,47.0,3.2
+ORD0207,CUST041,REST009,2026-02-08 14:04:00,642.37,Debit Card,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 9,North Indian,Chennai,4.9,AGNT041,58.0,8.7
+ORD0208,CUST076,REST017,2026-01-15 11:32:00,227.9,COD,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 17,North Indian,Chennai,4.0,AGNT021,38.0,4.0
+ORD0209,CUST005,REST003,2026-01-15 11:53:00,451.43,Net Banking,Delivered,Customer 5,Mumbai,2025-10-27,Restaurant 3,North Indian,Delhi,4.1,AGNT046,18.0,4.0
+ORD0210,CUST077,REST021,2026-05-10 12:29:00,759.35,COD,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 21,South Indian,Mumbai,4.1,AGNT025,22.0,3.1
+ORD0211,CUST074,REST021,2026-06-16 06:20:00,785.26,Credit Card,Cancelled,Customer 74,Mumbai,2025-02-13,Restaurant 21,South Indian,Mumbai,4.1,,,
+ORD0212,CUST008,REST006,2026-04-26 03:51:00,1094.08,COD,Delivered,Customer 8,Hyderabad,2025-07-24,Restaurant 6,South Indian,Delhi,3.6,AGNT026,39.0,1.8
+ORD0213,CUST011,REST029,2026-05-10 20:11:00,191.1,COD,Delivered,Customer 11,Delhi,2025-03-12,Restaurant 29,North Indian,Bangalore,4.9,AGNT025,38.0,9.9
+ORD0214,CUST068,REST026,2026-05-14 19:10:00,532.09,COD,Delivered,Customer 68,Bangalore,2025-06-07,Restaurant 26,Chinese,Mumbai,4.5,AGNT028,44.0,4.8
+ORD0215,CUST053,REST002,2026-07-18 10:43:00,777.78,UPI,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 2,North Indian,Hyderabad,4.8,AGNT035,54.0,6.6
+ORD0216,CUST043,REST009,2026-01-25 17:43:00,555.89,COD,Delivered,Customer 43,Bangalore,2025-08-21,Restaurant 9,North Indian,Chennai,4.9,AGNT014,17.0,11.9
+ORD0217,CUST085,REST027,2026-06-04 04:21:00,235.58,Debit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 27,North Indian,Delhi,3.7,AGNT043,38.0,5.9
+ORD0218,CUST040,REST007,2026-06-17 22:42:00,561.56,COD,Cancelled,Customer 40,Bangalore,2025-05-31,Restaurant 7,Burgers & Pizza,Mumbai,4.9,,,
+ORD0219,CUST011,REST014,2026-03-21 17:24:00,825.67,Credit Card,Delivered,Customer 11,Delhi,2025-03-12,Restaurant 14,Desserts,Delhi,3.8,AGNT012,38.0,11.0
+ORD0220,CUST086,REST027,2026-06-29 23:43:00,1108.07,COD,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 27,North Indian,Delhi,3.7,AGNT031,26.0,3.6
+ORD0221,CUST086,REST002,2026-04-19 16:23:00,169.14,Credit Card,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 2,North Indian,Hyderabad,4.8,AGNT009,56.0,4.4
+ORD0222,CUST028,REST008,2026-03-29 15:12:00,387.87,Credit Card,Delivered,Customer 28,Chennai,2025-09-28,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT013,50.0,1.8
+ORD0223,CUST010,REST004,2026-03-17 03:32:00,959.42,UPI,Cancelled,Customer 10,Hyderabad,2025-04-23,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0224,CUST085,REST020,2026-03-28 19:08:00,777.11,Credit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 20,Biryani,Chennai,4.6,AGNT036,60.0,9.8
+ORD0225,CUST024,REST012,2026-06-27 19:51:00,1097.79,UPI,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 12,South Indian,Delhi,3.7,AGNT025,19.0,4.4
+ORD0226,CUST053,REST020,2026-04-04 21:46:00,399.41,Net Banking,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 20,Biryani,Chennai,4.6,AGNT024,50.0,7.3
+ORD0227,CUST037,REST001,2026-07-12 23:50:00,621.37,Credit Card,Cancelled,Customer 37,Chennai,2025-11-25,Restaurant 1,South Indian,Hyderabad,3.8,,,
+ORD0228,CUST040,REST020,2026-07-20 15:57:00,1026.87,COD,Delivered,Customer 40,Bangalore,2025-05-31,Restaurant 20,Biryani,Chennai,4.6,AGNT027,60.0,8.3
+ORD0229,CUST074,REST010,2026-04-23 14:49:00,445.86,Net Banking,Delivered,Customer 74,Mumbai,2025-02-13,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT010,64.0,1.9
+ORD0230,CUST068,REST003,2026-04-18 05:52:00,359.68,Credit Card,Cancelled,Customer 68,Bangalore,2025-06-07,Restaurant 3,North Indian,Delhi,4.1,,,
+ORD0231,CUST033,REST029,2026-01-14 20:30:00,1067.82,UPI,Cancelled,Customer 33,Mumbai,2025-02-28,Restaurant 29,North Indian,Bangalore,4.9,,,
+ORD0232,CUST092,REST013,2026-05-13 03:18:00,238.07,Debit Card,Delivered,Customer 92,Hyderabad,2026-01-01,Restaurant 13,South Indian,Delhi,4.2,AGNT019,28.0,9.1
+ORD0233,CUST058,REST006,2026-05-12 04:53:00,609.35,COD,Delivered,Customer 58,Mumbai,2025-03-24,Restaurant 6,South Indian,Delhi,3.6,AGNT043,23.0,9.7
+ORD0234,CUST045,REST018,2026-01-07 13:03:00,566.28,Credit Card,Delivered,Customer 45,Delhi,2025-05-15,Restaurant 18,South Indian,Delhi,4.9,AGNT009,36.0,2.1
+ORD0235,CUST050,REST001,2026-01-21 11:14:00,179.6,COD,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 1,South Indian,Hyderabad,3.8,AGNT009,30.0,10.9
+ORD0236,CUST084,REST011,2026-03-27 04:08:00,190.22,COD,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 11,North Indian,Bangalore,4.7,AGNT001,49.0,4.8
+ORD0237,CUST018,REST001,2026-07-14 22:30:00,621.03,UPI,Delivered,Customer 18,Hyderabad,2025-11-18,Restaurant 1,South Indian,Hyderabad,3.8,AGNT005,22.0,4.6
+ORD0238,CUST003,REST010,2026-03-07 06:53:00,307.0,Net Banking,Cancelled,Customer 3,Bangalore,2025-10-03,Restaurant 10,Burgers & Pizza,Delhi,4.8,,,
+ORD0239,CUST055,REST026,2026-01-29 09:15:00,466.21,Credit Card,Delivered,Customer 55,Mumbai,2025-04-12,Restaurant 26,Chinese,Mumbai,4.5,AGNT042,56.0,2.2
+ORD0240,CUST054,REST016,2026-06-13 19:29:00,215.95,Net Banking,Delivered,Customer 54,Hyderabad,2025-11-08,Restaurant 16,South Indian,Chennai,3.6,AGNT002,45.0,11.5
+ORD0241,CUST069,REST008,2026-01-05 20:32:00,753.8,Debit Card,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT010,62.0,10.9
+ORD0242,CUST055,REST003,2026-01-01 19:22:00,402.59,Credit Card,Delivered,Customer 55,Mumbai,2025-04-12,Restaurant 3,North Indian,Delhi,4.1,AGNT047,63.0,8.6
+ORD0243,CUST086,REST025,2026-06-21 02:33:00,1173.39,Net Banking,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 25,Desserts,Delhi,4.3,AGNT032,52.0,10.8
+ORD0244,CUST070,REST020,2026-05-10 16:35:00,171.35,UPI,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 20,Biryani,Chennai,4.6,AGNT043,59.0,5.7
+ORD0245,CUST082,REST013,2026-04-10 11:16:00,934.68,UPI,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 13,South Indian,Delhi,4.2,AGNT028,28.0,10.3
+ORD0246,CUST045,REST017,2026-03-03 23:42:00,809.67,COD,Cancelled,Customer 45,Delhi,2025-05-15,Restaurant 17,North Indian,Chennai,4.0,,,
+ORD0247,CUST097,REST003,2026-03-27 04:02:00,519.91,COD,Delivered,Customer 97,Delhi,2025-07-11,Restaurant 3,North Indian,Delhi,4.1,AGNT009,63.0,10.3
+ORD0248,CUST023,REST030,2026-07-19 21:29:00,1179.86,COD,Delivered,Customer 23,Delhi,2025-02-02,Restaurant 30,Desserts,Delhi,4.3,AGNT006,62.0,4.0
+ORD0249,CUST024,REST022,2026-02-04 02:45:00,965.0,UPI,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT009,63.0,7.5
+ORD0250,CUST038,REST026,2026-02-21 01:50:00,359.44,Debit Card,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 26,Chinese,Mumbai,4.5,AGNT042,29.0,6.8
+ORD0251,CUST040,REST003,2026-05-12 12:52:00,720.18,UPI,Delivered,Customer 40,Bangalore,2025-05-31,Restaurant 3,North Indian,Delhi,4.1,AGNT027,35.0,2.8
+ORD0252,CUST097,REST022,2026-06-15 06:18:00,524.82,COD,Delivered,Customer 97,Delhi,2025-07-11,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT030,37.0,8.5
+ORD0253,CUST043,REST030,2026-03-11 03:51:00,536.42,COD,Delivered,Customer 43,Bangalore,2025-08-21,Restaurant 30,Desserts,Delhi,4.3,AGNT045,32.0,7.6
+ORD0254,CUST057,REST013,2026-04-09 10:11:00,671.01,Debit Card,Delivered,Customer 57,Chennai,2025-07-11,Restaurant 13,South Indian,Delhi,4.2,AGNT039,47.0,9.6
+ORD0255,CUST067,REST006,2026-03-10 02:46:00,595.72,Net Banking,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 6,South Indian,Delhi,3.6,AGNT028,58.0,7.0
+ORD0256,CUST024,REST001,2026-05-20 09:20:00,257.73,COD,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 1,South Indian,Hyderabad,3.8,AGNT040,42.0,6.7
+ORD0257,CUST038,REST027,2026-03-20 14:38:00,903.55,COD,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 27,North Indian,Delhi,3.7,AGNT012,32.0,2.4
+ORD0258,CUST057,REST021,2026-03-31 14:02:00,913.16,Net Banking,Delivered,Customer 57,Chennai,2025-07-11,Restaurant 21,South Indian,Mumbai,4.1,AGNT030,18.0,7.8
+ORD0259,CUST056,REST003,2026-03-12 20:50:00,1145.3,COD,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 3,North Indian,Delhi,4.1,AGNT033,19.0,9.6
+ORD0260,CUST082,REST005,2026-04-14 11:32:00,991.15,UPI,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 5,Biryani,Delhi,4.3,AGNT028,38.0,4.8
+ORD0261,CUST019,REST008,2026-06-05 21:50:00,610.08,UPI,Delivered,Customer 19,Chennai,2025-03-23,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT036,37.0,10.2
+ORD0262,CUST031,REST025,2026-07-19 20:23:00,530.26,UPI,Cancelled,Customer 31,Bangalore,2025-01-06,Restaurant 25,Desserts,Delhi,4.3,,,
+ORD0263,CUST078,REST027,2026-02-09 21:28:00,1146.26,COD,Delivered,Customer 78,Delhi,2025-03-06,Restaurant 27,North Indian,Delhi,3.7,AGNT029,43.0,9.2
+ORD0264,CUST098,REST019,2026-01-20 18:08:00,705.93,Debit Card,Delivered,Customer 98,Mumbai,2025-08-13,Restaurant 19,South Indian,Bangalore,3.9,AGNT025,46.0,10.0
+ORD0265,CUST084,REST003,2026-03-13 07:07:00,177.21,COD,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 3,North Indian,Delhi,4.1,AGNT023,47.0,9.3
+ORD0266,CUST067,REST021,2026-04-10 17:07:00,424.87,COD,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 21,South Indian,Mumbai,4.1,AGNT015,48.0,11.3
+ORD0267,CUST058,REST020,2026-02-24 19:18:00,878.68,Credit Card,Delivered,Customer 58,Mumbai,2025-03-24,Restaurant 20,Biryani,Chennai,4.6,AGNT012,22.0,3.8
+ORD0268,CUST016,REST028,2026-02-04 02:28:00,331.29,UPI,Delivered,Customer 16,Mumbai,2025-02-26,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT028,45.0,2.6
+ORD0269,CUST088,REST027,2026-03-23 21:22:00,895.02,Net Banking,Cancelled,Customer 88,Delhi,2025-04-19,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0270,CUST038,REST008,2026-03-18 05:45:00,895.04,Debit Card,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT039,60.0,3.7
+ORD0271,CUST066,REST001,2026-02-27 03:12:00,981.67,COD,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 1,South Indian,Hyderabad,3.8,AGNT001,49.0,4.4
+ORD0272,CUST004,REST015,2026-04-03 17:36:00,537.36,Credit Card,Cancelled,Customer 4,Mumbai,2025-05-15,Restaurant 15,Desserts,Chennai,4.1,,,
+ORD0273,CUST079,REST029,2026-01-23 02:19:00,568.07,Net Banking,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 29,North Indian,Bangalore,4.9,AGNT037,58.0,5.8
+ORD0274,CUST053,REST018,2026-07-16 13:52:00,753.65,Debit Card,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 18,South Indian,Delhi,4.9,AGNT032,49.0,10.6
+ORD0275,CUST083,REST012,2026-01-19 14:29:00,864.11,Credit Card,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 12,South Indian,Delhi,3.7,AGNT047,33.0,2.1
+ORD0276,CUST100,REST029,2026-05-22 20:37:00,341.06,COD,Delivered,Customer 100,Mumbai,2025-08-20,Restaurant 29,North Indian,Bangalore,4.9,AGNT016,43.0,7.1
+ORD0277,CUST065,REST005,2026-01-15 03:33:00,310.67,Credit Card,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 5,Biryani,Delhi,4.3,AGNT046,54.0,8.8
+ORD0278,CUST042,REST022,2026-07-01 07:22:00,1144.86,Debit Card,Cancelled,Customer 42,Hyderabad,2025-03-22,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0279,CUST011,REST023,2026-03-06 06:40:00,1154.17,Credit Card,Delivered,Customer 11,Delhi,2025-03-12,Restaurant 23,North Indian,Mumbai,4.8,AGNT033,38.0,2.7
+ORD0280,CUST081,REST023,2026-03-19 19:34:00,248.1,Net Banking,Delivered,Customer 81,Hyderabad,2025-09-01,Restaurant 23,North Indian,Mumbai,4.8,AGNT018,58.0,7.2
+ORD0281,CUST075,REST018,2026-02-09 05:42:00,805.7,Debit Card,Cancelled,Customer 75,Hyderabad,2025-09-06,Restaurant 18,South Indian,Delhi,4.9,,,
+ORD0282,CUST073,REST004,2026-01-11 00:05:00,197.73,Debit Card,Cancelled,Customer 73,Hyderabad,2025-02-10,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0283,CUST084,REST028,2026-02-23 18:26:00,799.01,COD,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT027,59.0,6.5
+ORD0284,CUST081,REST004,2026-05-20 09:41:00,1154.48,Credit Card,Delivered,Customer 81,Hyderabad,2025-09-01,Restaurant 4,South Indian,Mumbai,4.7,AGNT035,19.0,4.1
+ORD0285,CUST088,REST010,2026-04-14 09:29:00,226.62,Credit Card,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT037,27.0,4.4
+ORD0286,CUST057,REST013,2026-04-17 15:29:00,364.22,Credit Card,Cancelled,Customer 57,Chennai,2025-07-11,Restaurant 13,South Indian,Delhi,4.2,,,
+ORD0287,CUST041,REST009,2026-07-03 10:46:00,1187.42,COD,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 9,North Indian,Chennai,4.9,AGNT024,44.0,9.7
+ORD0288,CUST017,REST002,2026-07-14 11:32:00,739.73,Credit Card,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 2,North Indian,Hyderabad,4.8,AGNT003,20.0,3.0
+ORD0289,CUST060,REST029,2026-02-01 08:28:00,410.31,UPI,Delivered,Customer 60,Chennai,2025-09-29,Restaurant 29,North Indian,Bangalore,4.9,AGNT003,20.0,6.5
+ORD0290,CUST038,REST024,2026-04-09 19:26:00,410.68,Debit Card,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 24,Biryani,Hyderabad,4.9,AGNT037,40.0,5.4
+ORD0291,CUST074,REST027,2026-07-04 10:12:00,951.28,Net Banking,Delivered,Customer 74,Mumbai,2025-02-13,Restaurant 27,North Indian,Delhi,3.7,AGNT031,26.0,4.7
+ORD0292,CUST060,REST015,2026-05-08 09:31:00,174.34,Net Banking,Delivered,Customer 60,Chennai,2025-09-29,Restaurant 15,Desserts,Chennai,4.1,AGNT046,33.0,8.3
+ORD0293,CUST059,REST012,2026-03-03 06:37:00,520.54,Debit Card,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 12,South Indian,Delhi,3.7,AGNT024,19.0,11.0
+ORD0294,CUST064,REST006,2026-06-02 20:43:00,644.12,UPI,Cancelled,Customer 64,Bangalore,2025-09-08,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0295,CUST014,REST010,2026-04-21 04:56:00,427.7,COD,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT008,21.0,1.9
+ORD0296,CUST047,REST015,2026-01-12 12:03:00,748.8,Debit Card,Delivered,Customer 47,Chennai,2025-04-02,Restaurant 15,Desserts,Chennai,4.1,AGNT038,25.0,9.3
+ORD0297,CUST071,REST022,2026-03-15 02:24:00,679.47,Debit Card,Cancelled,Customer 71,Bangalore,2025-05-04,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0298,CUST080,REST005,2026-06-24 19:07:00,285.1,COD,Delivered,Customer 80,Bangalore,2025-12-04,Restaurant 5,Biryani,Delhi,4.3,AGNT031,32.0,9.9
+ORD0299,CUST048,REST030,2026-03-28 17:23:00,942.71,Net Banking,Delivered,Customer 48,Delhi,2025-09-17,Restaurant 30,Desserts,Delhi,4.3,AGNT045,22.0,2.1
+ORD0300,CUST066,REST026,2026-04-13 16:02:00,197.57,COD,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 26,Chinese,Mumbai,4.5,AGNT006,59.0,11.1
+ORD0301,CUST043,REST009,2026-05-02 16:29:00,306.39,Credit Card,Cancelled,Customer 43,Bangalore,2025-08-21,Restaurant 9,North Indian,Chennai,4.9,,,
+ORD0302,CUST042,REST006,2026-06-06 10:10:00,562.6,COD,Cancelled,Customer 42,Hyderabad,2025-03-22,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0303,CUST039,REST009,2026-06-01 10:32:00,1019.7,COD,Cancelled,Customer 39,Chennai,2025-02-27,Restaurant 9,North Indian,Chennai,4.9,,,
+ORD0304,CUST091,REST012,2026-05-25 09:30:00,1006.54,Debit Card,Delivered,Customer 91,Mumbai,2025-04-13,Restaurant 12,South Indian,Delhi,3.7,AGNT010,24.0,8.6
+ORD0305,CUST087,REST028,2026-01-29 13:37:00,473.06,Net Banking,Delivered,Customer 87,Bangalore,2025-08-05,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT047,46.0,4.2
+ORD0306,CUST061,REST025,2026-03-09 20:50:00,1170.66,Net Banking,Cancelled,Customer 61,Mumbai,2025-01-01,Restaurant 25,Desserts,Delhi,4.3,,,
+ORD0307,CUST030,REST029,2026-07-04 01:37:00,654.47,COD,Cancelled,Customer 30,Delhi,2025-10-11,Restaurant 29,North Indian,Bangalore,4.9,,,
+ORD0308,CUST093,REST029,2026-06-08 12:09:00,1012.74,UPI,Delivered,Customer 93,Bangalore,2025-06-09,Restaurant 29,North Indian,Bangalore,4.9,AGNT047,24.0,5.5
+ORD0309,CUST074,REST006,2026-06-29 03:12:00,169.88,COD,Delivered,Customer 74,Mumbai,2025-02-13,Restaurant 6,South Indian,Delhi,3.6,AGNT034,28.0,8.2
+ORD0310,CUST020,REST004,2026-04-16 22:13:00,580.9,COD,Cancelled,Customer 20,Hyderabad,2025-12-15,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0311,CUST095,REST023,2026-07-06 01:45:00,294.99,Net Banking,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 23,North Indian,Mumbai,4.8,AGNT049,48.0,8.9
+ORD0312,CUST042,REST011,2026-06-19 15:33:00,545.67,COD,Delivered,Customer 42,Hyderabad,2025-03-22,Restaurant 11,North Indian,Bangalore,4.7,AGNT050,55.0,11.0
+ORD0313,CUST069,REST016,2026-03-29 17:22:00,859.66,Net Banking,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 16,South Indian,Chennai,3.6,AGNT018,16.0,8.7
+ORD0314,CUST062,REST022,2026-02-19 07:17:00,735.99,Debit Card,Delivered,Customer 62,Chennai,2025-11-03,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT030,33.0,7.1
+ORD0315,CUST099,REST016,2026-03-15 22:13:00,874.75,Debit Card,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 16,South Indian,Chennai,3.6,AGNT034,41.0,4.0
+ORD0316,CUST062,REST015,2026-03-31 17:59:00,1131.21,Debit Card,Delivered,Customer 62,Chennai,2025-11-03,Restaurant 15,Desserts,Chennai,4.1,AGNT006,58.0,6.1
+ORD0317,CUST016,REST022,2026-05-27 21:34:00,548.68,Debit Card,Delivered,Customer 16,Mumbai,2025-02-26,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT034,49.0,1.6
+ORD0318,CUST099,REST021,2026-02-07 09:02:00,452.01,Debit Card,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 21,South Indian,Mumbai,4.1,AGNT040,23.0,11.6
+ORD0319,CUST057,REST007,2026-06-17 08:47:00,653.03,Net Banking,Delivered,Customer 57,Chennai,2025-07-11,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT006,45.0,11.2
+ORD0320,CUST035,REST001,2026-05-24 22:17:00,294.14,COD,Cancelled,Customer 35,Bangalore,2025-10-02,Restaurant 1,South Indian,Hyderabad,3.8,,,
+ORD0321,CUST076,REST013,2026-03-03 07:03:00,853.33,Credit Card,Cancelled,Customer 76,Mumbai,2025-02-05,Restaurant 13,South Indian,Delhi,4.2,,,
+ORD0322,CUST082,REST001,2026-03-01 01:06:00,583.97,UPI,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 1,South Indian,Hyderabad,3.8,AGNT016,37.0,11.1
+ORD0323,CUST088,REST005,2026-07-17 04:00:00,1162.74,COD,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 5,Biryani,Delhi,4.3,AGNT031,41.0,4.7
+ORD0324,CUST084,REST004,2026-05-02 15:41:00,359.43,Debit Card,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 4,South Indian,Mumbai,4.7,AGNT041,43.0,11.3
+ORD0325,CUST037,REST016,2026-06-15 01:58:00,957.16,Credit Card,Cancelled,Customer 37,Chennai,2025-11-25,Restaurant 16,South Indian,Chennai,3.6,,,
+ORD0326,CUST069,REST019,2026-07-09 23:54:00,1133.5,COD,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 19,South Indian,Bangalore,3.9,AGNT048,62.0,9.4
+ORD0327,CUST023,REST029,2026-01-10 12:50:00,670.15,UPI,Delivered,Customer 23,Delhi,2025-02-02,Restaurant 29,North Indian,Bangalore,4.9,AGNT043,56.0,4.6
+ORD0328,CUST002,REST028,2026-03-18 18:38:00,262.67,Debit Card,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT043,16.0,10.5
+ORD0329,CUST059,REST005,2026-06-14 17:33:00,668.61,Net Banking,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 5,Biryani,Delhi,4.3,AGNT005,33.0,3.2
+ORD0330,CUST060,REST002,2026-03-11 06:51:00,268.28,COD,Delivered,Customer 60,Chennai,2025-09-29,Restaurant 2,North Indian,Hyderabad,4.8,AGNT044,27.0,6.1
+ORD0331,CUST059,REST006,2026-06-15 08:45:00,345.51,Debit Card,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 6,South Indian,Delhi,3.6,AGNT041,19.0,4.8
+ORD0332,CUST073,REST014,2026-06-22 06:11:00,791.5,COD,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 14,Desserts,Delhi,3.8,AGNT035,16.0,10.0
+ORD0333,CUST066,REST023,2026-03-25 02:25:00,852.72,Credit Card,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 23,North Indian,Mumbai,4.8,AGNT038,29.0,8.3
+ORD0334,CUST062,REST013,2026-03-24 07:00:00,423.82,COD,Delivered,Customer 62,Chennai,2025-11-03,Restaurant 13,South Indian,Delhi,4.2,AGNT020,48.0,9.8
+ORD0335,CUST097,REST001,2026-03-10 10:19:00,761.58,UPI,Cancelled,Customer 97,Delhi,2025-07-11,Restaurant 1,South Indian,Hyderabad,3.8,,,
+ORD0336,CUST034,REST003,2026-06-17 11:44:00,398.12,COD,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 3,North Indian,Delhi,4.1,AGNT040,56.0,4.4
+ORD0337,CUST040,REST017,2026-02-10 12:43:00,677.65,COD,Delivered,Customer 40,Bangalore,2025-05-31,Restaurant 17,North Indian,Chennai,4.0,AGNT004,36.0,2.3
+ORD0338,CUST016,REST015,2026-06-13 09:23:00,795.36,Credit Card,Delivered,Customer 16,Mumbai,2025-02-26,Restaurant 15,Desserts,Chennai,4.1,AGNT022,41.0,9.7
+ORD0339,CUST062,REST022,2026-02-09 14:47:00,1188.28,COD,Delivered,Customer 62,Chennai,2025-11-03,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT035,52.0,6.7
+ORD0340,CUST090,REST012,2026-05-21 15:48:00,714.39,Credit Card,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 12,South Indian,Delhi,3.7,AGNT050,36.0,9.2
+ORD0341,CUST088,REST012,2026-07-13 19:55:00,976.74,COD,Cancelled,Customer 88,Delhi,2025-04-19,Restaurant 12,South Indian,Delhi,3.7,,,
+ORD0342,CUST068,REST015,2026-06-30 11:04:00,1113.11,UPI,Delivered,Customer 68,Bangalore,2025-06-07,Restaurant 15,Desserts,Chennai,4.1,AGNT001,56.0,11.2
+ORD0343,CUST071,REST027,2026-05-10 06:36:00,713.49,Debit Card,Delivered,Customer 71,Bangalore,2025-05-04,Restaurant 27,North Indian,Delhi,3.7,AGNT031,56.0,5.0
+ORD0344,CUST067,REST012,2026-04-24 03:43:00,365.67,COD,Cancelled,Customer 67,Mumbai,2025-07-05,Restaurant 12,South Indian,Delhi,3.7,,,
+ORD0345,CUST012,REST013,2026-05-11 14:51:00,208.42,Net Banking,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 13,South Indian,Delhi,4.2,AGNT030,65.0,5.9
+ORD0346,CUST054,REST007,2026-04-27 18:03:00,736.74,COD,Delivered,Customer 54,Hyderabad,2025-11-08,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT033,35.0,11.1
+ORD0347,CUST003,REST024,2026-04-12 08:52:00,153.17,Net Banking,Delivered,Customer 3,Bangalore,2025-10-03,Restaurant 24,Biryani,Hyderabad,4.9,AGNT031,46.0,2.6
+ORD0348,CUST010,REST029,2026-01-12 13:22:00,885.4,UPI,Cancelled,Customer 10,Hyderabad,2025-04-23,Restaurant 29,North Indian,Bangalore,4.9,,,
+ORD0349,CUST009,REST012,2026-05-01 01:18:00,579.31,COD,Delivered,Customer 9,Chennai,2025-07-05,Restaurant 12,South Indian,Delhi,3.7,AGNT037,52.0,3.2
+ORD0350,CUST094,REST013,2026-06-15 13:23:00,1192.5,COD,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 13,South Indian,Delhi,4.2,AGNT047,57.0,4.2
+ORD0351,CUST049,REST019,2026-04-07 02:43:00,1162.35,Credit Card,Cancelled,Customer 49,Chennai,2025-02-24,Restaurant 19,South Indian,Bangalore,3.9,,,
+ORD0352,CUST084,REST028,2026-03-31 03:11:00,1192.49,Net Banking,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT022,59.0,2.2
+ORD0353,CUST017,REST012,2026-07-06 07:53:00,153.65,Debit Card,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 12,South Indian,Delhi,3.7,AGNT027,48.0,5.9
+ORD0354,CUST060,REST027,2026-06-22 23:34:00,595.33,Credit Card,Delivered,Customer 60,Chennai,2025-09-29,Restaurant 27,North Indian,Delhi,3.7,AGNT023,50.0,9.2
+ORD0355,CUST032,REST008,2026-04-28 11:09:00,439.43,UPI,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT019,43.0,7.3
+ORD0356,CUST085,REST029,2026-04-18 19:49:00,1133.05,Credit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 29,North Indian,Bangalore,4.9,AGNT019,44.0,4.9
+ORD0357,CUST027,REST020,2026-01-18 03:38:00,185.26,COD,Cancelled,Customer 27,Bangalore,2025-08-28,Restaurant 20,Biryani,Chennai,4.6,,,
+ORD0358,CUST091,REST016,2026-01-13 07:47:00,196.45,Credit Card,Delivered,Customer 91,Mumbai,2025-04-13,Restaurant 16,South Indian,Chennai,3.6,AGNT011,34.0,8.8
+ORD0359,CUST070,REST017,2026-02-25 01:08:00,679.09,Credit Card,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 17,North Indian,Chennai,4.0,AGNT003,51.0,9.5
+ORD0360,CUST094,REST027,2026-05-28 10:36:00,777.81,Credit Card,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 27,North Indian,Delhi,3.7,AGNT045,23.0,8.2
+ORD0361,CUST039,REST028,2026-02-06 21:33:00,382.09,Debit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT039,65.0,3.4
+ORD0362,CUST008,REST007,2026-05-23 18:56:00,921.97,COD,Delivered,Customer 8,Hyderabad,2025-07-24,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT048,34.0,6.2
+ORD0363,CUST087,REST030,2026-04-20 17:31:00,199.23,COD,Delivered,Customer 87,Bangalore,2025-08-05,Restaurant 30,Desserts,Delhi,4.3,AGNT020,25.0,8.2
+ORD0364,CUST086,REST007,2026-04-08 16:20:00,881.12,Credit Card,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT047,65.0,1.5
+ORD0365,CUST039,REST007,2026-04-07 05:48:00,714.82,Credit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT037,31.0,3.6
+ORD0366,CUST039,REST006,2026-07-01 04:51:00,636.18,Net Banking,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 6,South Indian,Delhi,3.6,AGNT017,29.0,4.7
+ORD0367,CUST053,REST022,2026-04-17 17:33:00,290.8,Debit Card,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT004,45.0,7.5
+ORD0368,CUST027,REST004,2026-03-26 20:05:00,1118.34,UPI,Delivered,Customer 27,Bangalore,2025-08-28,Restaurant 4,South Indian,Mumbai,4.7,AGNT041,38.0,2.7
+ORD0369,CUST069,REST030,2026-07-05 06:03:00,431.88,Net Banking,Cancelled,Customer 69,Bangalore,2025-05-03,Restaurant 30,Desserts,Delhi,4.3,,,
+ORD0370,CUST006,REST012,2026-01-19 06:51:00,949.78,Credit Card,Cancelled,Customer 6,Mumbai,2025-08-08,Restaurant 12,South Indian,Delhi,3.7,,,
+ORD0371,CUST062,REST016,2026-02-23 10:19:00,1154.87,Credit Card,Delivered,Customer 62,Chennai,2025-11-03,Restaurant 16,South Indian,Chennai,3.6,AGNT031,33.0,4.1
+ORD0372,CUST025,REST021,2026-07-09 03:47:00,1199.55,Credit Card,Delivered,Customer 25,Delhi,2025-07-15,Restaurant 21,South Indian,Mumbai,4.1,AGNT038,64.0,9.0
+ORD0373,CUST090,REST021,2026-06-04 22:13:00,566.46,Net Banking,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 21,South Indian,Mumbai,4.1,AGNT011,18.0,9.6
+ORD0374,CUST042,REST027,2026-07-18 09:24:00,639.56,Debit Card,Delivered,Customer 42,Hyderabad,2025-03-22,Restaurant 27,North Indian,Delhi,3.7,AGNT037,24.0,8.3
+ORD0375,CUST034,REST013,2026-04-03 16:56:00,672.14,COD,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 13,South Indian,Delhi,4.2,AGNT004,37.0,2.9
+ORD0376,CUST061,REST030,2026-07-14 10:58:00,363.28,COD,Delivered,Customer 61,Mumbai,2025-01-01,Restaurant 30,Desserts,Delhi,4.3,AGNT043,33.0,7.7
+ORD0377,CUST006,REST004,2026-05-25 07:47:00,303.22,Net Banking,Delivered,Customer 6,Mumbai,2025-08-08,Restaurant 4,South Indian,Mumbai,4.7,AGNT019,44.0,5.8
+ORD0378,CUST075,REST015,2026-05-29 23:26:00,459.95,Debit Card,Delivered,Customer 75,Hyderabad,2025-09-06,Restaurant 15,Desserts,Chennai,4.1,AGNT048,25.0,11.4
+ORD0379,CUST030,REST020,2026-04-08 18:53:00,408.02,COD,Cancelled,Customer 30,Delhi,2025-10-11,Restaurant 20,Biryani,Chennai,4.6,,,
+ORD0380,CUST088,REST008,2026-03-28 08:48:00,1012.67,COD,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT040,54.0,6.2
+ORD0381,CUST022,REST015,2026-07-07 11:10:00,296.96,COD,Cancelled,Customer 22,Hyderabad,2025-11-02,Restaurant 15,Desserts,Chennai,4.1,,,
+ORD0382,CUST024,REST015,2026-05-19 20:03:00,700.14,COD,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 15,Desserts,Chennai,4.1,AGNT002,25.0,10.7
+ORD0383,CUST007,REST006,2026-07-15 00:26:00,294.37,UPI,Delivered,Customer 7,Chennai,2025-10-26,Restaurant 6,South Indian,Delhi,3.6,AGNT019,60.0,2.9
+ORD0384,CUST091,REST006,2026-02-08 00:13:00,681.02,UPI,Delivered,Customer 91,Mumbai,2025-04-13,Restaurant 6,South Indian,Delhi,3.6,AGNT032,49.0,3.3
+ORD0385,CUST080,REST008,2026-06-13 21:59:00,797.35,COD,Delivered,Customer 80,Bangalore,2025-12-04,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT006,33.0,7.7
+ORD0386,CUST063,REST010,2026-01-05 00:34:00,729.23,UPI,Delivered,Customer 63,Delhi,2025-06-15,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT009,26.0,4.9
+ORD0387,CUST068,REST022,2026-07-04 08:34:00,1176.35,Net Banking,Delivered,Customer 68,Bangalore,2025-06-07,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT033,26.0,4.5
+ORD0388,CUST090,REST003,2026-06-22 13:51:00,1136.7,UPI,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 3,North Indian,Delhi,4.1,AGNT005,60.0,2.4
+ORD0389,CUST013,REST007,2026-05-15 04:15:00,351.53,Debit Card,Cancelled,Customer 13,Chennai,2025-09-10,Restaurant 7,Burgers & Pizza,Mumbai,4.9,,,
+ORD0390,CUST046,REST017,2026-03-10 12:05:00,541.7,COD,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 17,North Indian,Chennai,4.0,AGNT018,59.0,5.4
+ORD0391,CUST073,REST015,2026-03-04 22:14:00,464.97,COD,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 15,Desserts,Chennai,4.1,AGNT017,57.0,5.6
+ORD0392,CUST084,REST026,2026-07-14 01:05:00,575.54,Net Banking,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 26,Chinese,Mumbai,4.5,AGNT009,65.0,5.5
+ORD0393,CUST061,REST011,2026-01-15 20:00:00,887.99,COD,Delivered,Customer 61,Mumbai,2025-01-01,Restaurant 11,North Indian,Bangalore,4.7,AGNT040,24.0,10.3
+ORD0394,CUST056,REST002,2026-06-15 10:36:00,1176.2,Net Banking,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 2,North Indian,Hyderabad,4.8,AGNT018,25.0,7.5
+ORD0395,CUST006,REST008,2026-02-28 06:57:00,1061.52,COD,Cancelled,Customer 6,Mumbai,2025-08-08,Restaurant 8,Burgers & Pizza,Chennai,4.7,,,
+ORD0396,CUST035,REST016,2026-01-12 02:43:00,1121.86,Net Banking,Cancelled,Customer 35,Bangalore,2025-10-02,Restaurant 16,South Indian,Chennai,3.6,,,
+ORD0397,CUST085,REST018,2026-01-09 05:59:00,1042.95,Credit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 18,South Indian,Delhi,4.9,AGNT018,30.0,1.7
+ORD0398,CUST076,REST019,2026-02-06 22:52:00,568.21,Debit Card,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 19,South Indian,Bangalore,3.9,AGNT017,22.0,1.7
+ORD0399,CUST021,REST017,2026-05-25 07:36:00,1026.38,COD,Delivered,Customer 21,Mumbai,2025-08-05,Restaurant 17,North Indian,Chennai,4.0,AGNT001,17.0,7.4
+ORD0400,CUST070,REST015,2026-03-26 12:48:00,926.73,Net Banking,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 15,Desserts,Chennai,4.1,AGNT048,35.0,7.9
+ORD0401,CUST096,REST003,2026-03-30 01:06:00,608.94,Debit Card,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 3,North Indian,Delhi,4.1,AGNT008,51.0,3.9
+ORD0402,CUST078,REST021,2026-07-16 19:38:00,566.54,UPI,Delivered,Customer 78,Delhi,2025-03-06,Restaurant 21,South Indian,Mumbai,4.1,AGNT039,23.0,2.4
+ORD0403,CUST082,REST024,2026-03-11 14:31:00,389.55,COD,Cancelled,Customer 82,Mumbai,2025-10-09,Restaurant 24,Biryani,Hyderabad,4.9,,,
+ORD0404,CUST056,REST017,2026-02-17 21:37:00,843.71,Net Banking,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 17,North Indian,Chennai,4.0,AGNT012,43.0,6.4
+ORD0405,CUST038,REST013,2026-03-05 22:04:00,236.14,COD,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 13,South Indian,Delhi,4.2,AGNT038,31.0,4.2
+ORD0406,CUST092,REST024,2026-07-20 20:09:00,926.64,Debit Card,Delivered,Customer 92,Hyderabad,2026-01-01,Restaurant 24,Biryani,Hyderabad,4.9,AGNT048,38.0,10.4
+ORD0407,CUST014,REST014,2026-01-24 00:19:00,616.97,UPI,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 14,Desserts,Delhi,3.8,AGNT010,26.0,2.0
+ORD0408,CUST017,REST030,2026-01-23 05:27:00,621.29,Net Banking,Cancelled,Customer 17,Hyderabad,2025-03-20,Restaurant 30,Desserts,Delhi,4.3,,,
+ORD0409,CUST053,REST002,2026-01-27 00:05:00,521.61,Net Banking,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 2,North Indian,Hyderabad,4.8,AGNT043,28.0,8.0
+ORD0410,CUST077,REST014,2026-07-20 10:55:00,554.5,COD,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 14,Desserts,Delhi,3.8,AGNT029,50.0,7.8
+ORD0411,CUST050,REST026,2026-07-19 02:46:00,1096.19,Net Banking,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 26,Chinese,Mumbai,4.5,AGNT024,60.0,3.1
+ORD0412,CUST067,REST018,2026-02-13 21:24:00,327.98,Debit Card,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 18,South Indian,Delhi,4.9,AGNT012,17.0,11.6
+ORD0413,CUST035,REST001,2026-05-07 04:04:00,325.57,COD,Delivered,Customer 35,Bangalore,2025-10-02,Restaurant 1,South Indian,Hyderabad,3.8,AGNT017,57.0,3.3
+ORD0414,CUST039,REST026,2026-05-04 02:23:00,414.28,COD,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 26,Chinese,Mumbai,4.5,AGNT045,35.0,7.5
+ORD0415,CUST081,REST001,2026-05-07 19:39:00,355.33,Credit Card,Delivered,Customer 81,Hyderabad,2025-09-01,Restaurant 1,South Indian,Hyderabad,3.8,AGNT016,37.0,1.6
+ORD0416,CUST039,REST016,2026-01-02 12:21:00,1033.69,Debit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 16,South Indian,Chennai,3.6,AGNT032,24.0,7.0
+ORD0417,CUST057,REST018,2026-03-27 13:52:00,1014.71,Credit Card,Cancelled,Customer 57,Chennai,2025-07-11,Restaurant 18,South Indian,Delhi,4.9,,,
+ORD0418,CUST039,REST005,2026-03-24 19:44:00,360.89,Credit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 5,Biryani,Delhi,4.3,AGNT012,38.0,9.6
+ORD0419,CUST051,REST026,2026-03-23 09:47:00,879.71,Net Banking,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 26,Chinese,Mumbai,4.5,AGNT034,43.0,11.2
+ORD0420,CUST032,REST008,2026-03-25 12:17:00,1007.32,Debit Card,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT003,49.0,10.2
+ORD0421,CUST015,REST021,2026-05-25 06:37:00,1197.13,COD,Delivered,Customer 15,Mumbai,2025-01-25,Restaurant 21,South Indian,Mumbai,4.1,AGNT022,25.0,6.7
+ORD0422,CUST099,REST021,2026-05-21 00:46:00,634.7,COD,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 21,South Indian,Mumbai,4.1,AGNT006,49.0,3.9
+ORD0423,CUST038,REST010,2026-06-27 02:52:00,1040.18,COD,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT010,34.0,3.6
+ORD0424,CUST064,REST004,2026-02-05 20:19:00,404.12,COD,Delivered,Customer 64,Bangalore,2025-09-08,Restaurant 4,South Indian,Mumbai,4.7,AGNT039,22.0,11.4
+ORD0425,CUST055,REST019,2026-04-07 02:28:00,1190.24,Net Banking,Delivered,Customer 55,Mumbai,2025-04-12,Restaurant 19,South Indian,Bangalore,3.9,AGNT010,16.0,10.0
+ORD0426,CUST052,REST011,2026-05-17 16:59:00,1116.41,Net Banking,Delivered,Customer 52,Hyderabad,2025-11-24,Restaurant 11,North Indian,Bangalore,4.7,AGNT032,40.0,4.3
+ORD0427,CUST005,REST006,2026-04-03 22:57:00,1002.91,COD,Cancelled,Customer 5,Mumbai,2025-10-27,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0428,CUST011,REST023,2026-01-28 07:42:00,847.93,COD,Delivered,Customer 11,Delhi,2025-03-12,Restaurant 23,North Indian,Mumbai,4.8,AGNT049,46.0,9.3
+ORD0429,CUST079,REST014,2026-01-12 18:41:00,861.35,Debit Card,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 14,Desserts,Delhi,3.8,AGNT027,64.0,5.5
+ORD0430,CUST056,REST010,2026-01-28 00:06:00,421.68,COD,Cancelled,Customer 56,Chennai,2025-03-20,Restaurant 10,Burgers & Pizza,Delhi,4.8,,,
+ORD0431,CUST067,REST015,2026-05-23 18:44:00,754.0,Debit Card,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 15,Desserts,Chennai,4.1,AGNT050,24.0,6.0
+ORD0432,CUST051,REST013,2026-04-29 21:37:00,874.96,Debit Card,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 13,South Indian,Delhi,4.2,AGNT025,44.0,3.7
+ORD0433,CUST004,REST026,2026-05-04 03:18:00,586.77,UPI,Delivered,Customer 4,Mumbai,2025-05-15,Restaurant 26,Chinese,Mumbai,4.5,AGNT016,35.0,3.8
+ORD0434,CUST094,REST022,2026-02-06 11:19:00,510.22,Net Banking,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT043,24.0,10.2
+ORD0435,CUST062,REST002,2026-03-31 15:06:00,610.07,Debit Card,Delivered,Customer 62,Chennai,2025-11-03,Restaurant 2,North Indian,Hyderabad,4.8,AGNT029,15.0,9.1
+ORD0436,CUST009,REST011,2026-03-18 01:51:00,896.32,Debit Card,Delivered,Customer 9,Chennai,2025-07-05,Restaurant 11,North Indian,Bangalore,4.7,AGNT047,62.0,3.5
+ORD0437,CUST083,REST011,2026-01-28 21:51:00,322.57,Net Banking,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 11,North Indian,Bangalore,4.7,AGNT041,49.0,3.4
+ORD0438,CUST023,REST022,2026-05-22 05:21:00,737.84,Credit Card,Delivered,Customer 23,Delhi,2025-02-02,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT011,47.0,9.8
+ORD0439,CUST052,REST013,2026-06-11 05:11:00,822.5,COD,Delivered,Customer 52,Hyderabad,2025-11-24,Restaurant 13,South Indian,Delhi,4.2,AGNT014,36.0,1.8
+ORD0440,CUST004,REST017,2026-07-08 19:56:00,357.19,COD,Cancelled,Customer 4,Mumbai,2025-05-15,Restaurant 17,North Indian,Chennai,4.0,,,
+ORD0441,CUST050,REST002,2026-01-02 22:13:00,366.07,Net Banking,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 2,North Indian,Hyderabad,4.8,AGNT037,56.0,11.7
+ORD0442,CUST014,REST008,2026-05-18 05:23:00,492.28,UPI,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT047,60.0,4.0
+ORD0443,CUST034,REST030,2026-06-21 15:33:00,1164.21,Net Banking,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 30,Desserts,Delhi,4.3,AGNT023,33.0,6.2
+ORD0444,CUST050,REST016,2026-06-06 12:37:00,269.94,COD,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 16,South Indian,Chennai,3.6,AGNT004,45.0,4.1
+ORD0445,CUST080,REST005,2026-02-14 21:45:00,990.64,Net Banking,Cancelled,Customer 80,Bangalore,2025-12-04,Restaurant 5,Biryani,Delhi,4.3,,,
+ORD0446,CUST011,REST021,2026-06-22 04:20:00,273.75,UPI,Delivered,Customer 11,Delhi,2025-03-12,Restaurant 21,South Indian,Mumbai,4.1,AGNT042,33.0,7.6
+ORD0447,CUST024,REST009,2026-04-06 22:09:00,686.37,Net Banking,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 9,North Indian,Chennai,4.9,AGNT017,63.0,8.3
+ORD0448,CUST018,REST022,2026-05-28 12:27:00,345.04,COD,Cancelled,Customer 18,Hyderabad,2025-11-18,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0449,CUST083,REST007,2026-02-14 17:10:00,664.12,Credit Card,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT049,51.0,2.4
+ORD0450,CUST041,REST027,2026-04-26 19:03:00,1058.8,COD,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 27,North Indian,Delhi,3.7,AGNT008,57.0,6.4
+ORD0451,CUST018,REST025,2026-02-19 12:35:00,680.71,COD,Delivered,Customer 18,Hyderabad,2025-11-18,Restaurant 25,Desserts,Delhi,4.3,AGNT004,24.0,10.7
+ORD0452,CUST088,REST004,2026-05-06 13:45:00,1031.89,Credit Card,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 4,South Indian,Mumbai,4.7,AGNT011,51.0,11.7
+ORD0453,CUST011,REST024,2026-05-25 00:50:00,949.11,UPI,Delivered,Customer 11,Delhi,2025-03-12,Restaurant 24,Biryani,Hyderabad,4.9,AGNT030,61.0,5.7
+ORD0454,CUST036,REST015,2026-02-27 17:18:00,326.62,Net Banking,Delivered,Customer 36,Chennai,2025-05-17,Restaurant 15,Desserts,Chennai,4.1,AGNT026,43.0,3.7
+ORD0455,CUST096,REST018,2026-07-17 15:35:00,686.35,UPI,Cancelled,Customer 96,Delhi,2025-11-29,Restaurant 18,South Indian,Delhi,4.9,,,
+ORD0456,CUST035,REST011,2026-07-18 17:52:00,1190.44,UPI,Cancelled,Customer 35,Bangalore,2025-10-02,Restaurant 11,North Indian,Bangalore,4.7,,,
+ORD0457,CUST098,REST017,2026-07-04 14:34:00,379.47,UPI,Delivered,Customer 98,Mumbai,2025-08-13,Restaurant 17,North Indian,Chennai,4.0,AGNT031,36.0,5.5
+ORD0458,CUST095,REST010,2026-06-17 07:19:00,1068.55,COD,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT020,59.0,5.9
+ORD0459,CUST034,REST017,2026-03-31 02:28:00,1058.55,Credit Card,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 17,North Indian,Chennai,4.0,AGNT031,22.0,7.8
+ORD0460,CUST027,REST019,2026-07-08 18:44:00,518.16,COD,Cancelled,Customer 27,Bangalore,2025-08-28,Restaurant 19,South Indian,Bangalore,3.9,,,
+ORD0461,CUST055,REST009,2026-02-12 19:08:00,974.09,UPI,Delivered,Customer 55,Mumbai,2025-04-12,Restaurant 9,North Indian,Chennai,4.9,AGNT048,61.0,2.3
+ORD0462,CUST073,REST002,2026-03-31 17:17:00,776.7,Debit Card,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 2,North Indian,Hyderabad,4.8,AGNT049,45.0,7.3
+ORD0463,CUST091,REST006,2026-03-16 09:36:00,430.71,COD,Cancelled,Customer 91,Mumbai,2025-04-13,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0464,CUST013,REST022,2026-02-04 13:58:00,212.25,COD,Delivered,Customer 13,Chennai,2025-09-10,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT035,17.0,2.0
+ORD0465,CUST017,REST008,2026-06-29 04:15:00,303.56,Credit Card,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT015,23.0,11.3
+ORD0466,CUST098,REST017,2026-06-23 12:31:00,299.28,COD,Delivered,Customer 98,Mumbai,2025-08-13,Restaurant 17,North Indian,Chennai,4.0,AGNT025,58.0,6.4
+ORD0467,CUST054,REST018,2026-04-07 14:04:00,815.31,COD,Delivered,Customer 54,Hyderabad,2025-11-08,Restaurant 18,South Indian,Delhi,4.9,AGNT044,50.0,5.2
+ORD0468,CUST066,REST020,2026-07-11 08:44:00,1133.15,COD,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 20,Biryani,Chennai,4.6,AGNT046,22.0,7.9
+ORD0469,CUST063,REST030,2026-03-25 18:00:00,1062.35,COD,Delivered,Customer 63,Delhi,2025-06-15,Restaurant 30,Desserts,Delhi,4.3,AGNT025,34.0,8.5
+ORD0470,CUST059,REST026,2026-06-12 21:44:00,526.13,Net Banking,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 26,Chinese,Mumbai,4.5,AGNT031,16.0,9.9
+ORD0471,CUST051,REST017,2026-02-25 13:52:00,372.44,Debit Card,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 17,North Indian,Chennai,4.0,AGNT017,40.0,9.0
+ORD0472,CUST037,REST023,2026-03-28 17:36:00,287.12,Debit Card,Delivered,Customer 37,Chennai,2025-11-25,Restaurant 23,North Indian,Mumbai,4.8,AGNT010,54.0,10.0
+ORD0473,CUST088,REST021,2026-07-15 01:02:00,254.55,UPI,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 21,South Indian,Mumbai,4.1,AGNT034,29.0,1.6
+ORD0474,CUST016,REST013,2026-02-10 14:29:00,150.71,Credit Card,Delivered,Customer 16,Mumbai,2025-02-26,Restaurant 13,South Indian,Delhi,4.2,AGNT028,43.0,6.8
+ORD0475,CUST089,REST024,2026-02-03 20:19:00,316.93,UPI,Delivered,Customer 89,Bangalore,2025-10-04,Restaurant 24,Biryani,Hyderabad,4.9,AGNT001,37.0,5.5
+ORD0476,CUST084,REST028,2026-04-03 08:05:00,540.44,UPI,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT019,20.0,11.8
+ORD0477,CUST051,REST016,2026-06-10 09:46:00,884.41,COD,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 16,South Indian,Chennai,3.6,AGNT029,35.0,8.5
+ORD0478,CUST084,REST010,2026-01-24 22:06:00,151.14,UPI,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT025,18.0,2.9
+ORD0479,CUST017,REST007,2026-06-01 07:33:00,863.98,UPI,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT044,53.0,10.9
+ORD0480,CUST090,REST030,2026-03-29 03:55:00,593.43,COD,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 30,Desserts,Delhi,4.3,AGNT021,56.0,1.9
+ORD0481,CUST010,REST023,2026-02-28 12:05:00,917.3,UPI,Delivered,Customer 10,Hyderabad,2025-04-23,Restaurant 23,North Indian,Mumbai,4.8,AGNT034,27.0,3.4
+ORD0482,CUST041,REST029,2026-04-05 09:08:00,551.86,COD,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 29,North Indian,Bangalore,4.9,AGNT044,52.0,3.3
+ORD0483,CUST087,REST006,2026-02-06 02:33:00,741.46,COD,Cancelled,Customer 87,Bangalore,2025-08-05,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0484,CUST022,REST002,2026-04-23 11:46:00,373.71,COD,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 2,North Indian,Hyderabad,4.8,AGNT003,48.0,6.7
+ORD0485,CUST079,REST004,2026-06-25 14:55:00,378.11,Credit Card,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 4,South Indian,Mumbai,4.7,AGNT007,29.0,5.1
+ORD0486,CUST097,REST014,2026-02-01 18:46:00,553.23,Debit Card,Delivered,Customer 97,Delhi,2025-07-11,Restaurant 14,Desserts,Delhi,3.8,AGNT035,65.0,6.4
+ORD0487,CUST018,REST002,2026-03-05 08:41:00,238.46,Net Banking,Cancelled,Customer 18,Hyderabad,2025-11-18,Restaurant 2,North Indian,Hyderabad,4.8,,,
+ORD0488,CUST077,REST012,2026-07-04 19:18:00,967.92,COD,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 12,South Indian,Delhi,3.7,AGNT041,64.0,2.4
+ORD0489,CUST039,REST014,2026-02-22 16:38:00,685.0,Debit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 14,Desserts,Delhi,3.8,AGNT023,32.0,9.0
+ORD0490,CUST083,REST008,2026-01-14 07:31:00,555.18,COD,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT028,27.0,6.0
+ORD0491,CUST082,REST015,2026-06-02 02:33:00,1083.16,Debit Card,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 15,Desserts,Chennai,4.1,AGNT040,16.0,4.2
+ORD0492,CUST041,REST006,2026-02-03 12:55:00,1030.92,Debit Card,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 6,South Indian,Delhi,3.6,AGNT042,20.0,4.8
+ORD0493,CUST070,REST024,2026-06-24 05:48:00,644.57,UPI,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 24,Biryani,Hyderabad,4.9,AGNT018,49.0,11.8
+ORD0494,CUST076,REST012,2026-01-18 00:16:00,376.53,COD,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 12,South Indian,Delhi,3.7,AGNT022,43.0,6.7
+ORD0495,CUST065,REST030,2026-03-15 20:45:00,676.1,COD,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 30,Desserts,Delhi,4.3,AGNT018,58.0,11.7
+ORD0496,CUST090,REST001,2026-04-13 02:40:00,713.39,Credit Card,Cancelled,Customer 90,Chennai,2025-12-20,Restaurant 1,South Indian,Hyderabad,3.8,,,
+ORD0497,CUST036,REST022,2026-01-22 09:05:00,686.87,Credit Card,Delivered,Customer 36,Chennai,2025-05-17,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT018,57.0,4.5
+ORD0498,CUST069,REST007,2026-03-25 12:37:00,816.01,Debit Card,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT007,20.0,5.3
+ORD0499,CUST090,REST022,2026-04-22 23:54:00,400.57,UPI,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT017,47.0,6.0
+ORD0500,CUST056,REST003,2026-01-30 14:39:00,789.27,COD,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 3,North Indian,Delhi,4.1,AGNT042,40.0,11.0
+ORD0501,CUST095,REST030,2026-06-18 23:11:00,275.42,COD,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 30,Desserts,Delhi,4.3,AGNT038,27.0,4.3
+ORD0502,CUST002,REST001,2026-02-11 15:22:00,699.16,Credit Card,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 1,South Indian,Hyderabad,3.8,AGNT026,46.0,10.2
+ORD0503,CUST048,REST024,2026-02-02 23:49:00,1067.13,UPI,Delivered,Customer 48,Delhi,2025-09-17,Restaurant 24,Biryani,Hyderabad,4.9,AGNT030,35.0,11.2
+ORD0504,CUST043,REST011,2026-04-20 08:33:00,217.07,COD,Cancelled,Customer 43,Bangalore,2025-08-21,Restaurant 11,North Indian,Bangalore,4.7,,,
+ORD0505,CUST010,REST010,2026-05-08 14:32:00,528.13,Net Banking,Delivered,Customer 10,Hyderabad,2025-04-23,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT050,53.0,6.9
+ORD0506,CUST022,REST009,2026-04-05 05:16:00,962.0,COD,Cancelled,Customer 22,Hyderabad,2025-11-02,Restaurant 9,North Indian,Chennai,4.9,,,
+ORD0507,CUST093,REST030,2026-01-30 07:47:00,684.27,UPI,Delivered,Customer 93,Bangalore,2025-06-09,Restaurant 30,Desserts,Delhi,4.3,AGNT044,53.0,6.1
+ORD0508,CUST032,REST003,2026-01-12 15:23:00,552.13,Credit Card,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 3,North Indian,Delhi,4.1,AGNT048,47.0,3.2
+ORD0509,CUST005,REST028,2026-05-22 22:47:00,838.49,Debit Card,Delivered,Customer 5,Mumbai,2025-10-27,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT016,18.0,9.2
+ORD0510,CUST032,REST030,2026-04-17 23:20:00,434.82,Net Banking,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 30,Desserts,Delhi,4.3,AGNT047,57.0,6.7
+ORD0511,CUST048,REST004,2026-01-31 16:43:00,1097.04,Credit Card,Delivered,Customer 48,Delhi,2025-09-17,Restaurant 4,South Indian,Mumbai,4.7,AGNT044,38.0,11.5
+ORD0512,CUST067,REST011,2026-01-12 12:04:00,1070.84,Debit Card,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 11,North Indian,Bangalore,4.7,AGNT038,40.0,7.3
+ORD0513,CUST042,REST024,2026-01-23 17:29:00,158.37,Debit Card,Delivered,Customer 42,Hyderabad,2025-03-22,Restaurant 24,Biryani,Hyderabad,4.9,AGNT050,24.0,11.2
+ORD0514,CUST073,REST012,2026-07-20 09:47:00,803.85,Debit Card,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 12,South Indian,Delhi,3.7,AGNT013,60.0,8.2
+ORD0515,CUST076,REST024,2026-05-07 06:46:00,1095.47,Credit Card,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 24,Biryani,Hyderabad,4.9,AGNT034,42.0,6.1
+ORD0516,CUST001,REST001,2026-04-15 00:14:00,718.62,Debit Card,Delivered,Customer 1,Chennai,2025-05-07,Restaurant 1,South Indian,Hyderabad,3.8,AGNT022,38.0,3.5
+ORD0517,CUST001,REST030,2026-07-14 21:24:00,1041.46,UPI,Delivered,Customer 1,Chennai,2025-05-07,Restaurant 30,Desserts,Delhi,4.3,AGNT044,39.0,2.1
+ORD0518,CUST027,REST023,2026-05-16 07:26:00,666.63,Credit Card,Delivered,Customer 27,Bangalore,2025-08-28,Restaurant 23,North Indian,Mumbai,4.8,AGNT045,38.0,3.4
+ORD0519,CUST092,REST014,2026-03-13 02:02:00,1117.34,COD,Cancelled,Customer 92,Hyderabad,2026-01-01,Restaurant 14,Desserts,Delhi,3.8,,,
+ORD0520,CUST090,REST003,2026-04-06 14:47:00,239.15,Net Banking,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 3,North Indian,Delhi,4.1,AGNT012,15.0,6.4
+ORD0521,CUST018,REST005,2026-06-13 12:04:00,771.49,COD,Delivered,Customer 18,Hyderabad,2025-11-18,Restaurant 5,Biryani,Delhi,4.3,AGNT021,33.0,3.2
+ORD0522,CUST085,REST005,2026-02-03 07:18:00,424.04,COD,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 5,Biryani,Delhi,4.3,AGNT036,37.0,6.4
+ORD0523,CUST090,REST015,2026-07-08 10:20:00,625.4,UPI,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 15,Desserts,Chennai,4.1,AGNT001,37.0,2.7
+ORD0524,CUST026,REST025,2026-02-04 18:06:00,313.18,COD,Delivered,Customer 26,Hyderabad,2025-11-02,Restaurant 25,Desserts,Delhi,4.3,AGNT044,34.0,10.9
+ORD0525,CUST060,REST021,2026-03-22 13:07:00,712.72,COD,Delivered,Customer 60,Chennai,2025-09-29,Restaurant 21,South Indian,Mumbai,4.1,AGNT001,43.0,6.7
+ORD0526,CUST040,REST022,2026-04-29 08:54:00,275.91,COD,Delivered,Customer 40,Bangalore,2025-05-31,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT005,50.0,6.1
+ORD0527,CUST039,REST024,2026-06-30 22:38:00,192.35,Credit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 24,Biryani,Hyderabad,4.9,AGNT001,20.0,11.9
+ORD0528,CUST012,REST003,2026-07-02 07:22:00,566.06,COD,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 3,North Indian,Delhi,4.1,AGNT027,28.0,7.4
+ORD0529,CUST039,REST025,2026-03-08 05:01:00,1149.7,Net Banking,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 25,Desserts,Delhi,4.3,AGNT007,61.0,6.3
+ORD0530,CUST096,REST012,2026-05-21 07:06:00,635.15,UPI,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 12,South Indian,Delhi,3.7,AGNT034,43.0,2.7
+ORD0531,CUST002,REST025,2026-01-16 07:08:00,358.04,Debit Card,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 25,Desserts,Delhi,4.3,AGNT007,62.0,9.1
+ORD0532,CUST088,REST028,2026-06-11 20:05:00,761.44,UPI,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT044,41.0,3.1
+ORD0533,CUST003,REST027,2026-01-17 06:57:00,828.29,UPI,Delivered,Customer 3,Bangalore,2025-10-03,Restaurant 27,North Indian,Delhi,3.7,AGNT029,43.0,5.2
+ORD0534,CUST043,REST013,2026-02-01 01:29:00,203.17,COD,Cancelled,Customer 43,Bangalore,2025-08-21,Restaurant 13,South Indian,Delhi,4.2,,,
+ORD0535,CUST093,REST019,2026-04-12 15:01:00,551.87,Credit Card,Delivered,Customer 93,Bangalore,2025-06-09,Restaurant 19,South Indian,Bangalore,3.9,AGNT023,33.0,3.6
+ORD0536,CUST046,REST003,2026-02-24 05:17:00,443.85,UPI,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 3,North Indian,Delhi,4.1,AGNT015,25.0,4.5
+ORD0537,CUST079,REST014,2026-06-08 19:15:00,829.64,COD,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 14,Desserts,Delhi,3.8,AGNT047,61.0,10.3
+ORD0538,CUST071,REST004,2026-05-03 01:05:00,443.76,COD,Delivered,Customer 71,Bangalore,2025-05-04,Restaurant 4,South Indian,Mumbai,4.7,AGNT019,42.0,9.4
+ORD0539,CUST026,REST004,2026-06-14 16:15:00,812.29,UPI,Cancelled,Customer 26,Hyderabad,2025-11-02,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0540,CUST049,REST024,2026-07-20 22:22:00,653.67,Debit Card,Delivered,Customer 49,Chennai,2025-02-24,Restaurant 24,Biryani,Hyderabad,4.9,AGNT017,61.0,10.1
+ORD0541,CUST073,REST003,2026-05-09 10:24:00,433.96,Debit Card,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 3,North Indian,Delhi,4.1,AGNT013,41.0,7.4
+ORD0542,CUST077,REST001,2026-02-26 00:57:00,1001.22,UPI,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 1,South Indian,Hyderabad,3.8,AGNT003,23.0,8.5
+ORD0543,CUST061,REST008,2026-05-16 11:49:00,763.19,Credit Card,Delivered,Customer 61,Mumbai,2025-01-01,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT002,52.0,3.7
+ORD0544,CUST013,REST028,2026-03-05 21:15:00,429.85,Credit Card,Delivered,Customer 13,Chennai,2025-09-10,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT040,53.0,12.0
+ORD0545,CUST074,REST017,2026-04-10 11:59:00,1031.18,Credit Card,Delivered,Customer 74,Mumbai,2025-02-13,Restaurant 17,North Indian,Chennai,4.0,AGNT006,20.0,1.5
+ORD0546,CUST031,REST012,2026-06-01 10:51:00,925.01,Net Banking,Delivered,Customer 31,Bangalore,2025-01-06,Restaurant 12,South Indian,Delhi,3.7,AGNT004,24.0,9.6
+ORD0547,CUST004,REST022,2026-06-30 22:22:00,1144.94,Credit Card,Cancelled,Customer 4,Mumbai,2025-05-15,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0548,CUST073,REST024,2026-02-18 15:34:00,474.51,UPI,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 24,Biryani,Hyderabad,4.9,AGNT039,28.0,3.4
+ORD0549,CUST012,REST016,2026-01-15 07:38:00,379.75,COD,Cancelled,Customer 12,Chennai,2025-09-18,Restaurant 16,South Indian,Chennai,3.6,,,
+ORD0550,CUST001,REST018,2026-03-26 19:12:00,996.77,COD,Delivered,Customer 1,Chennai,2025-05-07,Restaurant 18,South Indian,Delhi,4.9,AGNT043,34.0,11.2
+ORD0551,CUST023,REST013,2026-03-24 01:01:00,305.1,UPI,Delivered,Customer 23,Delhi,2025-02-02,Restaurant 13,South Indian,Delhi,4.2,AGNT014,45.0,4.1
+ORD0552,CUST068,REST005,2026-04-04 02:23:00,889.76,Net Banking,Delivered,Customer 68,Bangalore,2025-06-07,Restaurant 5,Biryani,Delhi,4.3,AGNT039,48.0,6.7
+ORD0553,CUST013,REST029,2026-03-28 09:20:00,293.27,COD,Delivered,Customer 13,Chennai,2025-09-10,Restaurant 29,North Indian,Bangalore,4.9,AGNT041,36.0,2.5
+ORD0554,CUST056,REST006,2026-06-13 15:41:00,483.15,COD,Cancelled,Customer 56,Chennai,2025-03-20,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0555,CUST079,REST007,2026-04-02 07:42:00,768.4,COD,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT008,19.0,5.0
+ORD0556,CUST040,REST019,2026-07-07 22:18:00,283.72,COD,Delivered,Customer 40,Bangalore,2025-05-31,Restaurant 19,South Indian,Bangalore,3.9,AGNT046,52.0,4.5
+ORD0557,CUST074,REST014,2026-04-11 18:02:00,341.19,Net Banking,Delivered,Customer 74,Mumbai,2025-02-13,Restaurant 14,Desserts,Delhi,3.8,AGNT008,63.0,11.8
+ORD0558,CUST029,REST010,2026-06-13 18:06:00,1133.52,Debit Card,Delivered,Customer 29,Mumbai,2025-05-09,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT006,39.0,2.8
+ORD0559,CUST096,REST019,2026-01-20 07:22:00,1181.5,COD,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 19,South Indian,Bangalore,3.9,AGNT039,20.0,5.4
+ORD0560,CUST012,REST028,2026-07-01 21:40:00,915.75,COD,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT009,15.0,11.3
+ORD0561,CUST002,REST007,2026-03-09 06:15:00,877.83,Debit Card,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT025,41.0,2.6
+ORD0562,CUST014,REST002,2026-07-04 00:03:00,555.23,Credit Card,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 2,North Indian,Hyderabad,4.8,AGNT043,55.0,4.9
+ORD0563,CUST053,REST013,2026-05-07 12:22:00,723.33,COD,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 13,South Indian,Delhi,4.2,AGNT049,32.0,1.8
+ORD0564,CUST074,REST020,2026-06-16 21:14:00,320.79,UPI,Delivered,Customer 74,Mumbai,2025-02-13,Restaurant 20,Biryani,Chennai,4.6,AGNT042,41.0,6.3
+ORD0565,CUST038,REST022,2026-01-06 10:16:00,1149.25,Debit Card,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT037,26.0,8.9
+ORD0566,CUST022,REST012,2026-04-07 05:46:00,228.75,Debit Card,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 12,South Indian,Delhi,3.7,AGNT012,50.0,6.5
+ORD0567,CUST077,REST017,2026-06-07 15:45:00,182.54,Net Banking,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 17,North Indian,Chennai,4.0,AGNT008,44.0,8.1
+ORD0568,CUST056,REST014,2026-02-10 01:06:00,497.65,COD,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 14,Desserts,Delhi,3.8,AGNT045,60.0,4.3
+ORD0569,CUST090,REST003,2026-05-22 23:59:00,916.47,COD,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 3,North Indian,Delhi,4.1,AGNT012,51.0,8.4
+ORD0570,CUST037,REST021,2026-03-18 07:06:00,202.12,Net Banking,Cancelled,Customer 37,Chennai,2025-11-25,Restaurant 21,South Indian,Mumbai,4.1,,,
+ORD0571,CUST063,REST010,2026-02-09 01:23:00,154.01,Debit Card,Delivered,Customer 63,Delhi,2025-06-15,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT017,63.0,5.0
+ORD0572,CUST085,REST002,2026-06-10 19:30:00,359.66,Credit Card,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 2,North Indian,Hyderabad,4.8,AGNT019,23.0,2.0
+ORD0573,CUST022,REST002,2026-06-13 09:05:00,647.25,Debit Card,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 2,North Indian,Hyderabad,4.8,AGNT030,27.0,8.0
+ORD0574,CUST051,REST013,2026-05-01 15:57:00,844.09,COD,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 13,South Indian,Delhi,4.2,AGNT043,26.0,6.3
+ORD0575,CUST070,REST020,2026-04-10 05:23:00,1079.77,Credit Card,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 20,Biryani,Chennai,4.6,AGNT005,39.0,11.4
+ORD0576,CUST058,REST007,2026-01-12 08:28:00,638.31,Debit Card,Delivered,Customer 58,Mumbai,2025-03-24,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT041,33.0,12.0
+ORD0577,CUST073,REST010,2026-01-16 04:48:00,881.29,UPI,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT030,50.0,11.0
+ORD0578,CUST086,REST009,2026-03-30 17:26:00,1169.24,Credit Card,Cancelled,Customer 86,Chennai,2025-11-07,Restaurant 9,North Indian,Chennai,4.9,,,
+ORD0579,CUST071,REST002,2026-01-16 12:52:00,698.71,COD,Cancelled,Customer 71,Bangalore,2025-05-04,Restaurant 2,North Indian,Hyderabad,4.8,,,
+ORD0580,CUST061,REST002,2026-05-27 07:30:00,463.79,COD,Delivered,Customer 61,Mumbai,2025-01-01,Restaurant 2,North Indian,Hyderabad,4.8,AGNT018,46.0,9.9
+ORD0581,CUST005,REST013,2026-05-09 18:57:00,692.66,COD,Cancelled,Customer 5,Mumbai,2025-10-27,Restaurant 13,South Indian,Delhi,4.2,,,
+ORD0582,CUST080,REST015,2026-02-07 03:48:00,621.49,Credit Card,Delivered,Customer 80,Bangalore,2025-12-04,Restaurant 15,Desserts,Chennai,4.1,AGNT050,17.0,2.9
+ORD0583,CUST025,REST016,2026-02-02 01:27:00,232.29,Credit Card,Delivered,Customer 25,Delhi,2025-07-15,Restaurant 16,South Indian,Chennai,3.6,AGNT028,34.0,10.6
+ORD0584,CUST081,REST022,2026-02-07 19:16:00,485.74,UPI,Delivered,Customer 81,Hyderabad,2025-09-01,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT045,52.0,9.9
+ORD0585,CUST050,REST022,2026-05-23 12:35:00,492.43,Net Banking,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT043,34.0,4.5
+ORD0586,CUST059,REST007,2026-01-04 22:39:00,766.95,UPI,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT050,46.0,9.9
+ORD0587,CUST054,REST018,2026-02-08 04:36:00,767.33,UPI,Delivered,Customer 54,Hyderabad,2025-11-08,Restaurant 18,South Indian,Delhi,4.9,AGNT050,50.0,9.3
+ORD0588,CUST073,REST025,2026-07-19 03:50:00,450.4,Debit Card,Cancelled,Customer 73,Hyderabad,2025-02-10,Restaurant 25,Desserts,Delhi,4.3,,,
+ORD0589,CUST053,REST004,2026-03-09 12:41:00,659.86,COD,Cancelled,Customer 53,Bangalore,2025-09-17,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0590,CUST005,REST027,2026-02-14 08:25:00,301.05,COD,Cancelled,Customer 5,Mumbai,2025-10-27,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0591,CUST089,REST022,2026-04-13 01:25:00,1084.05,COD,Delivered,Customer 89,Bangalore,2025-10-04,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT021,62.0,7.2
+ORD0592,CUST031,REST003,2026-01-13 23:30:00,1116.88,UPI,Delivered,Customer 31,Bangalore,2025-01-06,Restaurant 3,North Indian,Delhi,4.1,AGNT017,44.0,7.8
+ORD0593,CUST044,REST029,2026-03-19 09:17:00,1034.99,Credit Card,Delivered,Customer 44,Chennai,2025-01-02,Restaurant 29,North Indian,Bangalore,4.9,AGNT011,29.0,2.5
+ORD0594,CUST018,REST005,2026-03-18 23:28:00,962.73,Debit Card,Delivered,Customer 18,Hyderabad,2025-11-18,Restaurant 5,Biryani,Delhi,4.3,AGNT050,16.0,4.2
+ORD0595,CUST094,REST010,2026-04-17 19:41:00,243.75,Credit Card,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT005,65.0,4.0
+ORD0596,CUST053,REST030,2026-07-09 15:48:00,692.33,UPI,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 30,Desserts,Delhi,4.3,AGNT018,15.0,9.6
+ORD0597,CUST066,REST009,2026-02-10 02:19:00,895.05,Credit Card,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 9,North Indian,Chennai,4.9,AGNT050,24.0,5.7
+ORD0598,CUST100,REST017,2026-05-15 18:01:00,332.42,UPI,Delivered,Customer 100,Mumbai,2025-08-20,Restaurant 17,North Indian,Chennai,4.0,AGNT004,31.0,1.7
+ORD0599,CUST032,REST005,2026-01-09 14:03:00,1113.93,Debit Card,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 5,Biryani,Delhi,4.3,AGNT025,34.0,3.7
+ORD0600,CUST048,REST001,2026-04-29 16:25:00,817.18,COD,Delivered,Customer 48,Delhi,2025-09-17,Restaurant 1,South Indian,Hyderabad,3.8,AGNT025,55.0,5.6
+ORD0601,CUST004,REST004,2026-03-03 11:31:00,773.75,COD,Delivered,Customer 4,Mumbai,2025-05-15,Restaurant 4,South Indian,Mumbai,4.7,AGNT022,55.0,5.7
+ORD0602,CUST076,REST010,2026-05-22 11:22:00,321.69,COD,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT004,45.0,8.3
+ORD0603,CUST089,REST012,2026-01-24 09:01:00,555.89,Net Banking,Delivered,Customer 89,Bangalore,2025-10-04,Restaurant 12,South Indian,Delhi,3.7,AGNT017,22.0,11.5
+ORD0604,CUST100,REST024,2026-02-24 07:41:00,386.37,Debit Card,Delivered,Customer 100,Mumbai,2025-08-20,Restaurant 24,Biryani,Hyderabad,4.9,AGNT017,56.0,3.1
+ORD0605,CUST084,REST010,2026-04-15 16:01:00,1057.86,COD,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT012,57.0,4.6
+ORD0606,CUST017,REST010,2026-06-15 05:38:00,990.91,Debit Card,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT029,33.0,9.9
+ORD0607,CUST078,REST002,2026-03-20 22:45:00,824.88,COD,Delivered,Customer 78,Delhi,2025-03-06,Restaurant 2,North Indian,Hyderabad,4.8,AGNT005,41.0,9.2
+ORD0608,CUST045,REST022,2026-04-28 08:13:00,640.03,Net Banking,Cancelled,Customer 45,Delhi,2025-05-15,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0609,CUST051,REST024,2026-05-30 03:00:00,687.09,Net Banking,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 24,Biryani,Hyderabad,4.9,AGNT032,26.0,11.2
+ORD0610,CUST083,REST030,2026-06-02 19:18:00,463.4,COD,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 30,Desserts,Delhi,4.3,AGNT013,46.0,11.0
+ORD0611,CUST009,REST018,2026-03-28 08:40:00,491.39,Debit Card,Delivered,Customer 9,Chennai,2025-07-05,Restaurant 18,South Indian,Delhi,4.9,AGNT040,59.0,7.8
+ORD0612,CUST084,REST028,2026-07-02 20:19:00,347.78,Credit Card,Cancelled,Customer 84,Chennai,2025-05-16,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD0613,CUST008,REST001,2026-06-03 12:42:00,485.57,COD,Delivered,Customer 8,Hyderabad,2025-07-24,Restaurant 1,South Indian,Hyderabad,3.8,AGNT026,56.0,5.3
+ORD0614,CUST004,REST019,2026-06-17 15:18:00,422.4,COD,Delivered,Customer 4,Mumbai,2025-05-15,Restaurant 19,South Indian,Bangalore,3.9,AGNT012,30.0,2.5
+ORD0615,CUST050,REST024,2026-07-08 01:37:00,893.47,Credit Card,Cancelled,Customer 50,Hyderabad,2025-11-17,Restaurant 24,Biryani,Hyderabad,4.9,,,
+ORD0616,CUST044,REST013,2026-07-05 22:14:00,870.63,COD,Delivered,Customer 44,Chennai,2025-01-02,Restaurant 13,South Indian,Delhi,4.2,AGNT042,16.0,5.4
+ORD0617,CUST046,REST015,2026-05-10 09:54:00,328.49,Credit Card,Cancelled,Customer 46,Hyderabad,2025-09-14,Restaurant 15,Desserts,Chennai,4.1,,,
+ORD0618,CUST038,REST018,2026-01-25 15:08:00,927.96,Credit Card,Cancelled,Customer 38,Delhi,2025-06-24,Restaurant 18,South Indian,Delhi,4.9,,,
+ORD0619,CUST088,REST013,2026-03-27 20:05:00,383.37,COD,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 13,South Indian,Delhi,4.2,AGNT032,22.0,3.6
+ORD0620,CUST040,REST012,2026-04-18 10:23:00,423.59,COD,Delivered,Customer 40,Bangalore,2025-05-31,Restaurant 12,South Indian,Delhi,3.7,AGNT007,63.0,6.2
+ORD0621,CUST016,REST025,2026-05-01 01:55:00,816.12,Net Banking,Cancelled,Customer 16,Mumbai,2025-02-26,Restaurant 25,Desserts,Delhi,4.3,,,
+ORD0622,CUST010,REST015,2026-05-01 06:32:00,275.81,Net Banking,Delivered,Customer 10,Hyderabad,2025-04-23,Restaurant 15,Desserts,Chennai,4.1,AGNT010,32.0,5.6
+ORD0623,CUST039,REST013,2026-04-16 01:55:00,1046.95,Credit Card,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 13,South Indian,Delhi,4.2,AGNT035,46.0,4.3
+ORD0624,CUST044,REST015,2026-04-15 18:57:00,1101.95,Credit Card,Delivered,Customer 44,Chennai,2025-01-02,Restaurant 15,Desserts,Chennai,4.1,AGNT050,19.0,7.8
+ORD0625,CUST041,REST014,2026-07-03 05:49:00,234.85,COD,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 14,Desserts,Delhi,3.8,AGNT028,53.0,2.4
+ORD0626,CUST023,REST013,2026-03-22 20:03:00,154.95,Credit Card,Delivered,Customer 23,Delhi,2025-02-02,Restaurant 13,South Indian,Delhi,4.2,AGNT014,62.0,5.9
+ORD0627,CUST098,REST015,2026-07-18 05:36:00,952.71,UPI,Delivered,Customer 98,Mumbai,2025-08-13,Restaurant 15,Desserts,Chennai,4.1,AGNT040,38.0,5.4
+ORD0628,CUST017,REST006,2026-06-07 13:40:00,600.88,COD,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 6,South Indian,Delhi,3.6,AGNT042,52.0,3.5
+ORD0629,CUST050,REST011,2026-01-02 01:34:00,359.38,UPI,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 11,North Indian,Bangalore,4.7,AGNT007,45.0,8.1
+ORD0630,CUST042,REST018,2026-07-13 16:12:00,168.81,COD,Delivered,Customer 42,Hyderabad,2025-03-22,Restaurant 18,South Indian,Delhi,4.9,AGNT029,51.0,2.5
+ORD0631,CUST094,REST026,2026-03-05 07:44:00,1070.83,Credit Card,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 26,Chinese,Mumbai,4.5,AGNT046,42.0,6.9
+ORD0632,CUST014,REST010,2026-04-09 16:37:00,471.42,UPI,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT017,31.0,11.7
+ORD0633,CUST039,REST001,2026-03-16 14:46:00,696.3,Debit Card,Cancelled,Customer 39,Chennai,2025-02-27,Restaurant 1,South Indian,Hyderabad,3.8,,,
+ORD0634,CUST056,REST013,2026-06-25 04:21:00,1195.95,Debit Card,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 13,South Indian,Delhi,4.2,AGNT007,55.0,8.6
+ORD0635,CUST097,REST029,2026-02-18 05:58:00,1114.12,UPI,Delivered,Customer 97,Delhi,2025-07-11,Restaurant 29,North Indian,Bangalore,4.9,AGNT003,58.0,8.3
+ORD0636,CUST030,REST004,2026-02-27 23:08:00,371.75,Net Banking,Delivered,Customer 30,Delhi,2025-10-11,Restaurant 4,South Indian,Mumbai,4.7,AGNT005,45.0,9.0
+ORD0637,CUST065,REST024,2026-02-13 03:23:00,896.67,COD,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 24,Biryani,Hyderabad,4.9,AGNT005,59.0,11.3
+ORD0638,CUST082,REST006,2026-03-07 17:39:00,201.02,COD,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 6,South Indian,Delhi,3.6,AGNT037,22.0,7.0
+ORD0639,CUST014,REST006,2026-06-17 00:03:00,874.24,COD,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 6,South Indian,Delhi,3.6,AGNT047,38.0,8.3
+ORD0640,CUST049,REST022,2026-02-01 17:16:00,648.12,Credit Card,Delivered,Customer 49,Chennai,2025-02-24,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT017,47.0,2.4
+ORD0641,CUST089,REST008,2026-06-25 20:00:00,466.17,COD,Delivered,Customer 89,Bangalore,2025-10-04,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT050,61.0,6.4
+ORD0642,CUST067,REST013,2026-03-11 19:38:00,885.76,UPI,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 13,South Indian,Delhi,4.2,AGNT029,51.0,2.3
+ORD0643,CUST066,REST001,2026-07-04 19:07:00,446.84,COD,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 1,South Indian,Hyderabad,3.8,AGNT002,16.0,9.9
+ORD0644,CUST026,REST030,2026-06-05 06:49:00,426.14,Credit Card,Cancelled,Customer 26,Hyderabad,2025-11-02,Restaurant 30,Desserts,Delhi,4.3,,,
+ORD0645,CUST046,REST006,2026-06-30 13:18:00,318.39,COD,Cancelled,Customer 46,Hyderabad,2025-09-14,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0646,CUST027,REST002,2026-06-26 15:21:00,396.23,COD,Delivered,Customer 27,Bangalore,2025-08-28,Restaurant 2,North Indian,Hyderabad,4.8,AGNT032,31.0,4.7
+ORD0647,CUST012,REST013,2026-01-29 18:42:00,668.81,Net Banking,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 13,South Indian,Delhi,4.2,AGNT010,25.0,11.8
+ORD0648,CUST010,REST001,2026-07-05 23:06:00,1100.02,COD,Delivered,Customer 10,Hyderabad,2025-04-23,Restaurant 1,South Indian,Hyderabad,3.8,AGNT042,52.0,8.7
+ORD0649,CUST038,REST030,2026-03-09 14:03:00,254.8,UPI,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 30,Desserts,Delhi,4.3,AGNT041,18.0,4.7
+ORD0650,CUST038,REST014,2026-04-03 21:20:00,597.29,UPI,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 14,Desserts,Delhi,3.8,AGNT001,24.0,4.1
+ORD0651,CUST098,REST026,2026-01-12 00:54:00,295.31,Debit Card,Delivered,Customer 98,Mumbai,2025-08-13,Restaurant 26,Chinese,Mumbai,4.5,AGNT003,35.0,6.0
+ORD0652,CUST046,REST022,2026-04-23 19:17:00,1072.4,Debit Card,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT043,44.0,7.5
+ORD0653,CUST044,REST026,2026-02-16 03:25:00,570.26,Debit Card,Delivered,Customer 44,Chennai,2025-01-02,Restaurant 26,Chinese,Mumbai,4.5,AGNT025,59.0,7.3
+ORD0654,CUST050,REST029,2026-06-26 15:51:00,592.83,UPI,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 29,North Indian,Bangalore,4.9,AGNT018,23.0,11.1
+ORD0655,CUST017,REST008,2026-06-28 23:03:00,1180.65,UPI,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT010,37.0,6.9
+ORD0656,CUST054,REST022,2026-06-01 15:51:00,747.39,Credit Card,Delivered,Customer 54,Hyderabad,2025-11-08,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT045,25.0,6.9
+ORD0657,CUST079,REST021,2026-04-08 11:39:00,180.26,COD,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 21,South Indian,Mumbai,4.1,AGNT022,18.0,5.8
+ORD0658,CUST063,REST029,2026-01-29 13:28:00,198.27,COD,Delivered,Customer 63,Delhi,2025-06-15,Restaurant 29,North Indian,Bangalore,4.9,AGNT026,32.0,6.4
+ORD0659,CUST041,REST010,2026-01-04 22:55:00,861.83,COD,Cancelled,Customer 41,Bangalore,2025-08-11,Restaurant 10,Burgers & Pizza,Delhi,4.8,,,
+ORD0660,CUST073,REST020,2026-02-27 21:55:00,505.22,COD,Cancelled,Customer 73,Hyderabad,2025-02-10,Restaurant 20,Biryani,Chennai,4.6,,,
+ORD0661,CUST090,REST011,2026-06-08 03:27:00,844.8,COD,Delivered,Customer 90,Chennai,2025-12-20,Restaurant 11,North Indian,Bangalore,4.7,AGNT037,38.0,9.1
+ORD0662,CUST045,REST026,2026-06-19 21:41:00,554.12,Net Banking,Cancelled,Customer 45,Delhi,2025-05-15,Restaurant 26,Chinese,Mumbai,4.5,,,
+ORD0663,CUST007,REST006,2026-01-03 20:59:00,314.77,COD,Delivered,Customer 7,Chennai,2025-10-26,Restaurant 6,South Indian,Delhi,3.6,AGNT001,41.0,10.0
+ORD0664,CUST022,REST013,2026-01-20 15:20:00,402.94,UPI,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 13,South Indian,Delhi,4.2,AGNT033,55.0,5.2
+ORD0665,CUST065,REST004,2026-02-27 17:41:00,547.57,UPI,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 4,South Indian,Mumbai,4.7,AGNT046,37.0,7.6
+ORD0666,CUST059,REST013,2026-04-24 18:28:00,242.42,COD,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 13,South Indian,Delhi,4.2,AGNT050,18.0,9.6
+ORD0667,CUST041,REST003,2026-01-31 15:47:00,836.04,COD,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 3,North Indian,Delhi,4.1,AGNT032,33.0,1.7
+ORD0668,CUST053,REST026,2026-01-10 17:35:00,150.18,Net Banking,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 26,Chinese,Mumbai,4.5,AGNT031,33.0,9.3
+ORD0669,CUST080,REST017,2026-06-13 09:56:00,683.75,COD,Delivered,Customer 80,Bangalore,2025-12-04,Restaurant 17,North Indian,Chennai,4.0,AGNT028,48.0,6.4
+ORD0670,CUST086,REST017,2026-04-27 10:23:00,1016.58,COD,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 17,North Indian,Chennai,4.0,AGNT026,55.0,9.8
+ORD0671,CUST043,REST019,2026-05-24 19:38:00,646.79,COD,Delivered,Customer 43,Bangalore,2025-08-21,Restaurant 19,South Indian,Bangalore,3.9,AGNT047,19.0,10.4
+ORD0672,CUST058,REST023,2026-01-30 03:48:00,841.86,Debit Card,Delivered,Customer 58,Mumbai,2025-03-24,Restaurant 23,North Indian,Mumbai,4.8,AGNT050,47.0,2.0
+ORD0673,CUST046,REST025,2026-06-12 09:35:00,698.08,UPI,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 25,Desserts,Delhi,4.3,AGNT005,27.0,5.9
+ORD0674,CUST022,REST012,2026-05-07 04:52:00,902.7,UPI,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 12,South Indian,Delhi,3.7,AGNT035,64.0,8.9
+ORD0675,CUST033,REST012,2026-06-06 06:12:00,276.78,Credit Card,Delivered,Customer 33,Mumbai,2025-02-28,Restaurant 12,South Indian,Delhi,3.7,AGNT015,55.0,4.8
+ORD0676,CUST059,REST022,2026-07-20 06:45:00,504.83,UPI,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT001,26.0,9.1
+ORD0677,CUST082,REST014,2026-06-22 18:07:00,960.75,COD,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 14,Desserts,Delhi,3.8,AGNT025,63.0,9.5
+ORD0678,CUST085,REST004,2026-05-31 16:08:00,1162.05,Net Banking,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 4,South Indian,Mumbai,4.7,AGNT045,21.0,6.2
+ORD0679,CUST095,REST010,2026-01-13 17:59:00,604.45,COD,Cancelled,Customer 95,Delhi,2025-12-10,Restaurant 10,Burgers & Pizza,Delhi,4.8,,,
+ORD0680,CUST066,REST008,2026-07-19 05:44:00,757.48,UPI,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT050,53.0,10.0
+ORD0681,CUST050,REST017,2026-06-18 19:38:00,1076.83,COD,Cancelled,Customer 50,Hyderabad,2025-11-17,Restaurant 17,North Indian,Chennai,4.0,,,
+ORD0682,CUST054,REST001,2026-06-05 22:48:00,410.65,Debit Card,Delivered,Customer 54,Hyderabad,2025-11-08,Restaurant 1,South Indian,Hyderabad,3.8,AGNT031,63.0,5.1
+ORD0683,CUST038,REST001,2026-04-26 04:08:00,583.38,Debit Card,Cancelled,Customer 38,Delhi,2025-06-24,Restaurant 1,South Indian,Hyderabad,3.8,,,
+ORD0684,CUST090,REST007,2026-05-21 10:45:00,923.66,COD,Cancelled,Customer 90,Chennai,2025-12-20,Restaurant 7,Burgers & Pizza,Mumbai,4.9,,,
+ORD0685,CUST028,REST007,2026-02-21 06:39:00,900.1,COD,Delivered,Customer 28,Chennai,2025-09-28,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT008,25.0,11.1
+ORD0686,CUST017,REST012,2026-07-01 20:11:00,679.09,COD,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 12,South Indian,Delhi,3.7,AGNT037,49.0,10.0
+ORD0687,CUST015,REST019,2026-07-14 11:35:00,654.39,COD,Cancelled,Customer 15,Mumbai,2025-01-25,Restaurant 19,South Indian,Bangalore,3.9,,,
+ORD0688,CUST091,REST003,2026-04-17 21:47:00,1088.56,Debit Card,Cancelled,Customer 91,Mumbai,2025-04-13,Restaurant 3,North Indian,Delhi,4.1,,,
+ORD0689,CUST055,REST003,2026-01-04 16:06:00,176.54,UPI,Delivered,Customer 55,Mumbai,2025-04-12,Restaurant 3,North Indian,Delhi,4.1,AGNT035,35.0,3.7
+ORD0690,CUST086,REST025,2026-01-15 06:17:00,937.69,Debit Card,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 25,Desserts,Delhi,4.3,AGNT023,35.0,2.3
+ORD0691,CUST088,REST026,2026-03-06 04:53:00,215.13,Credit Card,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 26,Chinese,Mumbai,4.5,AGNT022,58.0,11.8
+ORD0692,CUST097,REST017,2026-05-19 01:22:00,1004.73,Net Banking,Delivered,Customer 97,Delhi,2025-07-11,Restaurant 17,North Indian,Chennai,4.0,AGNT044,34.0,4.2
+ORD0693,CUST087,REST023,2026-07-09 17:55:00,385.52,COD,Cancelled,Customer 87,Bangalore,2025-08-05,Restaurant 23,North Indian,Mumbai,4.8,,,
+ORD0694,CUST031,REST015,2026-05-11 22:18:00,877.58,COD,Delivered,Customer 31,Bangalore,2025-01-06,Restaurant 15,Desserts,Chennai,4.1,AGNT020,32.0,8.6
+ORD0695,CUST050,REST001,2026-04-17 21:20:00,1164.12,UPI,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 1,South Indian,Hyderabad,3.8,AGNT026,58.0,6.1
+ORD0696,CUST096,REST001,2026-03-06 06:39:00,1062.29,Credit Card,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 1,South Indian,Hyderabad,3.8,AGNT004,59.0,1.7
+ORD0697,CUST082,REST026,2026-06-30 22:41:00,536.13,Net Banking,Cancelled,Customer 82,Mumbai,2025-10-09,Restaurant 26,Chinese,Mumbai,4.5,,,
+ORD0698,CUST095,REST010,2026-06-04 06:49:00,911.16,Debit Card,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT041,59.0,5.6
+ORD0699,CUST058,REST010,2026-02-15 21:04:00,346.33,COD,Delivered,Customer 58,Mumbai,2025-03-24,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT042,38.0,1.6
+ORD0700,CUST066,REST021,2026-01-31 12:02:00,599.93,Debit Card,Cancelled,Customer 66,Bangalore,2025-02-27,Restaurant 21,South Indian,Mumbai,4.1,,,
+ORD0701,CUST017,REST030,2026-02-11 18:54:00,417.77,COD,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 30,Desserts,Delhi,4.3,AGNT006,21.0,8.4
+ORD0702,CUST091,REST025,2026-02-09 01:09:00,1125.06,UPI,Cancelled,Customer 91,Mumbai,2025-04-13,Restaurant 25,Desserts,Delhi,4.3,,,
+ORD0703,CUST100,REST021,2026-06-10 19:53:00,844.98,Net Banking,Delivered,Customer 100,Mumbai,2025-08-20,Restaurant 21,South Indian,Mumbai,4.1,AGNT024,49.0,6.3
+ORD0704,CUST071,REST015,2026-04-02 02:50:00,893.07,Credit Card,Cancelled,Customer 71,Bangalore,2025-05-04,Restaurant 15,Desserts,Chennai,4.1,,,
+ORD0705,CUST024,REST029,2026-05-14 02:50:00,680.4,Net Banking,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 29,North Indian,Bangalore,4.9,AGNT035,52.0,5.8
+ORD0706,CUST069,REST010,2026-04-14 02:22:00,382.26,COD,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT022,37.0,8.4
+ORD0707,CUST043,REST024,2026-03-26 11:18:00,379.37,Net Banking,Cancelled,Customer 43,Bangalore,2025-08-21,Restaurant 24,Biryani,Hyderabad,4.9,,,
+ORD0708,CUST061,REST029,2026-05-24 20:00:00,270.46,COD,Delivered,Customer 61,Mumbai,2025-01-01,Restaurant 29,North Indian,Bangalore,4.9,AGNT006,24.0,9.3
+ORD0709,CUST031,REST011,2026-06-14 19:58:00,802.19,COD,Delivered,Customer 31,Bangalore,2025-01-06,Restaurant 11,North Indian,Bangalore,4.7,AGNT030,15.0,9.1
+ORD0710,CUST042,REST004,2026-04-08 03:24:00,419.42,UPI,Delivered,Customer 42,Hyderabad,2025-03-22,Restaurant 4,South Indian,Mumbai,4.7,AGNT049,23.0,4.7
+ORD0711,CUST067,REST001,2026-07-17 11:32:00,992.96,COD,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 1,South Indian,Hyderabad,3.8,AGNT050,48.0,10.0
+ORD0712,CUST006,REST023,2026-03-17 20:12:00,486.33,UPI,Delivered,Customer 6,Mumbai,2025-08-08,Restaurant 23,North Indian,Mumbai,4.8,AGNT019,33.0,8.0
+ORD0713,CUST022,REST004,2026-07-17 17:34:00,157.7,Credit Card,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 4,South Indian,Mumbai,4.7,AGNT042,38.0,8.8
+ORD0714,CUST086,REST030,2026-06-11 06:55:00,869.68,Credit Card,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 30,Desserts,Delhi,4.3,AGNT013,64.0,11.6
+ORD0715,CUST069,REST028,2026-06-29 23:49:00,607.0,COD,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT012,46.0,8.6
+ORD0716,CUST088,REST028,2026-02-09 00:29:00,902.71,UPI,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT036,41.0,9.9
+ORD0717,CUST010,REST028,2026-01-14 05:50:00,414.5,Net Banking,Delivered,Customer 10,Hyderabad,2025-04-23,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT003,36.0,2.4
+ORD0718,CUST030,REST018,2026-03-08 13:24:00,623.68,COD,Delivered,Customer 30,Delhi,2025-10-11,Restaurant 18,South Indian,Delhi,4.9,AGNT025,25.0,2.9
+ORD0719,CUST041,REST003,2026-01-05 12:43:00,274.22,COD,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 3,North Indian,Delhi,4.1,AGNT043,21.0,3.5
+ORD0720,CUST093,REST016,2026-06-08 02:48:00,933.25,COD,Delivered,Customer 93,Bangalore,2025-06-09,Restaurant 16,South Indian,Chennai,3.6,AGNT013,28.0,10.1
+ORD0721,CUST010,REST017,2026-04-02 16:06:00,454.33,Net Banking,Delivered,Customer 10,Hyderabad,2025-04-23,Restaurant 17,North Indian,Chennai,4.0,AGNT020,24.0,8.8
+ORD0722,CUST012,REST016,2026-03-14 14:24:00,564.87,COD,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 16,South Indian,Chennai,3.6,AGNT045,47.0,3.5
+ORD0723,CUST021,REST020,2026-05-17 07:08:00,934.09,Debit Card,Cancelled,Customer 21,Mumbai,2025-08-05,Restaurant 20,Biryani,Chennai,4.6,,,
+ORD0724,CUST082,REST016,2026-02-06 09:43:00,1081.33,UPI,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 16,South Indian,Chennai,3.6,AGNT025,29.0,1.8
+ORD0725,CUST071,REST023,2026-05-23 04:07:00,193.86,Net Banking,Cancelled,Customer 71,Bangalore,2025-05-04,Restaurant 23,North Indian,Mumbai,4.8,,,
+ORD0726,CUST051,REST025,2026-05-18 17:05:00,469.93,Credit Card,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 25,Desserts,Delhi,4.3,AGNT007,27.0,6.6
+ORD0727,CUST053,REST017,2026-06-15 16:09:00,319.0,Net Banking,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 17,North Indian,Chennai,4.0,AGNT041,65.0,3.0
+ORD0728,CUST033,REST012,2026-02-19 03:11:00,854.53,UPI,Cancelled,Customer 33,Mumbai,2025-02-28,Restaurant 12,South Indian,Delhi,3.7,,,
+ORD0729,CUST097,REST020,2026-05-21 14:41:00,727.15,COD,Delivered,Customer 97,Delhi,2025-07-11,Restaurant 20,Biryani,Chennai,4.6,AGNT045,50.0,4.0
+ORD0730,CUST009,REST014,2026-03-06 03:12:00,911.87,Debit Card,Delivered,Customer 9,Chennai,2025-07-05,Restaurant 14,Desserts,Delhi,3.8,AGNT023,54.0,10.3
+ORD0731,CUST046,REST002,2026-02-02 21:41:00,396.26,Net Banking,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 2,North Indian,Hyderabad,4.8,AGNT032,59.0,10.5
+ORD0732,CUST009,REST009,2026-02-19 10:31:00,623.18,COD,Cancelled,Customer 9,Chennai,2025-07-05,Restaurant 9,North Indian,Chennai,4.9,,,
+ORD0733,CUST040,REST005,2026-06-27 18:09:00,743.83,Debit Card,Delivered,Customer 40,Bangalore,2025-05-31,Restaurant 5,Biryani,Delhi,4.3,AGNT006,48.0,7.2
+ORD0734,CUST055,REST027,2026-02-13 00:20:00,408.48,COD,Delivered,Customer 55,Mumbai,2025-04-12,Restaurant 27,North Indian,Delhi,3.7,AGNT041,49.0,2.4
+ORD0735,CUST095,REST016,2026-06-14 13:17:00,1032.12,COD,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 16,South Indian,Chennai,3.6,AGNT029,60.0,9.6
+ORD0736,CUST094,REST030,2026-03-26 15:29:00,617.63,COD,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 30,Desserts,Delhi,4.3,AGNT048,50.0,3.1
+ORD0737,CUST071,REST026,2026-01-28 05:41:00,786.96,Credit Card,Delivered,Customer 71,Bangalore,2025-05-04,Restaurant 26,Chinese,Mumbai,4.5,AGNT013,59.0,5.9
+ORD0738,CUST069,REST017,2026-02-20 08:46:00,1080.65,COD,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 17,North Indian,Chennai,4.0,AGNT009,63.0,2.7
+ORD0739,CUST010,REST028,2026-01-05 16:40:00,182.75,Net Banking,Cancelled,Customer 10,Hyderabad,2025-04-23,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD0740,CUST052,REST014,2026-07-16 18:13:00,1101.62,Debit Card,Cancelled,Customer 52,Hyderabad,2025-11-24,Restaurant 14,Desserts,Delhi,3.8,,,
+ORD0741,CUST070,REST012,2026-05-19 15:41:00,963.96,COD,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 12,South Indian,Delhi,3.7,AGNT003,22.0,11.0
+ORD0742,CUST029,REST002,2026-07-17 18:46:00,1050.02,COD,Delivered,Customer 29,Mumbai,2025-05-09,Restaurant 2,North Indian,Hyderabad,4.8,AGNT013,41.0,9.3
+ORD0743,CUST065,REST015,2026-05-11 02:25:00,532.06,COD,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 15,Desserts,Chennai,4.1,AGNT002,44.0,6.2
+ORD0744,CUST031,REST004,2026-06-07 21:10:00,945.07,COD,Delivered,Customer 31,Bangalore,2025-01-06,Restaurant 4,South Indian,Mumbai,4.7,AGNT047,19.0,6.6
+ORD0745,CUST021,REST012,2026-02-15 18:36:00,842.38,COD,Delivered,Customer 21,Mumbai,2025-08-05,Restaurant 12,South Indian,Delhi,3.7,AGNT038,22.0,1.7
+ORD0746,CUST094,REST025,2026-05-04 11:02:00,379.76,Credit Card,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 25,Desserts,Delhi,4.3,AGNT016,23.0,6.2
+ORD0747,CUST009,REST007,2026-03-09 11:14:00,194.95,Net Banking,Delivered,Customer 9,Chennai,2025-07-05,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT032,16.0,4.0
+ORD0748,CUST047,REST013,2026-04-10 15:58:00,627.38,UPI,Delivered,Customer 47,Chennai,2025-04-02,Restaurant 13,South Indian,Delhi,4.2,AGNT025,45.0,4.6
+ORD0749,CUST084,REST002,2026-03-24 03:45:00,1166.86,COD,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 2,North Indian,Hyderabad,4.8,AGNT005,37.0,10.2
+ORD0750,CUST034,REST010,2026-05-29 17:36:00,332.54,Debit Card,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT035,34.0,5.6
+ORD0751,CUST076,REST020,2026-06-17 02:33:00,414.17,Net Banking,Delivered,Customer 76,Mumbai,2025-02-05,Restaurant 20,Biryani,Chennai,4.6,AGNT042,59.0,5.0
+ORD0752,CUST052,REST005,2026-04-01 11:31:00,982.29,UPI,Cancelled,Customer 52,Hyderabad,2025-11-24,Restaurant 5,Biryani,Delhi,4.3,,,
+ORD0753,CUST065,REST012,2026-02-05 14:10:00,391.49,COD,Cancelled,Customer 65,Delhi,2025-01-10,Restaurant 12,South Indian,Delhi,3.7,,,
+ORD0754,CUST036,REST020,2026-02-24 04:11:00,315.23,COD,Cancelled,Customer 36,Chennai,2025-05-17,Restaurant 20,Biryani,Chennai,4.6,,,
+ORD0755,CUST016,REST030,2026-06-19 07:26:00,1001.73,COD,Delivered,Customer 16,Mumbai,2025-02-26,Restaurant 30,Desserts,Delhi,4.3,AGNT020,38.0,2.6
+ORD0756,CUST087,REST005,2026-05-03 15:13:00,770.33,UPI,Delivered,Customer 87,Bangalore,2025-08-05,Restaurant 5,Biryani,Delhi,4.3,AGNT032,23.0,10.4
+ORD0757,CUST032,REST013,2026-01-12 04:36:00,771.97,COD,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 13,South Indian,Delhi,4.2,AGNT035,43.0,6.0
+ORD0758,CUST066,REST004,2026-01-11 18:09:00,208.71,Credit Card,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 4,South Indian,Mumbai,4.7,AGNT029,53.0,5.9
+ORD0759,CUST067,REST022,2026-04-14 19:36:00,819.5,UPI,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT002,48.0,6.7
+ORD0760,CUST028,REST003,2026-04-25 19:30:00,1060.67,Credit Card,Delivered,Customer 28,Chennai,2025-09-28,Restaurant 3,North Indian,Delhi,4.1,AGNT003,63.0,7.6
+ORD0761,CUST053,REST006,2026-06-03 04:50:00,761.78,Net Banking,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 6,South Indian,Delhi,3.6,AGNT022,36.0,9.2
+ORD0762,CUST085,REST022,2026-05-11 08:10:00,910.4,COD,Delivered,Customer 85,Mumbai,2025-09-28,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT004,26.0,12.0
+ORD0763,CUST077,REST017,2026-06-01 02:14:00,547.12,UPI,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 17,North Indian,Chennai,4.0,AGNT022,60.0,1.9
+ORD0764,CUST003,REST027,2026-02-21 16:55:00,1104.81,Credit Card,Delivered,Customer 3,Bangalore,2025-10-03,Restaurant 27,North Indian,Delhi,3.7,AGNT047,34.0,5.7
+ORD0765,CUST078,REST004,2026-01-25 05:30:00,1096.69,UPI,Cancelled,Customer 78,Delhi,2025-03-06,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0766,CUST069,REST006,2026-05-09 03:05:00,656.35,Net Banking,Delivered,Customer 69,Bangalore,2025-05-03,Restaurant 6,South Indian,Delhi,3.6,AGNT003,16.0,6.9
+ORD0767,CUST070,REST006,2026-01-01 21:41:00,603.07,Debit Card,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 6,South Indian,Delhi,3.6,AGNT026,62.0,9.1
+ORD0768,CUST006,REST015,2026-06-28 16:27:00,390.96,COD,Delivered,Customer 6,Mumbai,2025-08-08,Restaurant 15,Desserts,Chennai,4.1,AGNT008,22.0,11.3
+ORD0769,CUST045,REST029,2026-05-31 23:58:00,949.62,UPI,Cancelled,Customer 45,Delhi,2025-05-15,Restaurant 29,North Indian,Bangalore,4.9,,,
+ORD0770,CUST055,REST002,2026-02-04 08:30:00,954.15,Debit Card,Delivered,Customer 55,Mumbai,2025-04-12,Restaurant 2,North Indian,Hyderabad,4.8,AGNT014,29.0,11.0
+ORD0771,CUST077,REST022,2026-05-20 13:16:00,348.47,Net Banking,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT042,23.0,10.6
+ORD0772,CUST067,REST024,2026-01-31 16:00:00,543.78,COD,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 24,Biryani,Hyderabad,4.9,AGNT043,59.0,3.9
+ORD0773,CUST041,REST028,2026-04-15 11:06:00,312.52,Debit Card,Cancelled,Customer 41,Bangalore,2025-08-11,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD0774,CUST034,REST003,2026-05-18 13:36:00,533.93,COD,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 3,North Indian,Delhi,4.1,AGNT034,24.0,2.1
+ORD0775,CUST051,REST020,2026-07-13 06:26:00,729.71,COD,Cancelled,Customer 51,Bangalore,2025-06-02,Restaurant 20,Biryani,Chennai,4.6,,,
+ORD0776,CUST023,REST016,2026-04-05 17:35:00,657.95,Net Banking,Delivered,Customer 23,Delhi,2025-02-02,Restaurant 16,South Indian,Chennai,3.6,AGNT030,59.0,1.7
+ORD0777,CUST045,REST011,2026-07-18 22:25:00,922.57,COD,Delivered,Customer 45,Delhi,2025-05-15,Restaurant 11,North Indian,Bangalore,4.7,AGNT044,29.0,7.6
+ORD0778,CUST030,REST011,2026-04-25 22:10:00,255.29,COD,Cancelled,Customer 30,Delhi,2025-10-11,Restaurant 11,North Indian,Bangalore,4.7,,,
+ORD0779,CUST044,REST026,2026-05-21 19:44:00,868.79,Credit Card,Delivered,Customer 44,Chennai,2025-01-02,Restaurant 26,Chinese,Mumbai,4.5,AGNT035,34.0,7.3
+ORD0780,CUST050,REST023,2026-06-12 00:51:00,245.64,COD,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 23,North Indian,Mumbai,4.8,AGNT010,23.0,4.3
+ORD0781,CUST077,REST019,2026-04-22 02:04:00,426.25,UPI,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 19,South Indian,Bangalore,3.9,AGNT048,28.0,8.3
+ORD0782,CUST078,REST010,2026-01-10 23:24:00,1127.22,Net Banking,Delivered,Customer 78,Delhi,2025-03-06,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT038,23.0,10.8
+ORD0783,CUST084,REST010,2026-05-14 09:45:00,1161.71,Credit Card,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT015,20.0,2.7
+ORD0784,CUST082,REST002,2026-05-07 14:00:00,361.79,Debit Card,Cancelled,Customer 82,Mumbai,2025-10-09,Restaurant 2,North Indian,Hyderabad,4.8,,,
+ORD0785,CUST025,REST002,2026-01-09 19:32:00,691.6,Net Banking,Delivered,Customer 25,Delhi,2025-07-15,Restaurant 2,North Indian,Hyderabad,4.8,AGNT005,42.0,8.0
+ORD0786,CUST022,REST014,2026-06-22 01:23:00,401.22,Credit Card,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 14,Desserts,Delhi,3.8,AGNT003,59.0,8.3
+ORD0787,CUST012,REST012,2026-03-12 12:22:00,853.15,Net Banking,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 12,South Indian,Delhi,3.7,AGNT048,63.0,6.2
+ORD0788,CUST026,REST013,2026-05-13 00:47:00,888.8,Net Banking,Delivered,Customer 26,Hyderabad,2025-11-02,Restaurant 13,South Indian,Delhi,4.2,AGNT010,65.0,6.1
+ORD0789,CUST037,REST016,2026-07-05 17:58:00,762.08,Debit Card,Delivered,Customer 37,Chennai,2025-11-25,Restaurant 16,South Indian,Chennai,3.6,AGNT032,22.0,3.2
+ORD0790,CUST029,REST006,2026-06-05 06:29:00,1126.2,UPI,Cancelled,Customer 29,Mumbai,2025-05-09,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0791,CUST034,REST019,2026-02-14 13:32:00,261.79,Net Banking,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 19,South Indian,Bangalore,3.9,AGNT042,19.0,9.1
+ORD0792,CUST038,REST005,2026-03-29 03:51:00,688.95,Net Banking,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 5,Biryani,Delhi,4.3,AGNT002,16.0,6.4
+ORD0793,CUST074,REST028,2026-03-06 22:28:00,1164.36,COD,Cancelled,Customer 74,Mumbai,2025-02-13,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD0794,CUST099,REST013,2026-03-04 10:49:00,631.79,Net Banking,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 13,South Indian,Delhi,4.2,AGNT031,64.0,6.1
+ORD0795,CUST004,REST030,2026-05-04 03:16:00,220.93,COD,Delivered,Customer 4,Mumbai,2025-05-15,Restaurant 30,Desserts,Delhi,4.3,AGNT040,45.0,6.8
+ORD0796,CUST090,REST027,2026-02-28 10:26:00,1153.22,Net Banking,Cancelled,Customer 90,Chennai,2025-12-20,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0797,CUST002,REST001,2026-06-29 08:15:00,451.65,COD,Delivered,Customer 2,Chennai,2025-10-15,Restaurant 1,South Indian,Hyderabad,3.8,AGNT003,63.0,7.7
+ORD0798,CUST096,REST029,2026-03-29 02:35:00,1127.97,Debit Card,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 29,North Indian,Bangalore,4.9,AGNT016,42.0,8.7
+ORD0799,CUST046,REST003,2026-02-25 18:17:00,341.92,COD,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 3,North Indian,Delhi,4.1,AGNT045,17.0,11.2
+ORD0800,CUST095,REST007,2026-02-21 07:47:00,404.16,Credit Card,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT042,27.0,10.5
+ORD0801,CUST030,REST007,2026-02-21 07:53:00,799.53,UPI,Delivered,Customer 30,Delhi,2025-10-11,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT009,21.0,9.0
+ORD0802,CUST016,REST010,2026-01-21 21:42:00,667.3,Net Banking,Delivered,Customer 16,Mumbai,2025-02-26,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT001,17.0,6.4
+ORD0803,CUST006,REST021,2026-05-04 11:39:00,481.19,Debit Card,Cancelled,Customer 6,Mumbai,2025-08-08,Restaurant 21,South Indian,Mumbai,4.1,,,
+ORD0804,CUST063,REST024,2026-02-16 16:17:00,567.77,Credit Card,Cancelled,Customer 63,Delhi,2025-06-15,Restaurant 24,Biryani,Hyderabad,4.9,,,
+ORD0805,CUST007,REST029,2026-05-15 13:30:00,1136.64,Net Banking,Delivered,Customer 7,Chennai,2025-10-26,Restaurant 29,North Indian,Bangalore,4.9,AGNT012,65.0,10.8
+ORD0806,CUST045,REST003,2026-04-11 21:49:00,333.54,COD,Delivered,Customer 45,Delhi,2025-05-15,Restaurant 3,North Indian,Delhi,4.1,AGNT041,57.0,9.1
+ORD0807,CUST067,REST030,2026-04-28 10:44:00,158.84,COD,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 30,Desserts,Delhi,4.3,AGNT004,47.0,5.6
+ORD0808,CUST075,REST011,2026-01-26 10:23:00,793.42,Credit Card,Delivered,Customer 75,Hyderabad,2025-09-06,Restaurant 11,North Indian,Bangalore,4.7,AGNT020,52.0,5.9
+ORD0809,CUST071,REST024,2026-03-09 07:17:00,644.91,Debit Card,Cancelled,Customer 71,Bangalore,2025-05-04,Restaurant 24,Biryani,Hyderabad,4.9,,,
+ORD0810,CUST047,REST004,2026-02-17 15:27:00,371.06,Debit Card,Delivered,Customer 47,Chennai,2025-04-02,Restaurant 4,South Indian,Mumbai,4.7,AGNT007,18.0,11.4
+ORD0811,CUST052,REST015,2026-03-13 14:11:00,749.98,COD,Cancelled,Customer 52,Hyderabad,2025-11-24,Restaurant 15,Desserts,Chennai,4.1,,,
+ORD0812,CUST030,REST006,2026-01-26 23:17:00,994.29,COD,Cancelled,Customer 30,Delhi,2025-10-11,Restaurant 6,South Indian,Delhi,3.6,,,
+ORD0813,CUST049,REST006,2026-02-20 04:51:00,1157.11,COD,Delivered,Customer 49,Chennai,2025-02-24,Restaurant 6,South Indian,Delhi,3.6,AGNT030,45.0,8.4
+ORD0814,CUST002,REST012,2026-02-15 13:31:00,291.2,Net Banking,Cancelled,Customer 2,Chennai,2025-10-15,Restaurant 12,South Indian,Delhi,3.7,,,
+ORD0815,CUST093,REST030,2026-03-22 15:19:00,413.52,UPI,Cancelled,Customer 93,Bangalore,2025-06-09,Restaurant 30,Desserts,Delhi,4.3,,,
+ORD0816,CUST051,REST013,2026-01-26 22:10:00,213.04,COD,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 13,South Indian,Delhi,4.2,AGNT040,22.0,5.3
+ORD0817,CUST081,REST003,2026-01-25 14:47:00,501.39,Debit Card,Delivered,Customer 81,Hyderabad,2025-09-01,Restaurant 3,North Indian,Delhi,4.1,AGNT011,31.0,6.5
+ORD0818,CUST072,REST030,2026-05-23 08:22:00,170.83,Debit Card,Delivered,Customer 72,Chennai,2025-10-18,Restaurant 30,Desserts,Delhi,4.3,AGNT038,17.0,11.7
+ORD0819,CUST087,REST016,2026-06-05 06:36:00,754.69,Credit Card,Cancelled,Customer 87,Bangalore,2025-08-05,Restaurant 16,South Indian,Chennai,3.6,,,
+ORD0820,CUST100,REST023,2026-03-14 11:20:00,856.85,COD,Delivered,Customer 100,Mumbai,2025-08-20,Restaurant 23,North Indian,Mumbai,4.8,AGNT005,19.0,3.2
+ORD0821,CUST058,REST021,2026-01-21 12:39:00,450.85,Credit Card,Delivered,Customer 58,Mumbai,2025-03-24,Restaurant 21,South Indian,Mumbai,4.1,AGNT007,34.0,3.7
+ORD0822,CUST082,REST010,2026-03-28 13:40:00,792.93,UPI,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT008,57.0,8.8
+ORD0823,CUST011,REST014,2026-02-11 10:14:00,479.16,COD,Delivered,Customer 11,Delhi,2025-03-12,Restaurant 14,Desserts,Delhi,3.8,AGNT032,15.0,2.4
+ORD0824,CUST035,REST009,2026-06-04 20:25:00,434.81,Debit Card,Delivered,Customer 35,Bangalore,2025-10-02,Restaurant 9,North Indian,Chennai,4.9,AGNT039,63.0,6.6
+ORD0825,CUST096,REST004,2026-05-31 16:28:00,584.69,UPI,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 4,South Indian,Mumbai,4.7,AGNT040,21.0,3.3
+ORD0826,CUST017,REST030,2026-07-06 07:42:00,414.23,Credit Card,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 30,Desserts,Delhi,4.3,AGNT015,65.0,3.1
+ORD0827,CUST022,REST004,2026-04-12 03:06:00,216.98,Net Banking,Delivered,Customer 22,Hyderabad,2025-11-02,Restaurant 4,South Indian,Mumbai,4.7,AGNT005,22.0,6.7
+ORD0828,CUST007,REST028,2026-01-07 12:33:00,953.25,UPI,Delivered,Customer 7,Chennai,2025-10-26,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT013,53.0,9.8
+ORD0829,CUST034,REST012,2026-06-08 04:05:00,837.57,Debit Card,Delivered,Customer 34,Mumbai,2025-12-16,Restaurant 12,South Indian,Delhi,3.7,AGNT028,28.0,11.4
+ORD0830,CUST030,REST007,2026-03-05 23:18:00,615.32,Credit Card,Delivered,Customer 30,Delhi,2025-10-11,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT022,52.0,6.7
+ORD0831,CUST068,REST026,2026-02-13 00:02:00,846.73,COD,Delivered,Customer 68,Bangalore,2025-06-07,Restaurant 26,Chinese,Mumbai,4.5,AGNT048,27.0,4.0
+ORD0832,CUST060,REST002,2026-05-19 08:35:00,617.09,Credit Card,Cancelled,Customer 60,Chennai,2025-09-29,Restaurant 2,North Indian,Hyderabad,4.8,,,
+ORD0833,CUST076,REST005,2026-06-02 14:40:00,936.36,COD,Cancelled,Customer 76,Mumbai,2025-02-05,Restaurant 5,Biryani,Delhi,4.3,,,
+ORD0834,CUST068,REST028,2026-06-13 20:34:00,475.14,COD,Delivered,Customer 68,Bangalore,2025-06-07,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT044,26.0,7.3
+ORD0835,CUST070,REST024,2026-02-28 02:28:00,473.26,Debit Card,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 24,Biryani,Hyderabad,4.9,AGNT026,57.0,12.0
+ORD0836,CUST020,REST023,2026-03-19 00:00:00,699.48,Debit Card,Delivered,Customer 20,Hyderabad,2025-12-15,Restaurant 23,North Indian,Mumbai,4.8,AGNT021,37.0,5.3
+ORD0837,CUST037,REST018,2026-05-01 17:00:00,872.16,COD,Delivered,Customer 37,Chennai,2025-11-25,Restaurant 18,South Indian,Delhi,4.9,AGNT008,16.0,4.2
+ORD0838,CUST039,REST009,2026-01-03 13:51:00,457.57,UPI,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 9,North Indian,Chennai,4.9,AGNT044,20.0,8.6
+ORD0839,CUST071,REST016,2026-04-06 06:26:00,1076.27,COD,Delivered,Customer 71,Bangalore,2025-05-04,Restaurant 16,South Indian,Chennai,3.6,AGNT037,24.0,3.3
+ORD0840,CUST032,REST018,2026-02-11 22:47:00,828.29,Credit Card,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 18,South Indian,Delhi,4.9,AGNT035,62.0,10.5
+ORD0841,CUST034,REST022,2026-01-21 13:40:00,401.54,COD,Cancelled,Customer 34,Mumbai,2025-12-16,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0842,CUST088,REST023,2026-03-11 09:41:00,930.07,COD,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 23,North Indian,Mumbai,4.8,AGNT009,32.0,6.8
+ORD0843,CUST025,REST012,2026-01-18 05:08:00,454.08,Net Banking,Delivered,Customer 25,Delhi,2025-07-15,Restaurant 12,South Indian,Delhi,3.7,AGNT021,52.0,10.0
+ORD0844,CUST058,REST023,2026-03-11 22:39:00,666.6,UPI,Delivered,Customer 58,Mumbai,2025-03-24,Restaurant 23,North Indian,Mumbai,4.8,AGNT014,37.0,5.0
+ORD0845,CUST020,REST004,2026-01-13 17:01:00,345.23,Debit Card,Delivered,Customer 20,Hyderabad,2025-12-15,Restaurant 4,South Indian,Mumbai,4.7,AGNT049,37.0,2.7
+ORD0846,CUST035,REST029,2026-02-02 22:28:00,913.46,UPI,Delivered,Customer 35,Bangalore,2025-10-02,Restaurant 29,North Indian,Bangalore,4.9,AGNT003,25.0,3.9
+ORD0847,CUST020,REST018,2026-01-04 15:13:00,509.01,COD,Delivered,Customer 20,Hyderabad,2025-12-15,Restaurant 18,South Indian,Delhi,4.9,AGNT038,47.0,7.4
+ORD0848,CUST048,REST021,2026-04-29 22:50:00,183.32,Credit Card,Delivered,Customer 48,Delhi,2025-09-17,Restaurant 21,South Indian,Mumbai,4.1,AGNT012,64.0,6.6
+ORD0849,CUST008,REST009,2026-03-10 12:04:00,720.35,Credit Card,Delivered,Customer 8,Hyderabad,2025-07-24,Restaurant 9,North Indian,Chennai,4.9,AGNT022,61.0,11.9
+ORD0850,CUST033,REST013,2026-04-08 00:07:00,1173.33,COD,Delivered,Customer 33,Mumbai,2025-02-28,Restaurant 13,South Indian,Delhi,4.2,AGNT005,54.0,9.7
+ORD0851,CUST099,REST003,2026-04-24 07:47:00,1194.26,COD,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 3,North Indian,Delhi,4.1,AGNT008,30.0,9.6
+ORD0852,CUST095,REST005,2026-07-17 03:33:00,849.31,COD,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 5,Biryani,Delhi,4.3,AGNT018,47.0,9.6
+ORD0853,CUST050,REST009,2026-06-24 09:59:00,489.22,COD,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 9,North Indian,Chennai,4.9,AGNT010,51.0,7.3
+ORD0854,CUST071,REST008,2026-05-14 03:16:00,655.29,Credit Card,Delivered,Customer 71,Bangalore,2025-05-04,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT049,19.0,10.9
+ORD0855,CUST047,REST004,2026-01-14 21:13:00,1171.94,COD,Delivered,Customer 47,Chennai,2025-04-02,Restaurant 4,South Indian,Mumbai,4.7,AGNT027,21.0,10.5
+ORD0856,CUST056,REST019,2026-03-25 00:10:00,984.11,UPI,Cancelled,Customer 56,Chennai,2025-03-20,Restaurant 19,South Indian,Bangalore,3.9,,,
+ORD0857,CUST051,REST026,2026-03-04 00:02:00,760.13,COD,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 26,Chinese,Mumbai,4.5,AGNT011,52.0,10.7
+ORD0858,CUST077,REST022,2026-02-09 11:49:00,243.95,COD,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT045,63.0,7.8
+ORD0859,CUST012,REST006,2026-06-25 19:21:00,1127.39,UPI,Delivered,Customer 12,Chennai,2025-09-18,Restaurant 6,South Indian,Delhi,3.6,AGNT024,15.0,2.6
+ORD0860,CUST046,REST005,2026-06-15 04:44:00,713.17,Credit Card,Delivered,Customer 46,Hyderabad,2025-09-14,Restaurant 5,Biryani,Delhi,4.3,AGNT036,48.0,2.0
+ORD0861,CUST063,REST013,2026-03-01 10:35:00,977.99,COD,Delivered,Customer 63,Delhi,2025-06-15,Restaurant 13,South Indian,Delhi,4.2,AGNT011,28.0,11.4
+ORD0862,CUST094,REST026,2026-02-19 00:44:00,546.66,Debit Card,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 26,Chinese,Mumbai,4.5,AGNT029,60.0,9.9
+ORD0863,CUST006,REST017,2026-05-05 22:28:00,736.98,COD,Cancelled,Customer 6,Mumbai,2025-08-08,Restaurant 17,North Indian,Chennai,4.0,,,
+ORD0864,CUST063,REST004,2026-02-18 18:11:00,720.8,COD,Delivered,Customer 63,Delhi,2025-06-15,Restaurant 4,South Indian,Mumbai,4.7,AGNT016,27.0,11.6
+ORD0865,CUST060,REST015,2026-03-12 19:58:00,1053.59,UPI,Delivered,Customer 60,Chennai,2025-09-29,Restaurant 15,Desserts,Chennai,4.1,AGNT038,33.0,9.4
+ORD0866,CUST068,REST029,2026-02-09 14:18:00,1010.39,Debit Card,Cancelled,Customer 68,Bangalore,2025-06-07,Restaurant 29,North Indian,Bangalore,4.9,,,
+ORD0867,CUST059,REST005,2026-01-01 20:32:00,548.0,UPI,Delivered,Customer 59,Bangalore,2025-10-04,Restaurant 5,Biryani,Delhi,4.3,AGNT003,25.0,11.7
+ORD0868,CUST080,REST025,2026-04-04 19:15:00,486.73,COD,Delivered,Customer 80,Bangalore,2025-12-04,Restaurant 25,Desserts,Delhi,4.3,AGNT009,63.0,9.7
+ORD0869,CUST069,REST026,2026-04-10 06:33:00,867.39,Credit Card,Cancelled,Customer 69,Bangalore,2025-05-03,Restaurant 26,Chinese,Mumbai,4.5,,,
+ORD0870,CUST079,REST013,2026-03-14 10:26:00,822.95,UPI,Delivered,Customer 79,Delhi,2025-03-07,Restaurant 13,South Indian,Delhi,4.2,AGNT007,49.0,7.9
+ORD0871,CUST067,REST022,2026-06-18 02:02:00,1026.95,Credit Card,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT041,15.0,10.5
+ORD0872,CUST005,REST012,2026-02-21 03:31:00,351.2,Net Banking,Delivered,Customer 5,Mumbai,2025-10-27,Restaurant 12,South Indian,Delhi,3.7,AGNT040,61.0,2.6
+ORD0873,CUST083,REST024,2026-04-10 21:31:00,702.11,Debit Card,Cancelled,Customer 83,Bangalore,2025-03-26,Restaurant 24,Biryani,Hyderabad,4.9,,,
+ORD0874,CUST007,REST015,2026-04-04 07:38:00,903.74,Credit Card,Delivered,Customer 7,Chennai,2025-10-26,Restaurant 15,Desserts,Chennai,4.1,AGNT025,21.0,7.4
+ORD0875,CUST084,REST001,2026-05-06 02:29:00,991.07,Debit Card,Delivered,Customer 84,Chennai,2025-05-16,Restaurant 1,South Indian,Hyderabad,3.8,AGNT050,28.0,6.8
+ORD0876,CUST072,REST008,2026-07-10 13:52:00,537.52,Net Banking,Delivered,Customer 72,Chennai,2025-10-18,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT011,47.0,3.3
+ORD0877,CUST035,REST027,2026-05-16 01:46:00,223.91,UPI,Delivered,Customer 35,Bangalore,2025-10-02,Restaurant 27,North Indian,Delhi,3.7,AGNT002,60.0,2.7
+ORD0878,CUST028,REST027,2026-05-13 03:06:00,911.43,COD,Cancelled,Customer 28,Chennai,2025-09-28,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0879,CUST025,REST027,2026-02-19 16:42:00,411.2,Net Banking,Delivered,Customer 25,Delhi,2025-07-15,Restaurant 27,North Indian,Delhi,3.7,AGNT032,45.0,3.7
+ORD0880,CUST096,REST003,2026-05-23 13:47:00,260.79,Debit Card,Cancelled,Customer 96,Delhi,2025-11-29,Restaurant 3,North Indian,Delhi,4.1,,,
+ORD0881,CUST087,REST028,2026-04-28 22:42:00,598.43,Credit Card,Delivered,Customer 87,Bangalore,2025-08-05,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT006,38.0,5.3
+ORD0882,CUST024,REST012,2026-05-21 12:32:00,504.39,Net Banking,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 12,South Indian,Delhi,3.7,AGNT001,59.0,9.1
+ORD0883,CUST077,REST006,2026-04-24 11:57:00,480.91,Debit Card,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 6,South Indian,Delhi,3.6,AGNT001,52.0,8.9
+ORD0884,CUST053,REST012,2026-07-15 20:27:00,1017.46,Net Banking,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 12,South Indian,Delhi,3.7,AGNT012,26.0,9.5
+ORD0885,CUST031,REST025,2026-05-25 17:13:00,543.82,COD,Cancelled,Customer 31,Bangalore,2025-01-06,Restaurant 25,Desserts,Delhi,4.3,,,
+ORD0886,CUST033,REST008,2026-04-03 14:28:00,1157.82,COD,Delivered,Customer 33,Mumbai,2025-02-28,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT006,43.0,6.7
+ORD0887,CUST005,REST026,2026-03-14 19:01:00,693.49,UPI,Delivered,Customer 5,Mumbai,2025-10-27,Restaurant 26,Chinese,Mumbai,4.5,AGNT046,58.0,10.6
+ORD0888,CUST039,REST016,2026-02-26 06:54:00,480.65,Net Banking,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 16,South Indian,Chennai,3.6,AGNT042,21.0,3.1
+ORD0889,CUST066,REST021,2026-05-23 18:59:00,750.19,UPI,Delivered,Customer 66,Bangalore,2025-02-27,Restaurant 21,South Indian,Mumbai,4.1,AGNT038,26.0,5.3
+ORD0890,CUST059,REST004,2026-04-02 04:08:00,428.24,Credit Card,Cancelled,Customer 59,Bangalore,2025-10-04,Restaurant 4,South Indian,Mumbai,4.7,,,
+ORD0891,CUST030,REST022,2026-03-07 09:05:00,749.01,Credit Card,Cancelled,Customer 30,Delhi,2025-10-11,Restaurant 22,Burgers & Pizza,Mumbai,4.1,,,
+ORD0892,CUST094,REST029,2026-01-20 23:20:00,982.55,COD,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 29,North Indian,Bangalore,4.9,AGNT019,37.0,10.1
+ORD0893,CUST089,REST008,2026-06-29 18:52:00,1103.04,COD,Cancelled,Customer 89,Bangalore,2025-10-04,Restaurant 8,Burgers & Pizza,Chennai,4.7,,,
+ORD0894,CUST039,REST013,2026-01-10 23:51:00,755.1,UPI,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 13,South Indian,Delhi,4.2,AGNT027,39.0,2.8
+ORD0895,CUST099,REST029,2026-03-27 11:56:00,1008.0,UPI,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 29,North Indian,Bangalore,4.9,AGNT045,42.0,3.6
+ORD0896,CUST099,REST025,2026-02-28 23:41:00,1041.95,COD,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 25,Desserts,Delhi,4.3,AGNT050,28.0,11.7
+ORD0897,CUST100,REST025,2026-06-11 12:03:00,470.02,Debit Card,Delivered,Customer 100,Mumbai,2025-08-20,Restaurant 25,Desserts,Delhi,4.3,AGNT031,47.0,9.6
+ORD0898,CUST070,REST021,2026-05-25 04:20:00,677.52,Credit Card,Delivered,Customer 70,Mumbai,2025-01-30,Restaurant 21,South Indian,Mumbai,4.1,AGNT045,29.0,1.6
+ORD0899,CUST007,REST027,2026-06-22 23:25:00,1169.59,Net Banking,Cancelled,Customer 7,Chennai,2025-10-26,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0900,CUST065,REST029,2026-01-24 07:27:00,454.27,Credit Card,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 29,North Indian,Bangalore,4.9,AGNT009,41.0,10.3
+ORD0901,CUST017,REST018,2026-03-28 02:30:00,750.01,Net Banking,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 18,South Indian,Delhi,4.9,AGNT014,22.0,6.5
+ORD0902,CUST052,REST013,2026-03-09 02:25:00,676.91,Credit Card,Delivered,Customer 52,Hyderabad,2025-11-24,Restaurant 13,South Indian,Delhi,4.2,AGNT010,63.0,4.5
+ORD0903,CUST062,REST027,2026-05-24 06:31:00,565.08,Credit Card,Cancelled,Customer 62,Chennai,2025-11-03,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0904,CUST072,REST028,2026-06-07 23:33:00,408.56,Debit Card,Delivered,Customer 72,Chennai,2025-10-18,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT041,35.0,3.3
+ORD0905,CUST100,REST002,2026-04-21 10:43:00,1120.34,UPI,Delivered,Customer 100,Mumbai,2025-08-20,Restaurant 2,North Indian,Hyderabad,4.8,AGNT018,22.0,4.3
+ORD0906,CUST086,REST028,2026-04-16 13:23:00,515.72,Debit Card,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT034,44.0,9.0
+ORD0907,CUST077,REST027,2026-06-17 00:49:00,470.06,Net Banking,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 27,North Indian,Delhi,3.7,AGNT029,22.0,5.9
+ORD0908,CUST057,REST024,2026-06-09 04:28:00,197.12,Credit Card,Delivered,Customer 57,Chennai,2025-07-11,Restaurant 24,Biryani,Hyderabad,4.9,AGNT027,48.0,8.1
+ORD0909,CUST088,REST022,2026-04-06 04:48:00,914.91,UPI,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT016,23.0,4.1
+ORD0910,CUST095,REST017,2026-01-14 07:39:00,1123.07,UPI,Delivered,Customer 95,Delhi,2025-12-10,Restaurant 17,North Indian,Chennai,4.0,AGNT012,46.0,9.4
+ORD0911,CUST044,REST008,2026-06-27 03:19:00,622.56,Debit Card,Delivered,Customer 44,Chennai,2025-01-02,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT040,63.0,7.1
+ORD0912,CUST027,REST012,2026-07-09 17:13:00,363.99,Debit Card,Cancelled,Customer 27,Bangalore,2025-08-28,Restaurant 12,South Indian,Delhi,3.7,,,
+ORD0913,CUST071,REST019,2026-05-04 19:46:00,1191.92,COD,Delivered,Customer 71,Bangalore,2025-05-04,Restaurant 19,South Indian,Bangalore,3.9,AGNT045,38.0,9.8
+ORD0914,CUST075,REST016,2026-06-19 16:02:00,418.23,Debit Card,Delivered,Customer 75,Hyderabad,2025-09-06,Restaurant 16,South Indian,Chennai,3.6,AGNT003,60.0,2.9
+ORD0915,CUST026,REST027,2026-06-28 19:17:00,205.74,UPI,Delivered,Customer 26,Hyderabad,2025-11-02,Restaurant 27,North Indian,Delhi,3.7,AGNT039,33.0,6.0
+ORD0916,CUST050,REST004,2026-06-19 08:42:00,1044.69,UPI,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 4,South Indian,Mumbai,4.7,AGNT012,50.0,11.1
+ORD0917,CUST003,REST017,2026-03-16 20:24:00,392.73,Net Banking,Delivered,Customer 3,Bangalore,2025-10-03,Restaurant 17,North Indian,Chennai,4.0,AGNT046,61.0,10.9
+ORD0918,CUST091,REST002,2026-01-26 10:31:00,1060.11,UPI,Cancelled,Customer 91,Mumbai,2025-04-13,Restaurant 2,North Indian,Hyderabad,4.8,,,
+ORD0919,CUST024,REST004,2026-02-20 16:29:00,738.72,UPI,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 4,South Indian,Mumbai,4.7,AGNT032,17.0,11.5
+ORD0920,CUST032,REST021,2026-05-16 09:21:00,664.43,UPI,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 21,South Indian,Mumbai,4.1,AGNT040,20.0,6.9
+ORD0921,CUST045,REST021,2026-06-25 11:22:00,806.49,Net Banking,Delivered,Customer 45,Delhi,2025-05-15,Restaurant 21,South Indian,Mumbai,4.1,AGNT006,35.0,8.7
+ORD0922,CUST036,REST008,2026-01-16 20:16:00,1072.61,Net Banking,Delivered,Customer 36,Chennai,2025-05-17,Restaurant 8,Burgers & Pizza,Chennai,4.7,AGNT041,46.0,11.4
+ORD0923,CUST036,REST002,2026-02-27 04:21:00,1092.03,UPI,Delivered,Customer 36,Chennai,2025-05-17,Restaurant 2,North Indian,Hyderabad,4.8,AGNT020,22.0,6.1
+ORD0924,CUST094,REST004,2026-04-08 16:43:00,793.07,COD,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 4,South Indian,Mumbai,4.7,AGNT023,39.0,9.6
+ORD0925,CUST031,REST026,2026-05-27 04:27:00,1169.06,Debit Card,Cancelled,Customer 31,Bangalore,2025-01-06,Restaurant 26,Chinese,Mumbai,4.5,,,
+ORD0926,CUST058,REST027,2026-05-19 04:13:00,835.1,Net Banking,Cancelled,Customer 58,Mumbai,2025-03-24,Restaurant 27,North Indian,Delhi,3.7,,,
+ORD0927,CUST088,REST005,2026-02-21 04:19:00,872.96,Credit Card,Cancelled,Customer 88,Delhi,2025-04-19,Restaurant 5,Biryani,Delhi,4.3,,,
+ORD0928,CUST056,REST013,2026-07-17 04:41:00,1129.68,Debit Card,Delivered,Customer 56,Chennai,2025-03-20,Restaurant 13,South Indian,Delhi,4.2,AGNT027,33.0,9.0
+ORD0929,CUST009,REST030,2026-05-23 17:46:00,274.31,Credit Card,Delivered,Customer 9,Chennai,2025-07-05,Restaurant 30,Desserts,Delhi,4.3,AGNT001,44.0,6.9
+ORD0930,CUST094,REST002,2026-01-08 10:56:00,1171.54,Debit Card,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 2,North Indian,Hyderabad,4.8,AGNT036,53.0,2.2
+ORD0931,CUST057,REST001,2026-07-10 20:59:00,925.26,Credit Card,Delivered,Customer 57,Chennai,2025-07-11,Restaurant 1,South Indian,Hyderabad,3.8,AGNT016,62.0,5.1
+ORD0932,CUST014,REST028,2026-02-03 05:01:00,950.57,Net Banking,Cancelled,Customer 14,Chennai,2025-02-16,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD0933,CUST035,REST007,2026-06-05 18:39:00,392.46,Credit Card,Delivered,Customer 35,Bangalore,2025-10-02,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT013,34.0,5.7
+ORD0934,CUST088,REST030,2026-01-07 11:05:00,872.55,Credit Card,Delivered,Customer 88,Delhi,2025-04-19,Restaurant 30,Desserts,Delhi,4.3,AGNT008,58.0,9.6
+ORD0935,CUST065,REST022,2026-06-04 15:45:00,832.05,COD,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT034,43.0,6.1
+ORD0936,CUST063,REST013,2026-05-02 04:10:00,352.92,COD,Delivered,Customer 63,Delhi,2025-06-15,Restaurant 13,South Indian,Delhi,4.2,AGNT007,29.0,5.6
+ORD0937,CUST098,REST011,2026-01-04 08:26:00,383.68,Credit Card,Delivered,Customer 98,Mumbai,2025-08-13,Restaurant 11,North Indian,Bangalore,4.7,AGNT040,50.0,1.9
+ORD0938,CUST009,REST010,2026-02-15 14:55:00,797.91,COD,Delivered,Customer 9,Chennai,2025-07-05,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT024,41.0,11.2
+ORD0939,CUST032,REST002,2026-04-20 12:49:00,193.92,COD,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 2,North Indian,Hyderabad,4.8,AGNT049,33.0,3.1
+ORD0940,CUST041,REST028,2026-04-11 19:47:00,750.53,Net Banking,Cancelled,Customer 41,Bangalore,2025-08-11,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD0941,CUST083,REST009,2026-06-30 01:33:00,264.78,UPI,Delivered,Customer 83,Bangalore,2025-03-26,Restaurant 9,North Indian,Chennai,4.9,AGNT035,42.0,7.5
+ORD0942,CUST032,REST010,2026-05-13 17:25:00,1183.02,Net Banking,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT033,27.0,11.8
+ORD0943,CUST050,REST014,2026-05-13 20:03:00,349.34,COD,Delivered,Customer 50,Hyderabad,2025-11-17,Restaurant 14,Desserts,Delhi,3.8,AGNT015,19.0,11.8
+ORD0944,CUST039,REST012,2026-07-18 09:29:00,324.81,Net Banking,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 12,South Indian,Delhi,3.7,AGNT030,45.0,9.9
+ORD0945,CUST007,REST011,2026-06-26 16:57:00,299.35,UPI,Delivered,Customer 7,Chennai,2025-10-26,Restaurant 11,North Indian,Bangalore,4.7,AGNT050,58.0,10.7
+ORD0946,CUST093,REST009,2026-05-09 03:11:00,967.67,Credit Card,Cancelled,Customer 93,Bangalore,2025-06-09,Restaurant 9,North Indian,Chennai,4.9,,,
+ORD0947,CUST051,REST010,2026-04-16 10:28:00,176.16,Net Banking,Delivered,Customer 51,Bangalore,2025-06-02,Restaurant 10,Burgers & Pizza,Delhi,4.8,AGNT041,38.0,11.7
+ORD0948,CUST092,REST021,2026-02-21 14:05:00,412.59,COD,Delivered,Customer 92,Hyderabad,2026-01-01,Restaurant 21,South Indian,Mumbai,4.1,AGNT043,26.0,5.9
+ORD0949,CUST094,REST029,2026-02-01 02:07:00,891.54,UPI,Delivered,Customer 94,Mumbai,2025-07-24,Restaurant 29,North Indian,Bangalore,4.9,AGNT014,15.0,10.8
+ORD0950,CUST068,REST013,2026-07-01 12:46:00,980.62,Net Banking,Cancelled,Customer 68,Bangalore,2025-06-07,Restaurant 13,South Indian,Delhi,4.2,,,
+ORD0951,CUST021,REST011,2026-04-07 17:24:00,196.1,Debit Card,Delivered,Customer 21,Mumbai,2025-08-05,Restaurant 11,North Indian,Bangalore,4.7,AGNT018,58.0,8.9
+ORD0952,CUST073,REST006,2026-06-18 04:10:00,1062.26,COD,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 6,South Indian,Delhi,3.6,AGNT004,46.0,10.7
+ORD0953,CUST007,REST025,2026-04-18 09:19:00,916.67,Debit Card,Delivered,Customer 7,Chennai,2025-10-26,Restaurant 25,Desserts,Delhi,4.3,AGNT013,58.0,9.1
+ORD0954,CUST081,REST024,2026-02-16 03:57:00,288.15,UPI,Delivered,Customer 81,Hyderabad,2025-09-01,Restaurant 24,Biryani,Hyderabad,4.9,AGNT008,21.0,4.8
+ORD0955,CUST080,REST020,2026-07-15 08:00:00,631.57,Net Banking,Delivered,Customer 80,Bangalore,2025-12-04,Restaurant 20,Biryani,Chennai,4.6,AGNT010,40.0,5.1
+ORD0956,CUST001,REST002,2026-06-05 15:15:00,377.72,COD,Delivered,Customer 1,Chennai,2025-05-07,Restaurant 2,North Indian,Hyderabad,4.8,AGNT044,43.0,10.2
+ORD0957,CUST053,REST005,2026-04-24 02:38:00,780.11,Net Banking,Delivered,Customer 53,Bangalore,2025-09-17,Restaurant 5,Biryani,Delhi,4.3,AGNT031,48.0,11.0
+ORD0958,CUST036,REST013,2026-06-08 20:35:00,1011.13,UPI,Delivered,Customer 36,Chennai,2025-05-17,Restaurant 13,South Indian,Delhi,4.2,AGNT032,57.0,7.9
+ORD0959,CUST024,REST022,2026-02-07 01:41:00,516.47,UPI,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 22,Burgers & Pizza,Mumbai,4.1,AGNT012,58.0,3.0
+ORD0960,CUST086,REST018,2026-05-28 19:19:00,497.67,UPI,Delivered,Customer 86,Chennai,2025-11-07,Restaurant 18,South Indian,Delhi,4.9,AGNT011,20.0,5.7
+ORD0961,CUST014,REST003,2026-04-17 05:10:00,855.7,COD,Cancelled,Customer 14,Chennai,2025-02-16,Restaurant 3,North Indian,Delhi,4.1,,,
+ORD0962,CUST089,REST030,2026-06-29 19:36:00,976.67,COD,Delivered,Customer 89,Bangalore,2025-10-04,Restaurant 30,Desserts,Delhi,4.3,AGNT043,22.0,8.3
+ORD0963,CUST096,REST006,2026-05-29 11:59:00,187.63,Debit Card,Delivered,Customer 96,Delhi,2025-11-29,Restaurant 6,South Indian,Delhi,3.6,AGNT003,24.0,10.8
+ORD0964,CUST048,REST023,2026-04-08 02:48:00,598.69,UPI,Cancelled,Customer 48,Delhi,2025-09-17,Restaurant 23,North Indian,Mumbai,4.8,,,
+ORD0965,CUST038,REST026,2026-05-01 04:07:00,879.35,Debit Card,Delivered,Customer 38,Delhi,2025-06-24,Restaurant 26,Chinese,Mumbai,4.5,AGNT004,40.0,8.1
+ORD0966,CUST068,REST016,2026-04-16 16:13:00,880.62,UPI,Cancelled,Customer 68,Bangalore,2025-06-07,Restaurant 16,South Indian,Chennai,3.6,,,
+ORD0967,CUST014,REST006,2026-05-27 23:40:00,705.39,COD,Delivered,Customer 14,Chennai,2025-02-16,Restaurant 6,South Indian,Delhi,3.6,AGNT042,40.0,8.0
+ORD0968,CUST093,REST021,2026-06-26 19:59:00,977.59,COD,Delivered,Customer 93,Bangalore,2025-06-09,Restaurant 21,South Indian,Mumbai,4.1,AGNT024,59.0,6.1
+ORD0969,CUST078,REST012,2026-03-23 08:33:00,753.9,Debit Card,Cancelled,Customer 78,Delhi,2025-03-06,Restaurant 12,South Indian,Delhi,3.7,,,
+ORD0970,CUST017,REST025,2026-06-07 18:31:00,695.69,COD,Delivered,Customer 17,Hyderabad,2025-03-20,Restaurant 25,Desserts,Delhi,4.3,AGNT019,52.0,5.1
+ORD0971,CUST024,REST009,2026-06-06 07:45:00,455.01,UPI,Delivered,Customer 24,Mumbai,2025-07-17,Restaurant 9,North Indian,Chennai,4.9,AGNT014,21.0,10.0
+ORD0972,CUST016,REST027,2026-01-07 14:40:00,986.57,Net Banking,Delivered,Customer 16,Mumbai,2025-02-26,Restaurant 27,North Indian,Delhi,3.7,AGNT028,62.0,8.3
+ORD0973,CUST054,REST028,2026-04-16 01:21:00,517.13,UPI,Delivered,Customer 54,Hyderabad,2025-11-08,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT017,25.0,9.6
+ORD0974,CUST082,REST030,2026-02-21 22:18:00,417.14,Debit Card,Delivered,Customer 82,Mumbai,2025-10-09,Restaurant 30,Desserts,Delhi,4.3,AGNT022,19.0,10.8
+ORD0975,CUST039,REST004,2026-05-10 17:20:00,955.38,COD,Delivered,Customer 39,Chennai,2025-02-27,Restaurant 4,South Indian,Mumbai,4.7,AGNT040,38.0,2.4
+ORD0976,CUST043,REST021,2026-03-29 12:46:00,747.37,Credit Card,Delivered,Customer 43,Bangalore,2025-08-21,Restaurant 21,South Indian,Mumbai,4.1,AGNT049,27.0,7.1
+ORD0977,CUST025,REST028,2026-03-26 10:59:00,856.1,UPI,Delivered,Customer 25,Delhi,2025-07-15,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT030,36.0,5.6
+ORD0978,CUST083,REST029,2026-02-04 15:09:00,808.56,Debit Card,Cancelled,Customer 83,Bangalore,2025-03-26,Restaurant 29,North Indian,Bangalore,4.9,,,
+ORD0979,CUST060,REST003,2026-07-20 13:59:00,929.71,Debit Card,Cancelled,Customer 60,Chennai,2025-09-29,Restaurant 3,North Indian,Delhi,4.1,,,
+ORD0980,CUST073,REST019,2026-07-05 21:20:00,732.94,Credit Card,Delivered,Customer 73,Hyderabad,2025-02-10,Restaurant 19,South Indian,Bangalore,3.9,AGNT003,27.0,9.0
+ORD0981,CUST074,REST026,2026-06-25 10:51:00,1112.0,UPI,Delivered,Customer 74,Mumbai,2025-02-13,Restaurant 26,Chinese,Mumbai,4.5,AGNT007,53.0,10.7
+ORD0982,CUST020,REST007,2026-03-13 00:21:00,1182.8,Credit Card,Cancelled,Customer 20,Hyderabad,2025-12-15,Restaurant 7,Burgers & Pizza,Mumbai,4.9,,,
+ORD0983,CUST074,REST007,2026-06-05 12:11:00,774.95,COD,Delivered,Customer 74,Mumbai,2025-02-13,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT048,40.0,7.0
+ORD0984,CUST041,REST009,2026-07-01 01:17:00,584.56,Credit Card,Delivered,Customer 41,Bangalore,2025-08-11,Restaurant 9,North Indian,Chennai,4.9,AGNT004,22.0,7.2
+ORD0985,CUST048,REST017,2026-04-26 09:13:00,701.36,UPI,Delivered,Customer 48,Delhi,2025-09-17,Restaurant 17,North Indian,Chennai,4.0,AGNT035,29.0,3.7
+ORD0986,CUST048,REST007,2026-07-20 01:49:00,362.2,COD,Delivered,Customer 48,Delhi,2025-09-17,Restaurant 7,Burgers & Pizza,Mumbai,4.9,AGNT012,42.0,6.9
+ORD0987,CUST065,REST016,2026-01-07 15:57:00,675.06,Debit Card,Delivered,Customer 65,Delhi,2025-01-10,Restaurant 16,South Indian,Chennai,3.6,AGNT011,61.0,4.8
+ORD0988,CUST062,REST027,2026-07-07 16:19:00,964.31,UPI,Delivered,Customer 62,Chennai,2025-11-03,Restaurant 27,North Indian,Delhi,3.7,AGNT002,46.0,5.1
+ORD0989,CUST067,REST005,2026-06-23 04:13:00,910.8,COD,Delivered,Customer 67,Mumbai,2025-07-05,Restaurant 5,Biryani,Delhi,4.3,AGNT032,32.0,8.2
+ORD0990,CUST092,REST028,2026-05-14 03:00:00,476.53,COD,Delivered,Customer 92,Hyderabad,2026-01-01,Restaurant 28,Burgers & Pizza,Mumbai,3.9,AGNT033,63.0,1.7
+ORD0991,CUST077,REST004,2026-01-23 10:29:00,1083.65,Net Banking,Delivered,Customer 77,Mumbai,2025-09-30,Restaurant 4,South Indian,Mumbai,4.7,AGNT008,60.0,10.8
+ORD0992,CUST099,REST016,2026-06-18 23:19:00,173.6,COD,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 16,South Indian,Chennai,3.6,AGNT005,64.0,7.2
+ORD0993,CUST027,REST008,2026-03-24 06:12:00,450.9,Debit Card,Cancelled,Customer 27,Bangalore,2025-08-28,Restaurant 8,Burgers & Pizza,Chennai,4.7,,,
+ORD0994,CUST099,REST004,2026-04-23 21:07:00,436.29,Debit Card,Delivered,Customer 99,Bangalore,2025-09-22,Restaurant 4,South Indian,Mumbai,4.7,AGNT016,52.0,4.2
+ORD0995,CUST015,REST014,2026-01-04 19:35:00,689.76,Net Banking,Delivered,Customer 15,Mumbai,2025-01-25,Restaurant 14,Desserts,Delhi,3.8,AGNT047,52.0,10.2
+ORD0996,CUST045,REST027,2026-05-21 10:17:00,298.63,Net Banking,Delivered,Customer 45,Delhi,2025-05-15,Restaurant 27,North Indian,Delhi,3.7,AGNT029,32.0,4.7
+ORD0997,CUST032,REST017,2026-02-13 02:19:00,793.93,Net Banking,Delivered,Customer 32,Bangalore,2025-12-15,Restaurant 17,North Indian,Chennai,4.0,AGNT038,63.0,5.9
+ORD0998,CUST057,REST029,2026-01-13 04:01:00,644.27,UPI,Delivered,Customer 57,Chennai,2025-07-11,Restaurant 29,North Indian,Bangalore,4.9,AGNT038,65.0,6.8
+ORD0999,CUST050,REST028,2026-01-14 02:27:00,561.51,Net Banking,Cancelled,Customer 50,Hyderabad,2025-11-17,Restaurant 28,Burgers & Pizza,Mumbai,3.9,,,
+ORD1000,CUST081,REST006,2026-06-26 22:28:00,797.13,Debit Card,Delivered,Customer 81,Hyderabad,2025-09-01,Restaurant 6,South Indian,Delhi,3.6,AGNT021,56.0,9.2

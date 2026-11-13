@@ -1,0 +1,101 @@
+customer_id,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Customer_Segment
+CUST001,7,4,3134.5699999999997,3,1,1,5,Potential / Regular
+CUST002,20,9,5547.5,2,3,3,8,Loyal Customers
+CUST003,84,5,2957.71,1,1,1,3,At Risk / Hibernating
+CUST004,33,7,4049.9900000000002,2,2,2,6,Potential / Regular
+CUST005,59,6,3055.13,1,1,1,3,At Risk / Hibernating
+CUST006,6,6,3503.92,3,1,1,5,Potential / Regular
+CUST007,6,8,5832.01,3,2,3,8,Loyal Customers
+CUST008,48,4,3221.9700000000003,1,1,1,3,At Risk / Hibernating
+CUST009,49,8,5200.97,1,2,3,6,Potential / Regular
+CUST010,15,7,3896.38,3,2,2,7,Potential / Regular
+CUST011,29,8,5431.19,2,3,3,8,Loyal Customers
+CUST012,9,11,7730.7,3,4,4,11,Champions
+CUST013,41,5,2258.11,1,1,1,3,At Risk / Hibernating
+CUST014,17,9,5535.76,2,3,3,8,Loyal Customers
+CUST015,6,4,3298.11,3,1,1,5,Potential / Regular
+CUST016,32,7,4481.64,2,2,2,6,Potential / Regular
+CUST017,7,13,8059.4800000000005,3,4,4,11,Champions
+CUST018,6,4,3035.96,3,1,1,5,Potential / Regular
+CUST019,46,1,610.08,1,1,1,3,At Risk / Hibernating
+CUST020,124,5,2767.65,1,1,1,3,At Risk / Hibernating
+CUST021,8,6,4718.17,3,1,2,6,Potential / Regular
+CUST022,4,10,4415.92,4,3,2,9,Loyal Customers
+CUST023,2,8,5780.32,4,3,3,10,Champions
+CUST024,24,11,7606.98,2,4,4,10,Champions
+CUST025,12,7,4789.09,3,2,2,7,Potential / Regular
+CUST026,23,4,2419.2799999999997,2,1,1,4,At Risk / Hibernating
+CUST027,25,5,4368.44,2,1,2,5,Potential / Regular
+CUST028,87,3,2348.6400000000003,1,1,1,3,At Risk / Hibernating
+CUST029,4,4,2777.18,4,1,1,6,Potential / Regular
+CUST030,29,7,5076.5199999999995,2,2,2,6,Potential / Regular
+CUST031,37,7,5432.84,1,2,3,6,Potential / Regular
+CUST032,66,12,8293.19,1,4,4,9,Loyal Customers
+CUST033,45,4,3667.7,1,1,1,3,At Risk / Hibernating
+CUST034,30,10,6210.34,2,3,3,8,Loyal Customers
+CUST035,46,7,3910.86,1,2,2,5,Potential / Regular
+CUST036,43,6,5334.73,1,1,3,5,Potential / Regular
+CUST037,16,7,4129.9,3,2,2,7,Potential / Regular
+CUST038,22,16,11432.83,2,4,4,10,Champions
+CUST039,3,20,12360.68,4,4,4,12,Champions
+CUST040,1,8,4677.45,4,3,2,9,Loyal Customers
+CUST041,11,10,7510.139999999999,3,3,4,10,Champions
+CUST042,3,7,3194.66,4,2,1,7,Potential / Regular
+CUST043,58,5,3229.2799999999997,1,1,1,3,At Risk / Hibernating
+CUST044,16,6,5069.18,3,1,2,6,Potential / Regular
+CUST045,2,7,4081.56,4,2,2,8,Loyal Customers
+CUST046,22,9,4845.900000000001,2,3,2,7,Potential / Regular
+CUST047,102,4,2919.1800000000003,1,1,1,3,At Risk / Hibernating
+CUST048,1,7,5170.94,4,2,3,9,Loyal Customers
+CUST049,1,6,4310.87,4,2,2,8,Loyal Customers
+CUST050,2,13,7199.88,4,4,4,12,Champions
+CUST051,41,12,6909.25,1,4,3,8,Loyal Customers
+CUST052,20,7,5457.45,2,2,3,7,Potential / Regular
+CUST053,3,14,8619.710000000001,4,4,4,12,Champions
+CUST054,38,8,5114.76,1,3,2,6,Potential / Regular
+CUST055,105,7,4572.3,1,2,2,5,Potential / Regular
+CUST056,4,9,8507.11,4,3,4,11,Champions
+CUST057,11,7,5183.82,3,2,3,8,Loyal Customers
+CUST058,2,8,5205.33,4,3,3,10,Champions
+CUST059,1,11,6128.91,4,4,3,11,Champions
+CUST060,28,8,4064.48,2,3,2,7,Potential / Regular
+CUST061,1,6,3553.13,4,2,1,7,Potential / Regular
+CUST062,14,8,7149.7,3,3,4,10,Champions
+CUST063,80,8,4984.89,1,3,2,6,Potential / Regular
+CUST064,166,2,1485.7399999999998,1,1,1,3,At Risk / Hibernating
+CUST065,47,9,6083.2699999999995,1,3,3,7,Potential / Regular
+CUST066,2,11,7628.55,4,4,4,12,Champions
+CUST067,4,12,8512.0,4,4,4,12,Champions
+CUST068,17,7,5355.95,2,2,3,7,Potential / Regular
+CUST069,11,9,7031.84,3,3,4,10,Champions
+CUST070,27,10,7051.97,2,3,4,9,Loyal Customers
+CUST071,6,8,6550.37,3,3,3,9,Loyal Customers
+CUST072,11,4,1683.83,3,1,1,5,Potential / Regular
+CUST073,1,10,6613.71,4,4,3,11,Champions
+CUST074,17,8,5147.13,2,3,2,7,Potential / Regular
+CUST075,32,4,1916.24,2,1,1,4,At Risk / Hibernating
+CUST076,10,10,6244.97,3,4,3,10,Champions
+CUST077,1,15,9704.68,4,4,4,12,Champions
+CUST078,5,5,4759.38,4,1,2,7,Potential / Regular
+CUST079,26,9,6100.74,2,3,3,8,Loyal Customers
+CUST080,6,7,4614.46,3,2,2,7,Potential / Regular
+CUST081,24,8,4061.6800000000003,2,3,2,7,Potential / Regular
+CUST082,29,11,7613.53,2,4,4,10,Champions
+CUST083,21,10,5925.15,2,4,3,9,Loyal Customers
+CUST084,5,14,10429.710000000001,4,4,4,12,Champions
+CUST085,24,13,9359.2,2,4,4,10,Champions
+CUST086,9,13,10194.45,3,4,4,11,Champions
+CUST087,10,7,4687.86,3,2,2,7,Potential / Regular
+CUST088,4,15,11983.06,4,4,4,12,Champions
+CUST089,22,6,3583.98,2,2,1,5,Potential / Regular
+CUST090,4,11,7301.08,4,4,4,12,Champions
+CUST091,57,3,1884.01,1,1,1,3,At Risk / Hibernating
+CUST092,1,6,3097.09,4,2,1,7,Potential / Regular
+CUST093,11,8,6392.71,3,3,3,9,Loyal Customers
+CUST094,36,13,9435.8,1,4,4,9,Loyal Customers
+CUST095,4,9,6330.36,4,3,3,10,Champions
+CUST096,13,11,8574.51,3,4,4,11,Champions
+CUST097,36,8,5281.37,1,3,3,7,Potential / Regular
+CUST098,3,7,3292.36,4,2,1,7,Potential / Regular
+CUST099,32,10,7272.18,2,4,4,10,Champions
+CUST100,40,7,4352.04,1,2,2,5,Potential / Regular

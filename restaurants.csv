@@ -1,0 +1,31 @@
+restaurant_id,name,cuisine_type,city,rating
+REST001,Restaurant 1,South Indian,Hyderabad,3.8
+REST002,Restaurant 2,North Indian,Hyderabad,4.8
+REST003,Restaurant 3,North Indian,Delhi,4.1
+REST004,Restaurant 4,South Indian,Mumbai,4.7
+REST005,Restaurant 5,Biryani,Delhi,4.3
+REST006,Restaurant 6,South Indian,Delhi,3.6
+REST007,Restaurant 7,Burgers & Pizza,Mumbai,4.9
+REST008,Restaurant 8,Burgers & Pizza,Chennai,4.7
+REST009,Restaurant 9,North Indian,Chennai,4.9
+REST010,Restaurant 10,Burgers & Pizza,Delhi,4.8
+REST011,Restaurant 11,North Indian,Bangalore,4.7
+REST012,Restaurant 12,South Indian,Delhi,3.7
+REST013,Restaurant 13,South Indian,Delhi,4.2
+REST014,Restaurant 14,Desserts,Delhi,3.8
+REST015,Restaurant 15,Desserts,Chennai,4.1
+REST016,Restaurant 16,South Indian,Chennai,3.6
+REST017,Restaurant 17,North Indian,Chennai,4.0
+REST018,Restaurant 18,South Indian,Delhi,4.9
+REST019,Restaurant 19,South Indian,Bangalore,3.9
+REST020,Restaurant 20,Biryani,Chennai,4.6
+REST021,Restaurant 21,South Indian,Mumbai,4.1
+REST022,Restaurant 22,Burgers & Pizza,Mumbai,4.1
+REST023,Restaurant 23,North Indian,Mumbai,4.8
+REST024,Restaurant 24,Biryani,Hyderabad,4.9
+REST025,Restaurant 25,Desserts,Delhi,4.3
+REST026,Restaurant 26,Chinese,Mumbai,4.5
+REST027,Restaurant 27,North Indian,Delhi,3.7
+REST028,Restaurant 28,Burgers & Pizza,Mumbai,3.9
+REST029,Restaurant 29,North Indian,Bangalore,4.9
+REST030,Restaurant 30,Desserts,Delhi,4.3
